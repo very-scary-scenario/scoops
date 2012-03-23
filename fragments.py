@@ -26,7 +26,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Kong', 'Attack', 'Race', 'Planet', 'Creed', 'Men', 'Honor', 'Radio', 'Trail', 'Skull', 'Bowl',
     'Girls', 'Man', 'Revolution', 'Stage', 'Party', '☆  Star', 'Boy', 'Void', 'Mesa', 'Tower',
     'Journey', 'Flow', 'Shooter', 'Eden', 'Monsters', 'Wings', 'Birds', 'Big Planet', 'Shoujo',
-    'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Shadows']
+    'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Shadows', 'Soccer']
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
     '%s: Episode Three', 'Imagine™ %s', '%s HD', '%s with Friends', '%s: Anniversary',
