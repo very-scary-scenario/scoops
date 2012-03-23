@@ -4,7 +4,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Zero', 'Lincoln', 'Rock', 'Guitar', 'Brütal', 'FIFA', 'Madden', 'Street', 'Full', 'Twisted',
     'Dungeon', 'Team', 'Hard', "Mirror's", 'Love', 'Saints', 'Dragon', 'Black', 'L.A.', 'Mass',
     'Far', 'Night', 'Solar', 'Bad', 'Battle', 'Rhythm', 'Renegade', 'Puzzle', 'Mad', 'Geometry',
-    'AI', 'Blueberry', 'Beat', 'Red', 'Monster', 'Bit', 'Beat', 'Zombie', 'Tentacle', 'Indigo',
+    'AI', 'Blueberry', 'Red', 'Monster', 'Bit', 'Beat', 'Zombie', 'Tentacle', 'Indigo', 'Cool'
     'Alien', 'Mr.', 'Tomb', 'Universe', 'Swarm', 'Frozen', 'Hammer', 'Killing', 'Rock', 'Bullet',
     'Divine', 'Beyond', 'Cave', 'Counter', 'Missile', 'Crayon', 'Dangerous', 'Darkest', 'Day of',
     'Call of', 'Alpha', 'Prime', 'Earth', 'Chrono', 'Grand', 'Advance', 'Super', 'Total', 'Deadly',
@@ -12,7 +12,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     "Assassin's", 'Warp', 'War', 'Medal of', 'Jet Set', 'Oregon', 'Mercenary', 'Tecmo', 'Mega',
     'Dance Dance', 'Dancing', 'Party', 'S.O.S.', 'Lucky', 'Meat', 'Tiny', 'Face', 'Everyday',
     'PixelJunk', 'Angry', 'Little', 'Katawa', 'King of', 'Resident', 'Mario', 'From', 'Big', 'Jet',
-    'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy']
+    'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Baby']
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
     'Life', 'Death', 'Space', 'Blade', 'Brigade', 'Mania', 'Wing', 'Flame', 'F.O.R.C.E.', 'Band',
@@ -27,7 +27,8 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Kong', 'Attack', 'Race', 'Planet', 'Creed', 'Men', 'Honor', 'Radio', 'Trail', 'Skull', 'Bowl',
     'Girls', 'Man', 'Revolution', 'Stage', 'Party', '☆  Star', 'Boy', 'Void', 'Mesa', 'Tower',
     'Journey', 'Flow', 'Shooter', 'Eden', 'Monsters', 'Wings', 'Birds', 'Big Planet', 'Shoujo',
-    'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Soccer', 'Survivor', 'Tensei', 'Tag', 'Fiction']
+    'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Soccer', 'Survivor', 'Tensei', 'Tag', 'Fiction',
+    'Wrestling', 'Agents']
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
     '%s: Episode Three', 'Imagine™ %s', '%s HD', '%s with Friends', '%s: Anniversary',
@@ -46,7 +47,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     '%s: The Movie: The Game', '%s Fever', '%s Tricky', '%s: Future', 'Where in the World is %s?',
     '%s: Blood on the Sand', '%s: Mercenaries', '%s!', '%s!?', '%s Euromix', '%s Chronicles',
     '%s: Elite', 'Theatrhythm: %s', '%s Rio', '%s Legends', '%s Seasons', '%s: IN SPACE!',
-    '%s: Over the Road Racing', '%s Gemini']
+    '%s: Over the Road Racing', '%s Gemini', 'Elite %s']
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
     'Bioware', 'Bethesda', 'Valve', 'From Software', 'Double Fine', 'Gameloft', 'Zynga', '22 Cans',
