@@ -59,7 +59,7 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
     'Aksys Games', 'EA Sports', 'PopCap', 'Arc System Works', 'Data East', 'Rare',
     'The Game Factory', 'MicroProse', 'id', 'Meridian4', 'Digital Leisure', 'Taito', 'SNK Playmore',
     'Midway', 'Sierra', 'Banpresto', 'Maxis', 'HAL Laboratory', 'Hudson', 'Sonic Team',
-    'Vicarious Visions', 'Team17', 'Acclaim', 'SunSoft', 'Crytek']
+    'Vicarious Visions', 'Team17', 'Acclaim', 'SunSoft', 'Crytek', 'Rovio']
 
 story = [
     'Our sources inform us that <company> are aiming to ship <game> next holiday season.',
