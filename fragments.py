@@ -5,14 +5,14 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Dungeon', 'Team', 'Hard', "Mirror's", 'Love', 'Saints', 'Dragon', 'Black', 'L.A.', 'Mass',
     'Far', 'Night', 'Solar', 'Bad', 'Battle', 'Rhythm', 'Renegade', 'Puzzle', 'Mad', 'Geometry',
     'AI', 'Blueberry', 'Red', 'Monster', 'Bit', 'Beat', 'Zombie', 'Tentacle', 'Indigo', 'Cool'
-    'Alien', 'Mr.', 'Tomb', 'Universe', 'Swarm', 'Frozen', 'Hammer', 'Killing', 'Rock', 'Bullet',
+    'Alien', 'Mr.', 'Tomb', 'Universe', 'Swarm', 'Frozen', 'Hammer', 'Killing',, 'Bullet', 'Baby',
     'Divine', 'Beyond', 'Cave', 'Counter', 'Missile', 'Crayon', 'Dangerous', 'Darkest', 'Day of',
     'Call of', 'Alpha', 'Prime', 'Earth', 'Chrono', 'Grand', 'Advance', 'Super', 'Total', 'Deadly',
     'Desert', 'Unreal', 'Doki Doki', 'Chu Chu', 'Poker', 'Gal', 'Rock of', 'King', 'Donkey',
     "Assassin's", 'Warp', 'War', 'Medal of', 'Jet Set', 'Oregon', 'Mercenary', 'Tecmo', 'Mega',
     'Dance Dance', 'Dancing', 'Party', 'S.O.S.', 'Lucky', 'Meat', 'Tiny', 'Face', 'Everyday',
     'PixelJunk', 'Angry', 'Little', 'Katawa', 'King of', 'Resident', 'Mario', 'From', 'Big', 'Jet',
-    'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Baby']
+    'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy']
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
     'Life', 'Death', 'Space', 'Blade', 'Brigade', 'Mania', 'Wing', 'Flame', 'F.O.R.C.E.', 'Band',
