@@ -12,22 +12,22 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     "Assassin's", 'Warp', 'War', 'Medal of', 'Jet Set', 'Oregon', 'Mercenary', 'Tecmo', 'Mega',
     'Dance Dance', 'Dancing', 'Party', 'S.O.S.', 'Lucky', 'Meat', 'Tiny', 'Face', 'Everyday',
     'PixelJunk', 'Angry', 'Little', 'Katawa', 'King of', 'Resident', 'Mario', 'From', 'Big', 'Jet',
-    'Ace']
+    'Ace', 'End of', 'Space', 'Metal']
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
     'Life', 'Death', 'Space', 'Blade', 'Brigade', 'Mania', 'Wing', 'Flame', 'F.O.R.C.E.', 'Band',
-    'Hero', 'Legend', 'Football', 'Tentacle', 'Mansion', 'Heroes', 'Hour', 'Auto', 'Metal',
-    'Forge', 'Fortress', 'Reset', 'Edge', 'Pachinko', 'Plus', 'Arena', 'Row', 'Descent', 'Noire',
-    'Ops', 'Age', 'Effect', 'Cause', 'Sky', 'Company', 'Paradise', 'Heaven', 'Agent', 'World',
-    'Wars', 'War', 'Garden', 'Hazard', 'Faction', 'Trucks', 'Trip', 'Wave', 'Vision', 'Driver',
-    'Castle', 'Prophecy', 'Sight', 'Swarm', 'Raider', 'Sandbox', 'Smasher', 'Synapse', 'Fight',
-    'Floor', 'Candy', 'Supremacy', 'Land', 'Story', 'Strike', 'Command', 'Physics',
+    'Hero', 'Legend', 'Football', 'Tentacle', 'Mansion', 'Heroes', 'Hour', 'Auto', 'Forge',
+    'Fortress', 'Reset', 'Edge', 'Pachinko', 'Plus', 'Arena', 'Row', 'Descent', 'Noire', 'Ops',
+    'Age', 'Effect', 'Cause', 'Sky', 'Company', 'Paradise', 'Heaven', 'Agent', 'World', 'Wars',
+    'War', 'Garden', 'Hazard', 'Faction', 'Trucks', 'Trip', 'Wave', 'Vision', 'Driver', 'Castle',
+    'Prophecy', 'Sight', 'Swarm', 'Raider', 'Sandbox', 'Smasher', 'Synapse', 'Fight', 'Gear',
+    'Floor', 'Candy', 'Supremacy', 'Land', 'Story', 'Strike', 'Command', 'Physics', 'Shadows',
     'High-School Girls', 'Days', 'Messiah', 'Duty', 'Trigger', 'Mario', 'Horses', 'Orchestra',
     'Overture', 'City', 'Premonition', 'Tournament', 'Panic', 'Rocket', 'Night', 'Gun', 'Ages',
     'Kong', 'Attack', 'Race', 'Planet', 'Creed', 'Men', 'Honor', 'Radio', 'Trail', 'Skull', 'Bowl',
     'Girls', 'Man', 'Revolution', 'Stage', 'Party', '☆  Star', 'Boy', 'Void', 'Mesa', 'Tower',
     'Journey', 'Flow', 'Shooter', 'Eden', 'Monsters', 'Wings', 'Birds', 'Big Planet', 'Shoujo',
-    'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Shadows', 'Soccer']
+    'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Soccer']
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
     '%s: Episode Three', 'Imagine™ %s', '%s HD', '%s with Friends', '%s: Anniversary',
