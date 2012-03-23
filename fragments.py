@@ -12,7 +12,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     "Assassin's", 'Warp', 'War', 'Medal of', 'Jet Set', 'Oregon', 'Mercenary', 'Tecmo', 'Mega',
     'Dance Dance', 'Dancing', 'Party', 'S.O.S.', 'Lucky', 'Meat', 'Tiny', 'Face', 'Everyday',
     'PixelJunk', 'Angry', 'Little', 'Katawa', 'King of', 'Resident', 'Mario', 'From', 'Big', 'Jet',
-    'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy']
+    'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Pocket']
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
     'Life', 'Death', 'Space', 'Blade', 'Brigade', 'Mania', 'Wing', 'Flame', 'F.O.R.C.E.', 'Band',
@@ -47,7 +47,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     '%s: The Movie: The Game', '%s Fever', '%s Tricky', '%s: Future', 'Where in the World is %s?',
     '%s: Blood on the Sand', '%s: Mercenaries', '%s!', '%s!?', '%s Euromix', '%s Chronicles',
     '%s: Elite', 'Theatrhythm: %s', '%s Rio', '%s Legends', '%s Seasons', '%s: IN SPACE!',
-    '%s: Over the Road Racing', '%s Gemini', 'Elite %s']
+    '%s: Over the Road Racing', '%s Gemini', 'Elite %s', 'Area 51: %s']
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
     'Bioware', 'Bethesda', 'Valve', 'From Software', 'Double Fine', 'Gameloft', 'Zynga', '22 Cans',
