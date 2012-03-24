@@ -13,12 +13,12 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Dance Dance', 'Dancing', 'Party', 'S.O.S.', 'Lucky', 'Meat', 'Tiny', 'Face', 'Everyday',
     'PixelJunk', 'Angry', 'Little', 'Katawa', 'King of', 'Resident', 'Mario', 'From', 'Big', 'Jet',
     'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Pocket', 'Royal',
-    'Ghost', 'Pipe', 'Tetris', 'World of', 'Old']
+    'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename']
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
     'Life', 'Death', 'Space', 'Blade', 'Brigade', 'Mania', 'Wing', 'Flame', 'F.O.R.C.E.', 'Band',
     'Hero', 'Legend', 'Football', 'Tentacle', 'Mansion', 'Heroes', 'Hour', 'Auto', 'Forge',
-    'Fortress', 'Reset', 'Edge', 'Pachinko', 'Plus', 'Arena', 'Row', 'Descent', 'Noire', 'Ops',
+    'Fortress', 'Reset', 'Edge', 'Pachinko', 'Plus', 'Arena', 'Descent', 'Noire', 'Ops',
     'Age', 'Effect', 'Cause', 'Sky', 'Company', 'Paradise', 'Heaven', 'Agent', 'World', 'Wars',
     'War', 'Garden', 'Hazard', 'Faction', 'Trucks', 'Trip', 'Wave', 'Vision', 'Driver', 'Castle',
     'Prophecy', 'Sight', 'Swarm', 'Raider', 'Sandbox', 'Smasher', 'Synapse', 'Fight', 'Gear',
@@ -49,7 +49,8 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     '%s: Blood on the Sand', '%s: Mercenaries', '%s!', '%s!?', '%s Euromix', '%s Chronicles',
     '%s: Elite', 'Theatrhythm: %s', '%s: Rio', '%s Legends', '%s: Seasons', '%s in SPACE!',
     '%s: Over the Road Racing', '%s Gemini', 'Elite %s', 'Area 51: %s', '%s: Touch',
-    'No One Can Stop %s', '%s: Feel the Magic', 'Knights of The']
+    'No One Can Stop %s', '%s: Feel the Magic', 'Knights of The %s', 'Codename %s',
+    '%s: Blood Money']
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
     'Bioware', 'Bethesda', 'Valve', 'From Software', 'Double Fine', 'Gameloft', 'Zynga', '22 Cans',
