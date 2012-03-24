@@ -15,7 +15,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Pocket', 'Royal',
     'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real', 'Heavy', 'Dance',
     'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme', 'Castle', 'Wind-up',
-    'Office', 'Dino', 'Galactic', 'The', 'North American', 'Project', 'Ninja'
+    'Office', 'Dino', 'Galactic', 'The', 'North American', 'Project', 'Ninja', 'Mortal'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -35,7 +35,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Wrestling', 'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Simulator',
     'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League', 'Crashers', 'Darkness',
     'Knight', 'Championship', 'Giraffe', 'Yeti', 'D-Day', 'Run', 'Core', 'Fishing', 'Adventure',
-    'Adventures', 'Hunter', 'Hunting', 'Hitman', 'Friends', 'Rub', 'Racing', 'Gaiden'
+    'Adventures', 'Hunter', 'Hunting', 'Hitman', 'Friends', 'Rub', 'Racing', 'Gaiden', 'Kombat'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
