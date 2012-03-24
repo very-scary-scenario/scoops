@@ -30,7 +30,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Journey', 'Flow', 'Shooter', 'Eden', 'Monsters', 'Wings', 'Birds', 'Big Planet', 'Shoujo',
     'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Soccer', 'Survivor', 'Tensei', 'Tag', 'Fiction',
     'Wrestling', 'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Simulator',
-    'Central', 'Karaoke']
+    'Central', 'Karaoke', 'Empire']
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
     '%s: Episode Three', 'Imagine™ %s', '%s HD', '%s with Friends', '%s: Anniversary',
