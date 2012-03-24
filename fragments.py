@@ -16,7 +16,12 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real', 'Heavy', 'Dance',
     'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme', 'Castle', 'Wind-up',
     'Office', 'Dino', 'Galactic', 'The', 'North American', 'Project', 'Ninja', 'Mortal',
-    'Calamity', 'Continuum', 'Otomedius', 'Test', 'Men of', 'Fortune'
+    'Calamity', 'Continuum', 'Otomedius', 'Test', 'Men of', 'Fortune', 'NASCAR', 'Touhou', 'Ridge',
+    'Rainbow', 'Sim', 'Guilty', 'Silent', 'Fire', 'MLB', 'Wing', 'River City', 'Fatal', 'Samurai',
+    'Hot', 'Pet', 'Adventure', 'Thunder', 'Lode', 'Incredible', 'Micro', 'Golden', 'Raving',
+    'Family', 'Close', 'Time', 'Jagged', 'Original', 'Electric', 'Rave', 'Wild', 'Red Dead',
+    'River', 'Burger', 'High-Res', 'Glory', 'Hidden', 'Loaded', 'Rugby', 'Killer', 'Power',
+    'X', 'Dr.', 'Carnage', 'Kingdom', 'Ogre', 'Pokémon', 'Moto', 'Elevator', 'Music', 'Curious'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -33,11 +38,16 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Girls', 'Man', 'Revolution', 'Stage', 'Party', '☆  Star', 'Boy', 'Void', 'Mesa', 'Tower',
     'Journey', 'Flow', 'Shooter', 'Eden', 'Monsters', 'Wings', 'Birds', 'Big Planet', 'Shoujo',
     'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Soccer', 'Survivor', 'Tensei', 'Tag', 'Fiction',
-    'Wrestling', 'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Simulator',
+    'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Simulator', 'Crisis',
     'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League', 'Crashers', 'Darkness',
     'Knight', 'Championship', 'Giraffe', 'Yeti', 'D-Day', 'Run', 'Core', 'Fishing', 'Adventure',
     'Adventures', 'Hunter', 'Hunting', 'Hitman', 'Friends', 'Rub', 'Racing', 'Gaiden', 'Kombat',
-    'Shift', 'Excellent', 'Street'
+    'Shift', 'Excellent', 'Street', 'NFL', 'Quest', 'Hill', 'Emblem', 'Invaders', 'Commander',
+    'Fury', 'Ransom', 'Showdown', 'Recon', 'Shots', 'Brothers', 'Wolfenstein', 'Shop', 'Sports',
+    'Mission', 'Front', 'Island', 'Jam', 'Runner', 'Machines', 'Machine', 'Breed', 'Lair', 'Axe',
+    'Rabbids', 'Feud', 'Alliance', 'Defense Force', 'Kings', 'Eye', 'Master', 'Revolver', 'Time',
+    'Raid', 'Filter', 'Soldier', 'Army', 'Instinct', 'Hearts', 'Annihilation', 'Stadium', 'Action',
+    'Village', 'Box'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
@@ -45,23 +55,28 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     'The Legend of %s', '%s: Evolution', 'Call of Duty: %s', '%s: Redemption', '%s United',
     '%s! - The Quest for Gravity', '%s!!! - A Reckless Disregard for Gravity', '%s: Hot Pursuit',
     '%s: Fusion', '%s: Second Edition', '%s: Make Blooms Not War', '%s: Armageddon', '%s: Guerrilla',
-    '%s Nitro', '%s: Vice City', 'Return to %s', '%s at the Inventory', '%s: Deathmatch',
+    '%s Nitro', '%s: Vice City', 'Return to %s', '%s at the Inventory', '%s: Deathmatch', '%s 11'
     '%s: 1942', 'IL-2 Sturmovik: %s', '%s+', '%s: Condition Zero', '%s Deluxe', '%s in Trouble',
     '%s of Might and Magic', '%s Classic', '%s: Invisible War', '%s: Source', '%s II', '%s III',
-    '%s XIV', '%s DS', '%s 64', '%s: Advanced Pack', '%s: Team Arena', '%s: Arena',
+    '%s XIV', '%s DS', '%s 64', '%s: Advanced Pack', '%s: Team Arena', '%s: Arena', '%s 6'
     '%s: Ground Zero', "%s: An Item Shop's Tale", '%s 2013', '%s 2048', '%s: Shadow of Chernobyl',
     '%s: Call of Pripyat', "Sid Meier's %s", '%s: Beyond the Sword', '%s: Warlords', 'Shogun: %s',
-    '%s: The Ultimate in Mayonaka Arena', 'The Wonderful %s', '%s 2004', '%s 3D',
-    '%s: Terror from the Deep', "Peter Jackson's %s: The Official Game of the Movie",
+    '%s: The Ultimate in Mayonaka Arena', 'The Wonderful %s', '%s 2004', '%s 3D', '%s IV', '%s V',
+    '%s: Terror from the Deep', "Peter Jackson's %s: The Official Game of the Movie", '%s VII'
     '%s: Championship Edition', 'Super %s', '%s: Total War', '%s: Revelations', '%s: The Game',
     '%s: The Movie: The Game', '%s Fever', '%s: Tricky', '%s: Future', 'Where in the World is %s?',
     '%s: Blood on the Sand', '%s: Mercenaries', '%s!', '%s!?', '%s Euromix', '%s Chronicles',
     '%s: Elite', 'Theatrhythm: %s', '%s: Rio', '%s Legends', '%s: Seasons', '%s in SPACE!',
     '%s: Over the Road Racing', '%s Gemini', 'Elite %s', 'Area 51: %s', '%s: Touch',
-    'No One Can Stop %s', 'Feel the Magic: %s', 'Knights of %s', 'Codename: %s',
+    'No One Can Stop %s', 'Feel the Magic: %s', 'Knights of %s', 'Codename: %s', "%s '13"
     '%s: Blood Money', '%s Rearmed', '%s: Peace Walker', '%s Remix', '%s ZX', 'Extreme %s',
     '%s Extreme', 'I Wanna Be the %s', 'Escape from %s', 'Batman: %s', "Cabela's %s", "%s: XX/XY",
-    'Race Driver: %s', 'BlazBlue: %s', 'Need for Speed: %s', '%s Unlimited'
+    'Race Driver: %s', 'BlazBlue: %s', 'Need for Speed: %s', '%s Unlimited', '%s Z', "NBA %s '13",
+    "Tom Clancy's %s", 'Spider-Man %s', "Dynasty Warriors: %s", "James Bond %s", '%s Golf',
+    "Ratchet & Clank: %s", 'Heroes of %s', 'Dora the Explorer: %s', 'Duke Nukem: %s', 'WWE: %s',
+    'Littlest %s', '%s Resort', 'LEGO %s', '%s Online', 'Command & Conquer: %s', '%s: Impact',
+    'Rayman: %s', 'Kane & Lynch: %s', '%s Wrestling', '%s Toshinden', 'Ghost Recon: %s',
+    '%s: Tactics', 'Virtual %s', 'Professor Layton and the %s'
     ]
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
