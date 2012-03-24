@@ -13,7 +13,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Dance Dance', 'Dancing', 'Party', 'S.O.S.', 'Lucky', 'Meat', 'Tiny', 'Face', 'Everyday',
     'PixelJunk', 'Angry', 'Little', 'Katawa', 'King of', 'Resident', 'Mario', 'From', 'Big', 'Jet',
     'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Pocket', 'Royal',
-    'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename:', 'Tekken', 'Real', 'Heavy', 'Dance',
+    'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real', 'Heavy', 'Dance',
     'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme']
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
