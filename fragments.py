@@ -50,7 +50,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     '%s: Blood on the Sand', '%s: Mercenaries', '%s!', '%s!?', '%s Euromix', '%s Chronicles',
     '%s: Elite', 'Theatrhythm: %s', '%s: Rio', '%s Legends', '%s: Seasons', '%s in SPACE!',
     '%s: Over the Road Racing', '%s Gemini', 'Elite %s', 'Area 51: %s', '%s: Touch',
-    'No One Can Stop %s', '%s: Feel the Magic', 'Knights of The %s', 'Codename %s',
+    'No One Can Stop %s', '%s: Feel the Magic', 'Knights of The %s', 'Codename: %s',
     '%s: Blood Money']
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
