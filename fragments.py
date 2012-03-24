@@ -13,12 +13,12 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Dance Dance', 'Dancing', 'Party', 'S.O.S.', 'Lucky', 'Meat', 'Tiny', 'Face', 'Everyday',
     'PixelJunk', 'Angry', 'Little', 'Katawa', 'King of', 'Resident', 'Mario', 'From', 'Big', 'Jet',
     'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Pocket', 'Royal',
-    'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real']
+    'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename:', 'Tekken', 'Real', 'Heavy']
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
     'Life', 'Death', 'Space', 'Blade', 'Brigade', 'Mania', 'Wing', 'Flame', 'F.O.R.C.E.', 'Band',
     'Hero', 'Legend', 'Football', 'Tentacle', 'Mansion', 'Heroes', 'Hour', 'Auto', 'Forge',
-    'Fortress', 'Reset', 'Edge', 'Pachinko', 'Plus', 'Arena', 'Descent', 'Noire', 'Ops',
+    'Fortress', 'Reset', 'Edge', 'Pachinko', 'Plus', 'Arena', 'Descent', 'Noire', 'Ops', 'Rain',
     'Age', 'Effect', 'Sky', 'Company', 'Paradise', 'Heaven', 'Agent', 'World', 'Wars', 'Flight',
     'War', 'Garden', 'Hazard', 'Faction', 'Trucks', 'Trip', 'Wave', 'Vision', 'Driver', 'Castle',
     'Prophecy', 'Sight', 'Swarm', 'Raider', 'Sandbox', 'Smasher', 'Synapse', 'Fight', 'Gear',
@@ -60,10 +60,10 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
     'Epic Games', 'Disney Interactive', 'Ubisoft', '1C Company', 'Konami', 'THQ', 'Atari', 'Capcom',
     'Namco Bandai', 'Platinum Games', 'Square Enix', 'Codemasters', 'Majesco', 'Atlus', 'Eidos',
     '5th Cell', 'GRIN', 'KOEI', 'Take-Two', 'Tecmo', 'Pony Canyon', 'ValuSoft', '2K Games',
-    'Aksys Games', 'EA Sports', 'PopCap', 'Arc System Works', 'Data East', 'Rare',
+    'Aksys Games', 'EA Sports', 'PopCap', 'Arc System Works', 'Data East', 'Rare', 'Videlectrix',
     'The Game Factory', 'MicroProse', 'id', 'Meridian4', 'Digital Leisure', 'Taito', 'SNK Playmore',
     'Midway', 'Sierra', 'Banpresto', 'Maxis', 'HAL Laboratory', 'Hudson', 'Sonic Team',
-    'Vicarious Visions', 'Team17', 'Acclaim', 'SunSoft', 'Crytek', 'Rovio']
+    'Vicarious Visions', 'Team17', 'Acclaim', 'SunSoft', 'Crytek', 'Rovio', 'Penny Arcade']
 
 story = [
     'Our sources inform us that <company> are aiming to ship <game> next holiday season.',
