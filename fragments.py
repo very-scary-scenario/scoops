@@ -23,7 +23,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Hero', 'Legend', 'Football', 'Tentacle', 'Mansion', 'Heroes', 'Hour', 'Auto', 'Forge',
     'Fortress', 'Reset', 'Edge', 'Pachinko', 'Plus', 'Arena', 'Descent', 'Noire', 'Ops', 'Rain',
     'Age', 'Effect', 'Sky', 'Company', 'Paradise', 'Heaven', 'Agent', 'World', 'Wars', 'Flight',
-    'War', 'Garden', 'Hazard', 'Faction', 'Trucks', 'Trip', 'Wave', 'Vision', 'Driver', 'Castle',
+    'War', 'Garden', 'Hazard', 'Faction', 'Trucks', 'Trip', 'Waves', 'Vision', 'Driver', 'Castle',
     'Prophecy', 'Swarm', 'Raider', 'Sandbox', 'Smasher', 'Synapse', 'Fight', 'Trick', 'Dogma',
     'Floor', 'Candy', 'Supremacy', 'Land', 'Story', 'Strike', 'Command', 'Physics', 'Shadows',
     'High-School Girls', 'Days', 'Messiah', 'Duty', 'Trigger', 'Mario', 'Horses', 'Orchestra',
