@@ -23,7 +23,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'River', 'Burger', 'High-Res', 'Glory', 'Hidden', 'Loaded', 'Rugby', 'Killer', 'Power',
     'X', 'Dr.', 'Carnage', 'Kingdom', 'Ogre', 'Pokémon', 'Moto', 'Elevator', 'Music', 'Curious',
     'Dynasty', 'Final', 'Supreme', 'Legendary', 'Road', 'Superbike', 'Motocross', 'Star',
-    'Trauma', 'Jimmy'
+    'Trauma', 'Jimmy', 'Age of'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -40,7 +40,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Girls', 'Man', 'Revolution', 'Stage', 'Party', '☆  Star', 'Boy', 'Void', 'Mesa', 'Tower',
     'Journey', 'Flow', 'Shooter', 'Eden', 'Monsters', 'Wings', 'Birds', 'Big Planet', 'Shoujo',
     'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Soccer', 'Survivor', 'Tensei', 'Tag', 'Fiction',
-    'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Simulator', 'Crisis',
+    'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Crisis',
     'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League', 'Crashers', 'Darkness',
     'Knight', 'Championship', 'Giraffe', 'Yeti', 'D-Day', 'Run', 'Core', 'Fishing', 'Adventure',
     'Adventures', 'Hunter', 'Hunting', 'Hitman', 'Friends', 'Rub', 'Racing', 'Gaiden', 'Kombat',
@@ -49,7 +49,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Mission', 'Front', 'Island', 'Jam', 'Runner', 'Machines', 'Machine', 'Breed', 'Lair', 'Axe',
     'Rabbids', 'Feud', 'Alliance', 'Defense Force', 'Kings', 'Eye', 'Master', 'Revolver', 'Time',
     'Raid', 'Filter', 'Soldier', 'Army', 'Instinct', 'Hearts', 'Annihilation', 'Stadium', 'Action',
-    'Village', 'Box', 'Warrior', 'Warriors', 'Fantasy', 'Ruler', 'Center', 'Dave', 'Paint'
+    'Village', 'Box', 'Warrior', 'Warriors', 'Fantasy', 'Ruler', 'Center', 'Dave', 'Paint',
     'Forest'
     ]
 
@@ -70,7 +70,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     '%s: The Movie: The Game', '%s Fever', '%s: Tricky', '%s: Future', 'Where in the World is %s?',
     '%s: Blood on the Sand', '%s: Mercenaries', '%s!', '%s!?', '%s Euromix', '%s Chronicles',
     '%s: Elite', 'Theatrhythm: %s', '%s: Rio', '%s Legends', '%s: Seasons', '%s in SPACE!',
-    '%s: Over the Road Racing', '%s Gemini', 'Elite %s', 'Area 51: %s', '%s: Touch',
+    '%s: Over the Road Racing', '%s Gemini', 'Elite %s', 'Area 51: %s', '%s: Touch', '%s DX',
     'No One Can Stop %s', 'Feel the Magic: %s', 'Knights of %s', 'Codename: %s', "%s '13",
     '%s: Blood Money', '%s Rearmed', '%s: Peace Walker', '%s Remix', '%s ZX', 'Extreme %s',
     '%s Extreme', 'I Wanna Be the %s', 'Escape from %s', 'Batman: %s', "Cabela's %s", "%s: XX/XY",
@@ -78,9 +78,9 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     "Tom Clancy's %s", 'Spider-Man %s', "Dynasty Warriors: %s", "James Bond %s", '%s Golf',
     "Ratchet & Clank: %s", 'Heroes of %s', 'Dora the Explorer: %s', 'Duke Nukem: %s', 'WWE: %s',
     'Littlest %s', '%s Resort', 'LEGO %s', '%s Online', 'Command & Conquer: %s', '%s: Impact',
-    'Rayman: %s', 'Kane & Lynch: %s', '%s Wrestling', '%s Toshinden', 'Ghost Recon: %s',
+    'Rayman: %s', 'Kane & Lynch: %s', '%s Wrestling', '%s Toshinden', 'Ghost Recon: %s', "%s '11",
     '%s: Tactics', 'Virtual %s', 'Professor Layton and the %s', '%s Zone', '%s: The Show',
-    'NCAA %s', '%s Advance'
+    'NCAA %s', '%s Advance', '%s Simulator'
     ]
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
@@ -140,4 +140,6 @@ story = [
     "<company> have sold the rights to make a movie of <game> to an undisclosed third party.",
     "<company> are playing down the importance of the recent leak of <game>'s script months before it is due to be released.",
     "Rumours are circulating that <company> is going to announce <game> at a publisher event next week.",
+    "After a spate of negative user reviews on Metacritic, <company> has reached out to players of <game> to rebalance the average score.",
+    "About to board a plane to <company>'s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak."
     ]
