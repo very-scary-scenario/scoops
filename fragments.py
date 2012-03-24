@@ -95,5 +95,6 @@ story = [
     "Notch has offered <company> an effective blank cheque to fund the development of a sequel to <game>.",
     "The tear-jerking viral YouTube video in which a bedridden child plays <game> in her last hours alive has been proven fake. <company> have apologised for misleading the public.",
     "<company> are no longer under threat of hostile takeover after the runaway success of <game>.",
-    "Ex-<company> employees are frustrated about their exclusion from the credits of <game>."
+    "Ex-<company> employees are frustrated about their exclusion from the credits of <game>.",
+    "<company> have confirmed that <game> will ship as planned and multiplayer will be patched in post-release."
     ]
