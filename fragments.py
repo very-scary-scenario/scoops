@@ -14,7 +14,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'PixelJunk', 'Angry', 'Little', 'Katawa', 'King of', 'Resident', 'Mario', 'From', 'Big', 'Jet',
     'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Pocket', 'Royal',
     'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real', 'Heavy', 'Dance',
-    'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme']
+    'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme', 'Castle']
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
     'Life', 'Death', 'Space', 'Blade', 'Brigade', 'Mania', 'Wing', 'Flame', 'F.O.R.C.E.', 'Band',
@@ -31,7 +31,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Journey', 'Flow', 'Shooter', 'Eden', 'Monsters', 'Wings', 'Birds', 'Big Planet', 'Shoujo',
     'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Soccer', 'Survivor', 'Tensei', 'Tag', 'Fiction',
     'Wrestling', 'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Simulator',
-    'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League']
+    'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League', 'Crashers']
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
     '%s: Episode Three', 'Imagine™ %s', '%s HD', '%s with Friends', '%s: Anniversary', '%s 7',
