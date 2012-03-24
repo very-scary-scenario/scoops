@@ -5,13 +5,14 @@ html {
 body {
     margin: 0 auto;
     max-width: 1000px;
-    min-width: 400px;
-    padding: 0em 2em;
+    min-width: 300px;
+    padding: 0 1em;
     color: #333;
     background: #eee url(noise.png);
-    text-shadow: #fff 0 .1em 0;
+    text-shadow: #fff 0 1px 0;
     position: relative;
     min-height: 100%;
+    overflow-x: hidden;
 }
 
 /*
@@ -29,7 +30,7 @@ a {
 
 a:hover{
     color: #333;
-    text-shadow: #fff 0 .1em 0;
+    text-shadow: #fff 0 1px 0;
     border-color: #d66;
     border-width: 0 0 1px 0;
     border-style: none none dotted none;
@@ -39,14 +40,16 @@ h2 {
     font-family: 'Lora';
     font-size: 2.5em;
     font-weight: 700;
-    padding: 2em 0 2em 0;
+    padding: 4em 0 3.5em 0;
+    margin: 0;
     float: right;
     max-width: 720px;
+    text-shadow: #fff 0 2px 0;
 }
 
 div.headline {
+    margin: -2em 0 -3em -280px;
     padding-left: 280px;
-    margin-left: -280px;
     min-height: 400px;
     background-image: url(patrick.png);
     background-repeat: no-repeat;
@@ -57,7 +60,7 @@ div.headline {
 p.further {
     clear: both;
     font-size: .9em;
-    padding: 4em 0 10em 0;
+    padding: 4em 1em 10em 1em;
     margin: 0 auto;
     text-align: center;
     max-width: 600px;

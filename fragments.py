@@ -23,7 +23,8 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'River', 'Burger', 'High-Res', 'Glory', 'Hidden', 'Loaded', 'Rugby', 'Killer', 'Power',
     'X', 'Dr.', 'Carnage', 'Kingdom', 'Ogre', 'Pokémon', 'Moto', 'Elevator', 'Music', 'Curious',
     'Dynasty', 'Final', 'Supreme', 'Legendary', 'Road', 'Superbike', 'Motocross', 'Star',
-    'Trauma', 'Jimmy', 'Age of', 'Jungle', 'Animal'
+    'Trauma', 'Jimmy', 'Age of', 'Jungle', 'Animal', 'Naughty', 'Ancient', 'Smash', 'Item',
+    'Monday Night', 'Cooking', 'Pro', 'Spirit', 'Exotic', 'System'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -40,7 +41,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Girls', 'Man', 'Revolution', 'Stage', 'Party', '☆  Star', 'Boy', 'Void', 'Mesa', 'Tower',
     'Journey', 'Flow', 'Shooter', 'Eden', 'Monsters', 'Wings', 'Birds', 'Big Planet', 'Shoujo',
     'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Soccer', 'Survivor', 'Tensei', 'Tag', 'Fiction',
-    'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Crisis',
+    'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Crisis', 'Cricket',
     'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League', 'Crashers', 'Darkness',
     'Knight', 'Championship', 'Giraffe', 'Yeti', 'D-Day', 'Run', 'Core', 'Fishing', 'Adventure',
     'Adventures', 'Hunter', 'Hunting', 'Hitman', 'Friends', 'Rub', 'Racing', 'Gaiden', 'Kombat',
@@ -50,7 +51,8 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Rabbids', 'Feud', 'Alliance', 'Defense Force', 'Kings', 'Eye', 'Master', 'Revolver', 'Time',
     'Raid', 'Filter', 'Soldier', 'Army', 'Instinct', 'Hearts', 'Annihilation', 'Stadium', 'Action',
     'Village', 'Box', 'Warrior', 'Warriors', 'Fantasy', 'Ruler', 'Center', 'Dave', 'Paint',
-    'Forest', 'Beat', 'Crossing'
+    'Forest', 'Beat', 'Crossing', 'Bass', 'TV', 'Dawn', 'Mama', 'Skater', 'Pilot', 'Raiders',
+    'Farm', 'Shock'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
@@ -74,13 +76,14 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     'No One Can Stop %s', 'Feel the Magic: %s', 'Knights of %s', 'Codename: %s', "%s '13",
     '%s: Blood Money', '%s Rearmed', '%s: Peace Walker', '%s Remix', '%s ZX', 'Extreme %s',
     '%s Extreme', 'I Wanna Be the %s', 'Escape from %s', 'Batman: %s', "Cabela's %s", "%s: XX/XY",
-    'Race Driver: %s', 'BlazBlue: %s', 'Need for Speed: %s', '%s Unlimited', '%s Z', "NBA %s '13",
+    'Race Driver: %s', 'BlazBlue: %s', 'Need for Speed: %s', '%s Unlimited', '%s Z', "NBA %s",
     "Tom Clancy's %s", 'Spider-Man %s', "Dynasty Warriors: %s", "James Bond %s", '%s Golf',
     "Ratchet & Clank: %s", 'Heroes of %s', 'Dora the Explorer: %s', 'Duke Nukem: %s', 'WWE: %s',
     'Littlest %s', '%s Resort', 'LEGO %s', '%s Online', 'Command & Conquer: %s', '%s: Impact',
     'Rayman: %s', 'Kane & Lynch: %s', '%s Wrestling', '%s Toshinden', 'Ghost Recon: %s', "%s '11",
     '%s: Tactics', 'Virtual %s', 'Professor Layton and the %s', '%s Zone', '%s: The Show',
-    'NCAA %s', '%s Advance', '%s Simulator', '%s and How it Hits the Forest'
+    'NCAA %s', '%s Advance', '%s Simulator', '%s and How it Hits the Forest', '%s Forever',
+    '%s at War', "Tony Hawk %s", 'My %s', 'Mynotebook %s', '%sVille'
     ]
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
@@ -100,7 +103,8 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
     'Eurocom', 'Firefly Studios', 'Frontier Developments', 'Gaijin Games', 'Frictional Games',
     'Grasshopper', 'Introversion', 'Level-5', 'Llamasoft', 'Metanet Software', 'Mousechief',
     'Nifflas', 'Playdead', 'Q-Games', 'Queasy Games', 'Studio Pixel', 'Blizzard', 'inXile',
-    'NCsoft', 'Nippon Ichi Software', 'Rockstar', 'Stardock', 'XSEED Games', 'Two Tribes'
+    'NCsoft', 'Nippon Ichi Software', 'Rockstar', 'Stardock', 'XSEED Games', 'Two Tribes',
+    "Traveller's Tales", 'Naugty Dog', 'WayForward', 'CINEMAX', 'Nnooo'
     ]
 
 story = [
