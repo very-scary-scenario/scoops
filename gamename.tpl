@@ -13,6 +13,7 @@
 <!--
     <span class="presses">This just in:</span>
 -->
+    <div class="headline">
     <h2>
         %if first == 'company':
             {{story0}}<span class="company">{{company}}</span>{{story1}}<span class="game">{{game}}</span>{{story2}}
@@ -20,5 +21,13 @@
             {{story0}}<span class="game">{{game}}</span>{{story1}}<span class="company">{{company}}</span>{{story2}}
         %end
     </h2>
+    </div>
+
+    <p class="further">
+        For more on these or other stories from the world of video games, check out <a href="https://twitter.com/patrickklepek">PAAAAAATRIIIIIICK KLEEEEEPEEEEEEK</a> (on twitter).
+    </p>
+    <p class="credit">
+        A <a href="http://www.musicfortheblind.co.uk/">Music for the Blind</a> production.
+    </p>
     </body>
 </html>

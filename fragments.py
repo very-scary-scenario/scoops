@@ -23,7 +23,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'River', 'Burger', 'High-Res', 'Glory', 'Hidden', 'Loaded', 'Rugby', 'Killer', 'Power',
     'X', 'Dr.', 'Carnage', 'Kingdom', 'Ogre', 'Pokémon', 'Moto', 'Elevator', 'Music', 'Curious',
     'Dynasty', 'Final', 'Supreme', 'Legendary', 'Road', 'Superbike', 'Motocross', 'Star',
-    'Trauma', 'Jimmy', 'Age of'
+    'Trauma', 'Jimmy', 'Age of', 'Jungle', 'Animal'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -50,7 +50,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Rabbids', 'Feud', 'Alliance', 'Defense Force', 'Kings', 'Eye', 'Master', 'Revolver', 'Time',
     'Raid', 'Filter', 'Soldier', 'Army', 'Instinct', 'Hearts', 'Annihilation', 'Stadium', 'Action',
     'Village', 'Box', 'Warrior', 'Warriors', 'Fantasy', 'Ruler', 'Center', 'Dave', 'Paint',
-    'Forest'
+    'Forest', 'Beat', 'Crossing'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
@@ -80,7 +80,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     'Littlest %s', '%s Resort', 'LEGO %s', '%s Online', 'Command & Conquer: %s', '%s: Impact',
     'Rayman: %s', 'Kane & Lynch: %s', '%s Wrestling', '%s Toshinden', 'Ghost Recon: %s', "%s '11",
     '%s: Tactics', 'Virtual %s', 'Professor Layton and the %s', '%s Zone', '%s: The Show',
-    'NCAA %s', '%s Advance', '%s Simulator'
+    'NCAA %s', '%s Advance', '%s Simulator', '%s and How it Hits the Forest'
     ]
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',

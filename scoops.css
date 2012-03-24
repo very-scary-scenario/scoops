@@ -1,0 +1,72 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0 auto 0 auto;
+    max-width: 1000px;
+    min-width: 400px;
+    padding: 1em 2em;
+    color: #333;
+    background: #eee url(noise.png);
+    text-shadow: #fff 0 .1em 0;
+}
+
+span.presses {
+    font-size: 2em;
+    display: block;
+    font-weight: 400;
+}
+
+a {
+    color: #d66;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #333;
+    text-shadow: #fff 0 .1em 0;
+    border-color: #d66;
+    border-width: 0 0 1px 0;
+    border-style: none none dotted none;
+}
+
+h2 {
+    font-family: 'Lora';
+    font-size: 2.5em;
+    font-weight: 700;
+    padding: 2em 0 2em 0;
+}
+
+div.headline {
+    padding-left: 280px;
+    margin-left: -280px;
+    min-height: 400px;
+    background-image: url(patrick.png);
+    background-repeat: no-repeat;
+    background-position: left center;
+    max-width: 720px;
+    float: right;
+    overflow: all;
+}
+
+p.further {
+    clear: both;
+    font-size: .9em;
+    padding: 4em 0;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 40em;
+}
+
+p.credit {
+    position: absolute;
+    bottom: 1em;
+    right: 2em;
+    color: #888;
+    font-size: .8em;
+}
+
+span.game {
+    font-style: italic;
+}
