@@ -16,7 +16,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real', 'Heavy', 'Dance',
     'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme', 'Castle', 'Wind-up',
     'Office', 'Dino', 'Galactic', 'The', 'North American', 'Project', 'Ninja', 'Mortal',
-    'Calamity', 'Continuum', 'Otomedius', 'Test'
+    'Calamity', 'Continuum', 'Otomedius', 'Test', 'Men of', 'Fortune'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -37,7 +37,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League', 'Crashers', 'Darkness',
     'Knight', 'Championship', 'Giraffe', 'Yeti', 'D-Day', 'Run', 'Core', 'Fishing', 'Adventure',
     'Adventures', 'Hunter', 'Hunting', 'Hitman', 'Friends', 'Rub', 'Racing', 'Gaiden', 'Kombat',
-    'Shift', 'Excellent'
+    'Shift', 'Excellent', 'Street'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
@@ -117,5 +117,8 @@ story = [
     "<company> are no longer under threat of hostile takeover after the runaway success of <game>.",
     "Ex-<company> employees are frustrated about their exclusion from the credits of <game>.",
     "<company> have confirmed that <game> will ship when planned and multiplayer will be patched in post-release.",
-    "Controversy unfolds as <company> are criticised for marketing their adult visual novel <game> to minors."
+    "Controversy unfolds as <company> are criticised for marketing their adult visual novel <game> to minors.",
+    "<company> have sold the rights to make a movie of <game> to an undisclosed third party.",
+    "<company> are playing down the importance of the recent leak of <game>'s script months before it is due to be released.",
+    "Rumours are circulating that <company> is going to announce <game> at a publisher event next week.",
     ]
