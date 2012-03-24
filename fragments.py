@@ -13,13 +13,13 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Dance Dance', 'Dancing', 'Party', 'S.O.S.', 'Lucky', 'Meat', 'Tiny', 'Face', 'Everyday',
     'PixelJunk', 'Angry', 'Little', 'Katawa', 'King of', 'Resident', 'Mario', 'From', 'Big', 'Jet',
     'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Pocket', 'Royal',
-    'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename']
+    'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real']
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
     'Life', 'Death', 'Space', 'Blade', 'Brigade', 'Mania', 'Wing', 'Flame', 'F.O.R.C.E.', 'Band',
     'Hero', 'Legend', 'Football', 'Tentacle', 'Mansion', 'Heroes', 'Hour', 'Auto', 'Forge',
     'Fortress', 'Reset', 'Edge', 'Pachinko', 'Plus', 'Arena', 'Descent', 'Noire', 'Ops',
-    'Age', 'Effect', 'Cause', 'Sky', 'Company', 'Paradise', 'Heaven', 'Agent', 'World', 'Wars',
+    'Age', 'Effect', 'Sky', 'Company', 'Paradise', 'Heaven', 'Agent', 'World', 'Wars', 'Flight',
     'War', 'Garden', 'Hazard', 'Faction', 'Trucks', 'Trip', 'Wave', 'Vision', 'Driver', 'Castle',
     'Prophecy', 'Sight', 'Swarm', 'Raider', 'Sandbox', 'Smasher', 'Synapse', 'Fight', 'Gear',
     'Floor', 'Candy', 'Supremacy', 'Land', 'Story', 'Strike', 'Command', 'Physics', 'Shadows',
@@ -29,7 +29,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Girls', 'Man', 'Revolution', 'Stage', 'Party', '☆  Star', 'Boy', 'Void', 'Mesa', 'Tower',
     'Journey', 'Flow', 'Shooter', 'Eden', 'Monsters', 'Wings', 'Birds', 'Big Planet', 'Shoujo',
     'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Soccer', 'Survivor', 'Tensei', 'Tag', 'Fiction',
-    'Wrestling', 'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic']
+    'Wrestling', 'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Simulator']
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
     '%s: Episode Three', 'Imagine™ %s', '%s HD', '%s with Friends', '%s: Anniversary',
@@ -97,5 +97,5 @@ story = [
     "The tear-jerking viral YouTube video in which a bedridden child plays <game> in her last hours alive has been proven fake. <company> have apologised for misleading the public.",
     "<company> are no longer under threat of hostile takeover after the runaway success of <game>.",
     "Ex-<company> employees are frustrated about their exclusion from the credits of <game>.",
-    "<company> have confirmed that <game> will ship as planned and multiplayer will be patched in post-release."
+    "<company> have confirmed that <game> will ship when planned and multiplayer will be patched in post-release."
     ]
