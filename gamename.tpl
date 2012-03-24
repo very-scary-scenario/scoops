@@ -24,10 +24,11 @@
     </div>
 
     <p class="further">
-        For more on these or other stories from the world of video games, check out <a href="https://twitter.com/patrickklepek">PAAAAAATRIIIIIICK KLEEEEEPEEEEEEK</a> (on twitter).
+        For more on these or other stories from the world of video games, check out <a href="https://twitter.com/patrickklepek">PATRICK KLEEEEEEEEEEEEEEEEEEEEPEK</a> (on twitter).
     </p>
-    <p class="credit">
-        A <a href="http://www.musicfortheblind.co.uk/">Music for the Blind</a> production.
-    </p>
+    <div class="credit">
+        <p><a href="https://bitbucket.org/colons/scoops">Source</a> (Python, Bottle)</p>
+        <p>A <a href="http://www.musicfortheblind.co.uk/">Music for the Blind</a> production</p>
+    </div>
     </body>
 </html>

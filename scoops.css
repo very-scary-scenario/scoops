@@ -3,20 +3,24 @@ html {
 }
 
 body {
-    margin: 0 auto 0 auto;
+    margin: 0 auto;
     max-width: 1000px;
     min-width: 400px;
-    padding: 1em 2em;
+    padding: 0em 2em;
     color: #333;
     background: #eee url(noise.png);
     text-shadow: #fff 0 .1em 0;
+    position: relative;
+    min-height: 100%;
 }
 
+/*
 span.presses {
     font-size: 2em;
     display: block;
     font-weight: 400;
 }
+*/
 
 a {
     color: #d66;
@@ -36,6 +40,8 @@ h2 {
     font-size: 2.5em;
     font-weight: 700;
     padding: 2em 0 2em 0;
+    float: right;
+    max-width: 720px;
 }
 
 div.headline {
@@ -45,27 +51,43 @@ div.headline {
     background-image: url(patrick.png);
     background-repeat: no-repeat;
     background-position: left center;
-    max-width: 720px;
     float: right;
-    overflow: all;
 }
 
 p.further {
     clear: both;
     font-size: .9em;
-    padding: 4em 0;
+    padding: 4em 0 10em 0;
     margin: 0 auto;
     text-align: center;
-    max-width: 40em;
+    max-width: 600px;
 }
 
-p.credit {
+div.credit {
     position: absolute;
     bottom: 1em;
-    right: 2em;
     color: #888;
     font-size: .8em;
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
 }
+
+div.credit p {
+    margin: .4em;
+}
+
+/*
+div.credit p:before {
+    content: '- ';
+    color: #aaa;
+}
+
+div.credit p:after {
+    content: ' -';
+    color: #aaa;
+}
+*/
 
 span.game {
     font-style: italic;
