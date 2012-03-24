@@ -56,7 +56,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     'The Legend of %s', '%s: Evolution', 'Call of Duty: %s', '%s: Redemption', '%s United',
     '%s! - The Quest for Gravity', '%s!!! - A Reckless Disregard for Gravity', '%s: Hot Pursuit',
     '%s: Fusion', '%s: Second Edition', '%s: Make Blooms Not War', '%s: Armageddon', '%s: Guerrilla',
-    '%s Nitro', '%s: Vice City', 'Return to %s', '%s at the Inventory', '%s: Deathmatch', '%s 11'
+    '%s Nitro', '%s: Vice City', 'Return to %s', '%s at the Inventory', '%s: Deathmatch', '%s 11',
     '%s: 1942', 'IL-2 Sturmovik: %s', '%s+', '%s: Condition Zero', '%s Deluxe', '%s in Trouble',
     '%s of Might and Magic', '%s Classic', '%s: Invisible War', '%s: Source', '%s II', '%s III',
     '%s XIV', '%s DS', '%s 64', '%s: Advanced Pack', '%s: Team Arena', '%s: Arena', '%s 6'
