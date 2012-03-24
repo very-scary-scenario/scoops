@@ -16,12 +16,12 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real', 'Heavy', 'Dance',
     'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme', 'Castle', 'Wind-up',
     'Office', 'Dino', 'Galactic', 'The', 'North American', 'Project', 'Ninja', 'Mortal',
-    'Calamity', 'Continuum', 'Otomedius'
+    'Calamity', 'Continuum', 'Otomedius', 'Test'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
     'Life', 'Death', 'Space', 'Blade', 'Brigade', 'Mania', 'Wing', 'Flame', 'F.O.R.C.E.', 'Band',
-    'Hero', 'Legend', 'Football', 'Tentacle', 'Mansion', 'Heroes', 'Hour', 'Auto', 'Forge',
+    'Hero', 'Legend', 'Football', 'Tentacle', 'Mansion', 'Heroes', 'Hour', 'Forge', 'Drive',
     'Fortress', 'Reset', 'Edge', 'Pachinko', 'Plus', 'Arena', 'Descent', 'Noire', 'Ops', 'Rain',
     'Age', 'Effect', 'Sky', 'Company', 'Paradise', 'Heaven', 'Agent', 'World', 'Wars', 'Flight',
     'War', 'Garden', 'Hazard', 'Faction', 'Trucks', 'Trip', 'Waves', 'Vision', 'Driver', 'Castle',
@@ -61,7 +61,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     'No One Can Stop %s', 'Feel the Magic: %s', 'Knights of %s', 'Codename: %s',
     '%s: Blood Money', '%s Rearmed', '%s: Peace Walker', '%s Remix', '%s ZX', 'Extreme %s',
     '%s Extreme', 'I Wanna Be the %s', 'Escape from %s', 'Batman: %s', "Cabela's %s", "%s: XX/XY",
-    'Race Driver: %s', 'BlazBlue: %s', 'Need for Speed: %s'
+    'Race Driver: %s', 'BlazBlue: %s', 'Need for Speed: %s', '%s Unlimited'
     ]
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
