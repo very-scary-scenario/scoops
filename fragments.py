@@ -131,7 +131,7 @@ story = [
     "Shareholders are reportedly angry at <company> over their handling of <game>.",
     "<game> has been nominated for over two hundred Game of the Year awards. <company> have sent representatives around the world to collect every single one.",
     "<company>, developers of critic's darling <game>, have been purchased by CBS Interactive.",
-    "Notch has offered <company> an effective blank cheque to fund the development of a sequel to <game>.",
+    "Notch has offered <company> an effective blank check to fund the development of a sequel to <game>.",
     "The tear-jerking viral YouTube video in which a bedridden child plays <game> in her last hours alive has been proven fake. <company> have apologised for misleading the public.",
     "<company> are no longer under threat of hostile takeover after the runaway success of <game>.",
     "Ex-<company> employees are frustrated about their exclusion from the credits of <game>.",
@@ -139,7 +139,7 @@ story = [
     "Controversy unfolds as <company> are criticised for marketing their adult visual novel <game> to minors.",
     "<company> have sold the rights to make a movie of <game> to an undisclosed third party.",
     "<company> are playing down the importance of the recent leak of <game>'s script months before it is due to be released.",
-    "Rumours are circulating that <company> is going to announce <game> at a publisher event next week.",
-    "After a spate of negative user reviews on Metacritic, <company> has reached out to players of <game> to rebalance the average score.",
+    "Rumours are circulating that <company> are going to announce <game> at a publisher event next week.",
+    "After a spate of negative user reviews on Metacritic, <company> have reached out to players of <game> to rebalance the average score.",
     "About to board a plane to <company>'s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak."
     ]
