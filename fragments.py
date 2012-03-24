@@ -15,7 +15,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Pocket', 'Royal',
     'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real', 'Heavy', 'Dance',
     'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme', 'Castle', 'Wind-up',
-    'Office', 'Dino', 'Galactic', 'The', 'North American'
+    'Office', 'Dino', 'Galactic', 'The', 'North American', 'Project', 'Ninja'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -35,7 +35,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Wrestling', 'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Simulator',
     'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League', 'Crashers', 'Darkness',
     'Knight', 'Championship', 'Giraffe', 'Yeti', 'D-Day', 'Run', 'Core', 'Fishing', 'Adventure',
-    'Adventures', 'Hunter', 'Hunting', 'Hitman'
+    'Adventures', 'Hunter', 'Hunting', 'Hitman', 'Friends', 'Rub', 'Racing', 'Gaiden'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
@@ -56,9 +56,10 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     '%s: Blood on the Sand', '%s: Mercenaries', '%s!', '%s!?', '%s Euromix', '%s Chronicles',
     '%s: Elite', 'Theatrhythm: %s', '%s: Rio', '%s Legends', '%s: Seasons', '%s in SPACE!',
     '%s: Over the Road Racing', '%s Gemini', 'Elite %s', 'Area 51: %s', '%s: Touch',
-    'No One Can Stop %s', '%s: Feel the Magic', 'Knights of %s', 'Codename: %s',
+    'No One Can Stop %s', 'Feel the Magic: %s', 'Knights of %s', 'Codename: %s',
     '%s: Blood Money', '%s Rearmed', '%s: Peace Walker', '%s Remix', '%s ZX', 'Extreme %s',
-    '%s Extreme', 'I Wanna Be the %s', 'Escape from %s', 'Batman: %s', "Cabela's %s"
+    '%s Extreme', 'I Wanna Be the %s', 'Escape from %s', 'Batman: %s', "Cabela's %s", "%s: XX/XY",
+    'Race Driver: %s'
     ]
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
