@@ -81,7 +81,7 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
     'Eurocom', 'Firefly Studios', 'Frontier Developments', 'Gaijin Games', 'Frictional Games',
     'Grasshopper', 'Introversion', 'Level-5', 'Llamasoft', 'Metanet Software', 'Mousechief',
     'Nifflas', 'Playdead', 'Q-Games', 'Queasy Games', 'Studio Pixel', 'Blizzard', 'inXile',
-    'NCsoft', 'Nippon Ichi Software', 'Rockstar', 'Stardock', 'XSEED Games'
+    'NCsoft', 'Nippon Ichi Software', 'Rockstar', 'Stardock', 'XSEED Games', 'Two Tribes'
     ]
 
 story = [
