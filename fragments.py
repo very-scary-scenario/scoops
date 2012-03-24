@@ -14,7 +14,8 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'PixelJunk', 'Angry', 'Little', 'Katawa', 'King of', 'Resident', 'Mario', 'From', 'Big', 'Jet',
     'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Pocket', 'Royal',
     'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real', 'Heavy', 'Dance',
-    'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme', 'Castle']
+    'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme', 'Castle', 'Wind-up',
+    'Office', 'Dino', 'Galactic']
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
     'Life', 'Death', 'Space', 'Blade', 'Brigade', 'Mania', 'Wing', 'Flame', 'F.O.R.C.E.', 'Band',
@@ -31,7 +32,8 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Journey', 'Flow', 'Shooter', 'Eden', 'Monsters', 'Wings', 'Birds', 'Big Planet', 'Shoujo',
     'Evil', 'Dust', 'Rigs', 'Force', 'Combat', 'Soccer', 'Survivor', 'Tensei', 'Tag', 'Fiction',
     'Wrestling', 'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Simulator',
-    'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League', 'Crashers']
+    'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League', 'Crashers', 'Darkness',
+    'Knight', 'Championship', 'Giraffe', 'Yeti', 'D-Day', 'Run']
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
     '%s: Episode Three', 'Imagine™ %s', '%s HD', '%s with Friends', '%s: Anniversary', '%s 7',
@@ -53,7 +55,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     '%s: Over the Road Racing', '%s Gemini', 'Elite %s', 'Area 51: %s', '%s: Touch',
     'No One Can Stop %s', '%s: Feel the Magic', 'Knights of The %s', 'Codename: %s',
     '%s: Blood Money', '%s Rearmed', '%s: Peace Walker', '%s Remix', '%s ZX', 'Extreme %s',
-    '%s Extreme']
+    '%s Extreme', 'I Wanna Be the %s', 'Escape from %s', 'Batman: %s']
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
     'Bioware', 'Bethesda', 'Valve', 'From Software', 'Double Fine', 'Gameloft', 'Zynga', '22 Cans',
@@ -68,7 +70,11 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
     'Midway', 'Sierra', 'Banpresto', 'Maxis', 'HAL Laboratory', 'Hudson', 'Sonic Team',
     'Vicarious Visions', 'Team17', 'Acclaim', 'SunSoft', 'Crytek', 'Rovio', 'Penny Arcade',
     'Runic Games', 'Infinity Ward', 'Insomniac', 'Treyarch', 'Respawn Entertainment',
-    'Inti Creates', 'Overdrive']
+    'Inti Creates', 'Overdrive', 'Supergiant Games', '2D Boy', 'Twisted Pixel', 'Chronic Logic',
+    'Eurocom', 'Firefly Studios', 'Frontier Developments', 'Gaijin Games', 'Frictional Games',
+    'Grasshopper', 'Introversion', 'Level-5', 'Llamasoft', 'Metanet Software', 'Mousechief',
+    'Nifflas', 'Playdead', 'Q-Games', 'Queasy Games', 'Studio Pixel', 'Blizzard', 'inXile',
+    'NCsoft', 'Nippon Ichi Software', 'Rockstar', 'Stardock', 'XSEED Games']
 
 story = [
     'Our sources inform us that <company> are aiming to ship <game> next holiday season.',
