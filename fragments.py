@@ -21,7 +21,8 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Hot', 'Pet', 'Adventure', 'Thunder', 'Lode', 'Incredible', 'Micro', 'Golden', 'Raving',
     'Family', 'Close', 'Time', 'Jagged', 'Original', 'Electric', 'Rave', 'Wild', 'Red Dead',
     'River', 'Burger', 'High-Res', 'Glory', 'Hidden', 'Loaded', 'Rugby', 'Killer', 'Power',
-    'X', 'Dr.', 'Carnage', 'Kingdom', 'Ogre', 'Pokémon', 'Moto', 'Elevator', 'Music', 'Curious'
+    'X', 'Dr.', 'Carnage', 'Kingdom', 'Ogre', 'Pokémon', 'Moto', 'Elevator', 'Music', 'Curious',
+    'Dynasty'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -47,7 +48,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Mission', 'Front', 'Island', 'Jam', 'Runner', 'Machines', 'Machine', 'Breed', 'Lair', 'Axe',
     'Rabbids', 'Feud', 'Alliance', 'Defense Force', 'Kings', 'Eye', 'Master', 'Revolver', 'Time',
     'Raid', 'Filter', 'Soldier', 'Army', 'Instinct', 'Hearts', 'Annihilation', 'Stadium', 'Action',
-    'Village', 'Box'
+    'Village', 'Box', 'Warrior', 'Warriors'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
