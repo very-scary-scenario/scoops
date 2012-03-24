@@ -15,7 +15,8 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Ace', 'End of', 'Space', 'Metal', 'Devil', 'Shin Megami', 'Sonic', 'Spy', 'Pocket', 'Royal',
     'Ghost', 'Pipe', 'Tetris', 'World of', 'Old', 'Codename', 'Tekken', 'Real', 'Heavy', 'Dance',
     'Bionic', 'Metal Gear', 'Portable', 'Terror', 'Infinity', 'Extreme', 'Castle', 'Wind-up',
-    'Office', 'Dino', 'Galactic', 'The', 'North American', 'Project', 'Ninja', 'Mortal'
+    'Office', 'Dino', 'Galactic', 'The', 'North American', 'Project', 'Ninja', 'Mortal',
+    'Calamity', 'Continuum', 'Otomedius'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -35,7 +36,8 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Wrestling', 'Agents', 'Rumble', 'Fighters', 'Warfighter', 'Dream', 'Republic', 'Simulator',
     'Central', 'Karaoke', 'Empire', 'Commando', 'Stalker', 'League', 'Crashers', 'Darkness',
     'Knight', 'Championship', 'Giraffe', 'Yeti', 'D-Day', 'Run', 'Core', 'Fishing', 'Adventure',
-    'Adventures', 'Hunter', 'Hunting', 'Hitman', 'Friends', 'Rub', 'Racing', 'Gaiden', 'Kombat'
+    'Adventures', 'Hunter', 'Hunting', 'Hitman', 'Friends', 'Rub', 'Racing', 'Gaiden', 'Kombat',
+    'Shift', 'Excellent'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
@@ -59,7 +61,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     'No One Can Stop %s', 'Feel the Magic: %s', 'Knights of %s', 'Codename: %s',
     '%s: Blood Money', '%s Rearmed', '%s: Peace Walker', '%s Remix', '%s ZX', 'Extreme %s',
     '%s Extreme', 'I Wanna Be the %s', 'Escape from %s', 'Batman: %s', "Cabela's %s", "%s: XX/XY",
-    'Race Driver: %s'
+    'Race Driver: %s', 'BlazBlue: %s', 'Need for Speed: %s'
     ]
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
