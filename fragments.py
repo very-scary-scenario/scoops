@@ -24,7 +24,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'X', 'Dr.', 'Carnage', 'Kingdom', 'Ogre', 'Pokémon', 'Moto', 'Elevator', 'Music', 'Curious',
     'Dynasty', 'Final', 'Supreme', 'Legendary', 'Road', 'Superbike', 'Motocross', 'Star',
     'Trauma', 'Jimmy', 'Age of', 'Jungle', 'Animal', 'Naughty', 'Ancient', 'Smash', 'Item',
-    'Monday Night', 'Cooking', 'Pro', 'Spirit', 'Exotic', 'System'
+    'Monday Night', 'Cooking', 'Pro', 'Spirit', 'Exotic', 'System', 'Criminal', 'Mystic', 'Elder'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -52,7 +52,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Raid', 'Filter', 'Soldier', 'Army', 'Instinct', 'Hearts', 'Annihilation', 'Stadium', 'Action',
     'Village', 'Box', 'Warrior', 'Warriors', 'Fantasy', 'Ruler', 'Center', 'Dave', 'Paint',
     'Forest', 'Beat', 'Crossing', 'Bass', 'TV', 'Dawn', 'Mama', 'Skater', 'Pilot', 'Raiders',
-    'Farm', 'Shock'
+    'Farm', 'Shock', 'Origins', 'Underworld', 'Scrolls', 'Colossus'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
@@ -83,7 +83,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     'Rayman: %s', 'Kane & Lynch: %s', '%s Wrestling', '%s Toshinden', 'Ghost Recon: %s', "%s '11",
     '%s: Tactics', 'Virtual %s', 'Professor Layton and the %s', '%s Zone', '%s: The Show',
     'NCAA %s', '%s Advance', '%s Simulator', '%s and How it Hits the Forest', '%s Forever',
-    '%s at War', "Tony Hawk %s", 'My %s', 'Mynotebook %s', '%sVille'
+    '%s at War', "Tony Hawk %s", 'My %s', 'myNotebook %s', '%sVille'
     ]
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
