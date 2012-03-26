@@ -24,7 +24,8 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'X', 'Dr.', 'Carnage', 'Kingdom', 'Ogre', 'Pokémon', 'Moto', 'Elevator', 'Music', 'Curious',
     'Dynasty', 'Final', 'Supreme', 'Legendary', 'Road', 'Superbike', 'Motocross', 'Star',
     'Trauma', 'Jimmy', 'Age of', 'Jungle', 'Animal', 'Naughty', 'Ancient', 'Smash', 'Item',
-    'Monday Night', 'Cooking', 'Pro', 'Spirit', 'Exotic', 'System', 'Criminal', 'Mystic', 'Elder'
+    'Monday Night', 'Cooking', 'Pro', 'Spirit', 'Exotic', 'System', 'Criminal', 'Mystic', 'Elder',
+    'Ocarina of'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -52,7 +53,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Raid', 'Filter', 'Soldier', 'Army', 'Instinct', 'Hearts', 'Annihilation', 'Stadium', 'Action',
     'Village', 'Box', 'Warrior', 'Warriors', 'Fantasy', 'Ruler', 'Center', 'Dave', 'Paint',
     'Forest', 'Beat', 'Crossing', 'Bass', 'TV', 'Dawn', 'Mama', 'Skater', 'Pilot', 'Raiders',
-    'Farm', 'Shock', 'Origins', 'Underworld', 'Scrolls', 'Colossus'
+    'Farm', 'Shock', 'Origins', 'Underworld', 'Scrolls', 'Colossus', 'Mask'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
@@ -145,5 +146,6 @@ story = [
     "<company> are playing down the importance of the recent leak of <game>'s script months before it is due to be released.",
     "Rumours are circulating that <company> are going to announce <game> at a publisher event next week.",
     "After a spate of negative user reviews on Metacritic, <company> have reached out to players of <game> to rebalance the average score.",
-    "About to board a plane to <company>'s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak."
+    "About to board a plane to <company>'s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak.",
+#    "<company>'s forthcoming title <game> has been pushed back to be released as a PlayStation 4 launch title.",
     ]
