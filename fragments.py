@@ -25,7 +25,7 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Dynasty', 'Final', 'Supreme', 'Legendary', 'Road', 'Superbike', 'Motocross', 'Star',
     'Trauma', 'Jimmy', 'Age of', 'Jungle', 'Animal', 'Naughty', 'Ancient', 'Smash', 'Item',
     'Monday Night', 'Cooking', 'Pro', 'Spirit', 'Exotic', 'System', 'Criminal', 'Mystic', 'Elder',
-    'Ocarina of'
+    'Ocarina of', 'Theme'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -53,7 +53,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Raid', 'Filter', 'Soldier', 'Army', 'Instinct', 'Hearts', 'Annihilation', 'Stadium', 'Action',
     'Village', 'Box', 'Warrior', 'Warriors', 'Fantasy', 'Ruler', 'Center', 'Dave', 'Paint',
     'Forest', 'Beat', 'Crossing', 'Bass', 'TV', 'Dawn', 'Mama', 'Skater', 'Pilot', 'Raiders',
-    'Farm', 'Shock', 'Origins', 'Underworld', 'Scrolls', 'Colossus', 'Mask'
+    'Farm', 'Shock', 'Origins', 'Underworld', 'Scrolls', 'Colossus', 'Mask', 'Snowboarding'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
@@ -105,7 +105,8 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
     'Grasshopper', 'Introversion', 'Level-5', 'Llamasoft', 'Metanet Software', 'Mousechief',
     'Nifflas', 'Playdead', 'Q-Games', 'Queasy Games', 'Studio Pixel', 'Blizzard', 'inXile',
     'NCsoft', 'Nippon Ichi Software', 'Rockstar', 'Stardock', 'XSEED Games', 'Two Tribes',
-    "Traveller's Tales", 'Naugty Dog', 'WayForward', 'CINEMAX', 'Nnooo'
+    "Traveller's Tales", 'Naugty Dog', 'WayForward', 'CINEMAX', 'Nnooo', 'Bullfrog',
+    'Bohemia Interactive',
     ]
 
 story = [
@@ -148,4 +149,5 @@ story = [
     "After a spate of negative user reviews on Metacritic, <company> have reached out to players of <game> to rebalance the average score.",
     "About to board a plane to <company>'s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak.",
 #    "<company>'s forthcoming title <game> has been pushed back to be released as a PlayStation 4 launch title.",
+    "<company> are being criticised over a sequence in <game> in which players are encouraged to engage in a terrorist act."
     ]
