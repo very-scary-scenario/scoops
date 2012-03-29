@@ -25,7 +25,8 @@ franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', '
     'Dynasty', 'Final', 'Supreme', 'Legendary', 'Road', 'Superbike', 'Motocross', 'Star',
     'Trauma', 'Jimmy', 'Age of', 'Jungle', 'Animal', 'Naughty', 'Ancient', 'Smash', 'Item',
     'Monday Night', 'Cooking', 'Pro', 'Spirit', 'Exotic', 'System', 'Criminal', 'Mystic', 'Elder',
-    'Ocarina of', 'Theme', 'Hyperdimension'
+    'Ocarina of', 'Theme', 'Hyperdimension', "Kirby's", 'Epic', "Dante's", 'Mecha', "Yoshi's",
+    'Paper'
     ]
 
 franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'Retribution',
@@ -54,7 +55,7 @@ franchise_b = ['Souls', 'Storm', 'Batallion', 'Warfare', 'Tennis', 'Fighter', 'R
     'Village', 'Box', 'Warrior', 'Warriors', 'Fantasy', 'Ruler', 'Center', 'Dave', 'Paint',
     'Forest', 'Beat', 'Crossing', 'Bass', 'TV', 'Dawn', 'Mama', 'Skater', 'Pilot', 'Raiders',
     'Farm', 'Shock', 'Origins', 'Underworld', 'Scrolls', 'Colossus', 'Mask', 'Snowboarding',
-    'Neptunia'
+    'Neptunia', 'Snap', 'Dash', 'Attorney', 'Conquest'
     ]
 
 name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', '%s 5', '%s 9',
@@ -86,6 +87,9 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     '%s: Tactics', 'Virtual %s', 'Professor Layton and the %s', '%s Zone', '%s: The Show',
     'NCAA %s', '%s Advance', '%s Simulator', '%s and How it Hits the Forest', '%s Forever',
     '%s at War', "Tony Hawk %s", 'My %s', 'myNotebook %s', '%sVille', '%s: Warped', '%s Reloaded',
+    'Buzz! %s', '%s Jr.', '%s Rising', '%s Red Version', '%s Blue Version', '%s Zero', '%s Climax',
+    'at the Olympic Games', '%s Turbo', '%s 2000', '%s 3000', '%s: Insect Armageddon',
+    '%s Black Label', '%s: Touched!'
     ]
 
 company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Activision', 'EA',
@@ -107,7 +111,8 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
     'Nifflas', 'Playdead', 'Q-Games', 'Queasy Games', 'Studio Pixel', 'Blizzard', 'inXile',
     'NCsoft', 'Nippon Ichi Software', 'Rockstar', 'Stardock', 'XSEED Games', 'Two Tribes',
     "Traveller's Tales", 'Naugty Dog', 'WayForward', 'CINEMAX', 'Nnooo', 'Bullfrog',
-    'Bohemia Interactive',
+    'Bohemia Interactive', 'Game Freak', 'Sledgehammer Games', 'VectorCell', 'Edge Games',
+    'Illusion', 'Dark Energy Digital', 'Rising Star Games'
     ]
 
 story = [
@@ -151,4 +156,5 @@ story = [
     "About to board a plane to <company>'s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak.",
 #    "<company>'s forthcoming title <game> has been pushed back to be released as a PlayStation 4 launch title.",
     "<company> are being criticised over a sequence in <game> in which players are encouraged to engage in a terrorist act."
+    "Record returns follow record sales and <company> sends millions of copies of <game> to landfill."
     ]
