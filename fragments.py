@@ -88,7 +88,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     'NCAA %s', '%s Advance', '%s Simulator', '%s and How it Hits the Forest', '%s Forever',
     '%s at War', "Tony Hawk %s", 'My %s', 'myNotebook %s', '%sVille', '%s: Warped', '%s Reloaded',
     'Buzz! %s', '%s Jr.', '%s Rising', '%s Red Version', '%s Blue Version', '%s Zero', '%s Climax',
-    'at the Olympic Games', '%s Turbo', '%s 2000', '%s 3000', '%s: Insect Armageddon',
+    '%s at the Olympic Games', '%s Turbo', '%s 2000', '%s 3000', '%s: Insect Armageddon',
     '%s Black Label', '%s: Touched!'
     ]
 
