@@ -155,6 +155,6 @@ story = [
     "After a spate of negative user reviews on Metacritic, <company> have reached out to players of <game> to rebalance the average score.",
     "About to board a plane to <company>'s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak.",
 #    "<company>'s forthcoming title <game> has been pushed back to be released as a PlayStation 4 launch title.",
-    "<company> are being criticised over a sequence in <game> in which players are encouraged to engage in a terrorist act."
+    "<company> are being criticised over a sequence in <game> in which players are encouraged to engage in a terrorist act.",
     "Record returns follow record sales and <company> sends millions of copies of <game> to landfill."
     ]
