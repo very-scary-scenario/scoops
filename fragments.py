@@ -126,7 +126,7 @@ story = [
     "<company> have issued a global recall of <game> following the discovery that it contains potentially offensive religious content.",
     "Gamers rejoice! After fifteen years in development, <company> have finally released <game>.",
     '<game> recently hit ten million sales in the iPhone App Store. <company> are "delighted".',
-    "<company> has declined to comment after many of the art assets in <game> are proven to have been stolen.",
+    "<company> have declined to comment after many of the art assets in <game> are proven to have been stolen.",
     "Discover why <game> signals the beginning of the end for <company> in our comprehensive review.",
     "An anonymous <company> employee has started a blog documenting the poor working conditions on the <game> team.",
     "The open-source project <game> has been forked after its founder sold the name to <company>.",
