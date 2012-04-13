@@ -64,6 +64,14 @@ p.further {
     max-width: 600px;
 }
 
+p.further em:before {
+    content: '‘';
+}
+
+p.further em:after {
+    content: '’';
+}
+
 div.credit {
     position: absolute;
     bottom: 1em;
