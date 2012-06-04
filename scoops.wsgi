@@ -31,3 +31,7 @@ def index(name='Index'):
     return bottle.template('gamename', story0=story[0], story1=story[1], story2=story[2], first=first, company=company, game=game_name)
 
 application = bottle.default_app()
+
+if __name__ == '__main__':
+    from flup.server.fcgi import WSGIServer
+    WSGIServer(myapp).run()
