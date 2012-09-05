@@ -27,7 +27,7 @@
         For more on these or other stories from the world of video games, check out <a href="https://twitter.com/patrickklepek">Patrick&nbsp;<em>Trick</em>&nbsp;<em>Tricky</em>&nbsp;<em>Scoops</em>&nbsp;Klepek</a> (on twitter).
     </p>
     <div class="credit">
-        <p><a href="https://bitbucket.org/colons/scoops/src">Source</a> (Python, Bottle)</p>
+        <p><a href="https://github.com/colons/scoops">Source</a> (Python, Bottle)</p>
         <p>A <a href="http://www.musicfortheblind.co.uk/">Music for the Blind</a> production</p>
     </div>
     </body>
