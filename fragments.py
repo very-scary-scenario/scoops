@@ -112,7 +112,28 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
     'NCsoft', 'Nippon Ichi Software', 'Rockstar', 'Stardock', 'XSEED Games', 'Two Tribes',
     "Traveller's Tales", 'Naugty Dog', 'WayForward', 'CINEMAX', 'Nnooo', 'Bullfrog',
     'Bohemia Interactive', 'Game Freak', 'Sledgehammer Games', 'VectorCell', 'Edge Games',
-    'Illusion', 'Dark Energy Digital', 'Rising Star Games'
+    'Illusion', 'Dark Energy Digital', 'Rising Star Games', 'Quantic Dream'
+    ]
+
+luminary = [
+    'Notch', 'Sid Meier', 'Will Wright', 'Peter Molyneux', 'Hideo Kojima', 'John Vignocchi',
+    'John Drake', 'Shigeru Miyamoto', 'Jeff Minter', 'Kenta Cho', 'Swery', 'Tim Schafer',
+    'Vince Zampella', 'Jason West', 'John Carmack', 'Phil Fish', 'Jonathan Blow',
+    'Edmund McMillen', 'David Cage',
+    ]
+
+critic = [
+    'Jeff Gerstmanm', 'Justin McElroy', 'Brad Shoemaker', 'Yahtzee', 'Geoff Keighley',
+    ]
+
+publication = [
+    'Polygon', 'Kotaku', 'Giant Bomb', 'Destructoid', 'EGM', 'GameSpot', 'GameSpy',
+    'The Escapist',
+    ]
+
+suit = [
+    'Cliff Bleszinski', 'Gabe Newell', 'Steve Ballmer', 'Bobby Kotick', 'Reggie Fils-Aime',
+    'J Allard',
     ]
 
 story = [
