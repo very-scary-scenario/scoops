@@ -112,7 +112,7 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
     'NCsoft', 'Nippon Ichi Software', 'Rockstar', 'Stardock', 'XSEED Games', 'Two Tribes',
     "Traveller's Tales", 'Naugty Dog', 'WayForward', 'CINEMAX', 'Nnooo', 'Bullfrog',
     'Bohemia Interactive', 'Game Freak', 'Sledgehammer Games', 'VectorCell', 'Edge Games',
-    'Illusion', 'Dark Energy Digital', 'Rising Star Games', 'Quantic Dream'
+    'Illusion', 'Dark Energy Digital', 'Rising Star Games', 'Quantic Dream', 'Rocksteady Studios',
     ]
 
 luminary = [
