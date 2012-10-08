@@ -15,11 +15,7 @@
 -->
     <div class="headline">
     <h2>
-        %if first == 'company':
-            {{story0}}<span class="company">{{company}}</span>{{story1}}<span class="game">{{game}}</span>{{story2}}
-        %else:
-            {{story0}}<span class="game">{{game}}</span>{{story1}}<span class="company">{{company}}</span>{{story2}}
-        %end
+      {{story}}
     </h2>
     </div>
 

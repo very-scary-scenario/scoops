@@ -1,4 +1,5 @@
 #!/usr/bin/env python2
+# -*- coding: utf-8 -*-
 
 import os, sys
 
@@ -13,25 +14,38 @@ import re
 
 import fragments
 
+
+def get_fragment(name):
+    if name == 'franchise':
+        return '%s %s' % (choice(fragments.franchise_a), choice(fragments.franchise_b))
+
+    if name == 'game':
+        return u"“%s”" % choice(fragments.name) % get_fragment('franchise')
+
+    else:
+        return choice(getattr(fragments, name))
+
+def make_story():
+    story= choice(fragments.story)
+    repl = {}
+    for r in re.findall(r'<(.*?)>', story):
+        if r not in repl:
+            repl[r] = get_fragment(r.split('_')[0])
+
+    for r in repl:
+        story = story.replace('<%s>' % r, repl[r])
+
+    return story
+
 @bottle.route('/')
-
 def index(name='Index'):
-    franchise = '%s %s' % (choice(fragments.franchise_a), choice(fragments.franchise_b))
-    company = choice(fragments.company)
-       
-    game_name = choice(fragments.name) % franchise
-    story_raw = choice(fragments.story)
-        
-    order = re.findall('(?<=<).*?(?=>)', story_raw)
-    first = order[0]
+    story = make_story()
 
-    # story = re.sub('<game>', game_name, re.sub('<company>', company, story_raw))
-    story = re.split('<.*?>', story_raw)
-
-    return bottle.template('gamename', story0=story[0], story1=story[1], story2=story[2], first=first, company=company, game=game_name)
+    return bottle.template('gamename', story=story)
 
 application = bottle.default_app()
 
 if __name__ == '__main__':
-    from flup.server.fcgi import WSGIServer
-    WSGIServer(myapp).run()
+    bottle.run(host='localhost', port=8080)
+    #from flup.server.fcgi import WSGIServer
+    #WSGIServer(application).run()

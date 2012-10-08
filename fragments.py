@@ -1,4 +1,4 @@
-# coding=utf-8
+# -*- coding=utf-8 -*-
 
 franchise_a = ['Dark', 'Steel', 'Modern', 'Virtua', 'Burning', 'Half', 'Dead', 'Demon', 'Iron',
     'Zero', 'Lincoln', 'Rock', 'Guitar', 'Brütal', 'FIFA', 'Madden', 'Street', 'Full', 'Twisted',
@@ -117,7 +117,7 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
 
 story = [
     'Our sources inform us that <company> are aiming to ship <game> next holiday season.',
-    'Enraged fans are petitioning <company> to "fix" the ending of <game>.',
+    'Enraged fans are petitioning <company> to “fix” the ending of <game>.',
     '<company> have announced a Kickstarter campaign to fund the development of <game>.',
     'The internet is today angry at <company> after it is revealed that <game> shipped with DLC on-disk.',
     "After shipping the PC version of <game> on Steam, <company> tell us that they couldn't be happier with its new home.",
@@ -139,10 +139,10 @@ story = [
     "Despite prior promises otherwise, <game> shipped on Steam today with <company>'s always-connected DRM system.",
     "<company> today confirmed that <game> will be a Kinect exclusive.",
     "<company> are being criticised on NeoGAF over the handling of microtransactions in <game>.",
-    "Despite <company>'s billion-dollar marketing push, <game> sold fewer than ten thousand copies in its first week on sale.",
+    "Despite <company>’s billion-dollar marketing push, <game> sold fewer than ten thousand copies in its first week on sale.",
     "Shareholders are reportedly angry at <company> over their handling of <game>.",
     "<game> has been nominated for over two hundred Game of the Year awards. <company> have sent representatives around the world to collect every single one.",
-    "<company>, developers of critic's darling <game>, have been purchased by CBS Interactive.",
+    "<company>, developers of critic’s darling <game>, have been purchased by CBS Interactive.",
     "Notch has offered <company> an effective blank check to fund the development of a sequel to <game>.",
     "The tear-jerking viral YouTube video in which a bedridden child plays <game> in her last hours alive has been proven fake. <company> have apologised for misleading the public.",
     "<company> are no longer under threat of hostile takeover after the runaway success of <game>.",
@@ -150,11 +150,11 @@ story = [
     "<company> have confirmed that <game> will ship when planned and multiplayer will be patched in post-release.",
     "Controversy unfolds as <company> are criticised for marketing their adult visual novel <game> to minors.",
     "<company> have sold the rights to make a movie of <game> to an undisclosed third party.",
-    "<company> are playing down the importance of the recent leak of <game>'s script months before it is due to be released.",
+    "<company> are playing down the importance of the recent leak of <game>’s script months before it is due to be released.",
     "Rumours are circulating that <company> are going to announce <game> at a publisher event next week.",
     "After a spate of negative user reviews on Metacritic, <company> have reached out to players of <game> to rebalance the average score.",
-    "About to board a plane to <company>'s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak.",
-#    "<company>'s forthcoming title <game> has been pushed back to be released as a PlayStation 4 launch title.",
+    "About to board a plane to <company>’s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak.",
+#    "<company>’s forthcoming title <game> has been pushed back to be released as a PlayStation 4 launch title.",
     "<company> are being criticised over a sequence in <game> in which players are encouraged to engage in a terrorist act.",
     "Record returns follow record sales and <company> send millions of copies of <game> to landfill.",
     "<company> will be making an agressive return to hoops this fall with <game>."
