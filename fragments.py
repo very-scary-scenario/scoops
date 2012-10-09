@@ -113,27 +113,30 @@ company = ['Lionhead', 'Microsoft', 'Sony', 'Polytron', 'Sega', 'Nintendo', 'Act
     'Traveller’s Tales', 'Naugty Dog', 'WayForward', 'CINEMAX', 'Nnooo', 'Bullfrog',
     'Bohemia Interactive', 'Game Freak', 'Sledgehammer Games', 'VectorCell', 'Edge Games',
     'Illusion', 'Dark Energy Digital', 'Rising Star Games', 'Quantic Dream', 'Rocksteady Studios',
+    'DMA Design',
     ]
 
 luminary = [
     'Notch', 'Sid Meier', 'Will Wright', 'Peter Molyneux', 'Hideo Kojima', 'John Vignocchi',
     'John Drake', 'Shigeru Miyamoto', 'Jeff Minter', 'Kenta Cho', 'Swery', 'Tim Schafer',
     'Vince Zampella', 'Jason West', 'John Carmack', 'Phil Fish', 'Jonathan Blow',
-    'Edmund McMillen', 'David Cage',
+    'Edmund McMillen', 'David Cage', 'Kim Swift', 'Paul Barnett', 'Ken Levine', 'Warren Spector',
+    'Chris Hecker', 'Todd Howard', 'American McGee', 'Dan Houser', 'Sam Houser',
     ]
 
 critic = [
     'Jeff Gerstmanm', 'Justin McElroy', 'Brad Shoemaker', 'Yahtzee', 'Geoff Keighley',
+    'The Angry Video Game Nerd',
     ]
 
 publication = [
     'Polygon', 'Kotaku', 'Giant Bomb', 'Destructoid', 'EGM', 'GameSpot', 'GameSpy',
-    'The Escapist',
+    'The Escapist', 'IGN', 'Joystiq', 'GameTrailers',
     ]
 
 suit = [
     'Cliff Bleszinski', 'Gabe Newell', 'Steve Ballmer', 'Bobby Kotick', 'Reggie Fils-Aime',
-    'J Allard',
+    'J Allard', 'Yves Guillemot', 'Satoru Iwata',
     ]
 
 story = [
@@ -160,7 +163,7 @@ story = [
     "Despite prior promises otherwise, <game> shipped on Steam today with <company>’s always-connected DRM system.",
     "<company> today confirmed that <game> will be a Kinect exclusive.",
     "<company> are being criticised on NeoGAF over the handling of microtransactions in <game>.",
-    "Despite <company>’s billion-dollar marketing push, <game> sold fewer than ten thousand copies in its first week on sale.",
+    u"Despite <company>’s billion-dollar marketing push, <game> sold fewer than ten thousand copies in its first week on sale.",
     "Shareholders are reportedly angry at <company> over their handling of <game>.",
     "<game> has been nominated for over two hundred Game of the Year awards. <company> have sent representatives around the world to collect every single one.",
     "<company>, developers of critic’s darling <game>, have been purchased by CBS Interactive.",
@@ -178,5 +181,6 @@ story = [
 #    "<company>’s forthcoming title <game> has been pushed back to be released as a PlayStation 4 launch title.",
     "<company> are being criticised over a sequence in <game> in which players are encouraged to engage in a terrorist act.",
     "Record returns follow record sales and <company> send millions of copies of <game> to landfill.",
-    "<company> will be making an agressive return to hoops this fall with <game>."
+    "<company> will be making an agressive return to hoops this fall with <game>.",
+    u"Following the controversy surrouding <company_a>’s handling of royalties for <game>, <luminary> has left <company_b>."
     ]
