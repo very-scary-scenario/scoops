@@ -80,7 +80,7 @@ name = ['Ultimate %s', 'The %s', '%s', '%s: Reckoning', '%s 2', '%s 3', '%s 4', 
     '%s: Blood Money', '%s Rearmed', '%s: Peace Walker', '%s Remix', '%s ZX', 'Extreme %s',
     '%s Extreme', 'I Wanna Be the %s', 'Escape from %s', 'Batman: %s', u'Cabela’s %s', '%s: XX/XY',
     'Race Driver: %s', 'BlazBlue: %s', 'Need for Speed: %s', '%s Unlimited', '%s Z', 'NBA %s',
-    u'Tom Clancy’s %s', 'Spider-Man %s', 'Dynasty Warriors: %s', '007; %s', '%s Golf',
+    u'Tom Clancy’s %s', 'Spider-Man %s', 'Dynasty Warriors: %s', '007: %s', '%s Golf',
     'Ratchet & Clank: %s', 'Heroes of %s', 'Dora the Explorer: %s', 'Duke Nukem: %s', 'WWE: %s',
     'Littlest %s', '%s Resort', 'LEGO %s', '%s Online', 'Command & Conquer: %s', '%s: Impact',
     'Rayman: %s', 'Kane & Lynch: %s', '%s Wrestling', '%s Toshinden', 'Ghost Recon: %s', u'%s ’11',
@@ -125,7 +125,7 @@ luminary = [
     ]
 
 critic = [
-    'Jeff Gerstmanm', 'Justin McElroy', 'Brad Shoemaker', 'Yahtzee', 'Geoff Keighley',
+    'Jeff Gerstmann', 'Justin McElroy', 'Brad Shoemaker', 'Yahtzee', 'Geoff Keighley',
     'The Angry Video Game Nerd',
     ]
 
@@ -156,7 +156,7 @@ story = [
     "The open-source project <game> has been forked after its founder sold the name to <company>.",
     "Local flooding has forced <company> to announce that <game> will ship later than expected.",
     "<company> will not be attending E3 this year. They have instead opted to host their own event to promote <game>.",
-    "For the first time, <company> will be shipping a game — <game> — on a console besides their own.",
+    u"For the first time, <company> will be shipping a game — <game> — on a console besides their own.",
     "<company> have released a trailer for their new anime adaptation <game>.",
     "In a move to bring back the genre that made them famous, <company> today announced their new project <game>.",
     u"A new Humble Bundle debuts today. The highlight of the lineup is <company>’s new title, <game>.",
@@ -167,7 +167,7 @@ story = [
     "Shareholders are reportedly angry at <company> over their handling of <game>.",
     "<game> has been nominated for over two hundred Game of the Year awards. <company> have sent representatives around the world to collect every single one.",
     u"<company>, developers of critic’s darling <game>, have been purchased by CBS Interactive.",
-    "Notch has offered <company> an effective blank check to fund the development of a sequel to <game>.",
+    "<luminary> has offered <company> an effective blank check to fund the development of a sequel to <game>.",
     "The tear-jerking viral YouTube video in which a bedridden child plays <game> in her last hours alive has been proven fake. <company> have apologised for misleading the public.",
     "<company> are no longer under threat of hostile takeover after the runaway success of <game>.",
     "Ex-<company> employees are frustrated about their exclusion from the credits of <game>.",
@@ -183,5 +183,5 @@ story = [
     "Record returns follow record sales and <company> send millions of copies of <game> to landfill.",
     "<company> will be making an agressive return to hoops this fall with <game>.",
     u"Following the controversy surrouding <company_a>’s handling of royalties for <game>, <luminary> has left <company_b>.",
-    "<critic> has left <publication> after publishing a suspiciously favourable review of <game>.",
+    "<critic> is the first of many to leave <publication> after publishing a suspiciously favourable review of <game>.",
     ]

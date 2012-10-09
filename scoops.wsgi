@@ -17,21 +17,23 @@ import fragments
 
 def get_fragment(name):
     if name == 'franchise':
-        return '%s %s' % (choice(fragments.franchise_a), choice(fragments.franchise_b))
+        return u'%s %s' % (choice(fragments.franchise_a), choice(fragments.franchise_b))
 
     if name == 'game':
-        return u"“%s”" % choice(fragments.name) % get_fragment('franchise')
+        return u"<em>%s</em>" % choice(fragments.name) % get_fragment('franchise')
 
     else:
         return choice(getattr(fragments, name))
 
 def make_story():
-    story= choice(fragments.story)
+    story = choice(fragments.story)
+    print story
     repl = {}
     for r in re.findall(r'<(.*?)>', story):
         if r not in repl:
             repl[r] = get_fragment(r.split('_')[0])
 
+    print repl
     for r in repl:
         story = story.replace('<%s>' % r, repl[r])
 
@@ -39,7 +41,7 @@ def make_story():
 
 @bottle.route('/')
 def index(name='Index'):
-    story = make_story()
+    story = make_story().replace('&', '&amp;')
 
     return bottle.template('gamename', story=story)
 

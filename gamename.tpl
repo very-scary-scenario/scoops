@@ -15,7 +15,7 @@
 -->
     <div class="headline">
     <h2>
-      {{story}}
+      {{!story}}
     </h2>
     </div>
 
