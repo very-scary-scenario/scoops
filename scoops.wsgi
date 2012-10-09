@@ -27,13 +27,13 @@ def get_fragment(name):
 
 def make_story():
     story = choice(fragments.story)
-    print story
+    # print story
     repl = {}
     for r in re.findall(r'<(.*?)>', story):
         if r not in repl:
             repl[r] = get_fragment(r.split('_')[0])
 
-    print repl
+    # print repl
     for r in repl:
         story = story.replace('<%s>' % r, repl[r])
 
