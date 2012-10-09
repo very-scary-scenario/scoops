@@ -20,7 +20,7 @@ def get_fragment(name):
         return u'%s %s' % (choice(fragments.franchise_a), choice(fragments.franchise_b))
 
     if name == 'game':
-        return u"<em>%s</em>" % choice(fragments.name) % get_fragment('franchise')
+        return u'<em>%s</em>' % choice(fragments.name) % get_fragment('franchise')
 
     else:
         return choice(getattr(fragments, name))
