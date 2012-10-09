@@ -182,5 +182,6 @@ story = [
     "<company> are being criticised over a sequence in <game> in which players are encouraged to engage in a terrorist act.",
     "Record returns follow record sales and <company> send millions of copies of <game> to landfill.",
     "<company> will be making an agressive return to hoops this fall with <game>.",
-    u"Following the controversy surrouding <company_a>’s handling of royalties for <game>, <luminary> has left <company_b>."
+    u"Following the controversy surrouding <company_a>’s handling of royalties for <game>, <luminary> has left <company_b>.",
+    "<critic> has left <publication> after publishing a suspiciously favourable review of <game>.",
     ]
