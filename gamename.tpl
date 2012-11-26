@@ -21,7 +21,7 @@
     </div>
 
     <p class="further">
-        For more on these or other stories from the world of video games, check out <a href="https://twitter.com/patrickklepek">Patrick&nbsp;<em>Trick</em>&nbsp;<em>Tricky</em>&nbsp;<em>Scoops</em>&nbsp;Klepek</a> (on twitter).
+        For more on these or other stories from the world of video games, check out <a href="https://twitter.com/scooperson">Tricky&nbsp;Scooperson</a> on Twitter.
     </p>
     <div class="credit">
         <a id="stamp" target="_blank" href="http://www.musicfortheblind.co.uk/">
