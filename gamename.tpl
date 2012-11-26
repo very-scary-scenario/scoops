@@ -24,8 +24,10 @@
         For more on these or other stories from the world of video games, check out <a href="https://twitter.com/patrickklepek">Patrick&nbsp;<em>Trick</em>&nbsp;<em>Tricky</em>&nbsp;<em>Scoops</em>&nbsp;Klepek</a> (on twitter).
     </p>
     <div class="credit">
+        <a id="stamp" target="_blank" href="http://www.musicfortheblind.co.uk/">
+            <img alt="Music for the Blind" title="music for the blind" src="http://d.bldm.us/stamp.png"> 
+        </a>
         <p><a href="https://github.com/colons/scoops">Source</a> (Python, Bottle)</p>
-        <p>A <a href="http://www.musicfortheblind.co.uk/">Music for the Blind</a> production</p>
     </div>
     </body>
 </html>
