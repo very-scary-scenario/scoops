@@ -121,7 +121,7 @@ luminary = [
     u'John Drake', u'Shigeru Miyamoto', u'Jeff Minter', u'Kenta Cho', u'Swery', u'Tim Schafer',
     u'Vince Zampella', u'Jason West', u'John Carmack', u'Phil Fish', u'Jonathan Blow',
     u'Edmund McMillen', u'David Cage', u'Kim Swift', u'Paul Barnett', u'Ken Levine', u'Warren Spector',
-    u'Chris Hecker', u'Todd Howard', u'American McGee', u'Dan Houser', u'Sam Houser',
+    u'Chris Hecker', u'Todd Howard', u'American McGee', u'Dan Houser', u'Sam Houser', u'Harvey Smith',
     ]
 
 critic = [
