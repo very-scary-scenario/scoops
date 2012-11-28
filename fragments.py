@@ -201,7 +201,7 @@ story = [
     u"In the age of the <platform>, where does <luminary> fit into <company>?",
     u"<luminary> has revealed to <publication> that <game_a> was intended as a tribute to <game_b>.",
     u"<game> sold <quantity> copies in its first week. Considering the state of <company>, how much more can we expect from <luminary>?",
-    u"In a public rant on <community>, <luminary> finally lets <critic> know the dark truth about <game>",
+    u"In a public rant on <community>, <luminary> finally lets <critic> know the dark truth about <game>.",
     u"<game_a> has some surprising simularities with <game_b>. Long-time <company> fans have mixed opinions.",
     u"<company> have finally announced a reboot of <game> for <platform>.",
     ]
