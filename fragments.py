@@ -149,6 +149,10 @@ platform = [
     u'Nintendo DS', u'Game Boy Color', u'Nintendo 3DS', u'PlayStation Vita', u'PSP',
     ]
 
+quantity = [
+    u'2', u'42', u'5,000', u'400,000', u'775 million', 
+    ]
+
 story = [
     u'Our sources inform us that <company> are aiming to ship <game> next holiday season.',
     u'Enraged fans are petitioning <company> to “fix” the ending of <game>.',
@@ -195,4 +199,9 @@ story = [
     u"Following the controversy surrouding <company_a>’s handling of royalties for <game>, <luminary> has left <company_b>.",
     u"<critic> is the first of many to leave <publication> after publishing a suspiciously favourable review of <game>.",
     u"In the age of the <platform>, where does <luminary> fit into <company>?",
+    u"<luminary> has revealed to <publication> that <game_a> was intended as a tribute to <game_b>.",
+    u"<game> sold <quantity> copies in its first week. Considering the state of <company>, how much more can we expect from <luminary>?",
+    u"In a public rant on <community>, <luminary> finally lets <critic> know the dark truth about <game>",
+    u"<game_a> has some surprising simularities with <game_b>. Long-time <company> fans have mixed opinions.",
+    u"<company> have finally announced a reboot of <game> for <platform>.",
     ]
