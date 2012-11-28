@@ -139,6 +139,10 @@ suit = [
     u'J Allard', u'Yves Guillemot', u'Satoru Iwata',
     ]
 
+community = [
+    u'4chan', u'Reddit', u'NeoGAF', u'Twitter',
+    ]
+
 story = [
     u'Our sources inform us that <company> are aiming to ship <game> next holiday season.',
     u'Enraged fans are petitioning <company> to “fix” the ending of <game>.',
@@ -162,7 +166,7 @@ story = [
     u"A new Humble Bundle debuts today. The highlight of the lineup is <company>’s new title, <game>.",
     u"Despite prior promises otherwise, <game> shipped on Steam today with <company>’s always-connected DRM system.",
     u"<company> today confirmed that <game> will be a Kinect exclusive.",
-    u"<company> are being criticised on NeoGAF over the handling of microtransactions in <game>.",
+    u"<company> are being criticised on <community> over the handling of microtransactions in <game>.",
     u"Despite <company>’s billion-dollar marketing push, <game> sold fewer than ten thousand copies in its first week on sale.",
     u"Shareholders are reportedly angry at <company> over their handling of <game>.",
     u"<game> has been nominated for over two hundred Game of the Year awards. <company> have sent representatives around the world to collect every single one.",
