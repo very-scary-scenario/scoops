@@ -18,6 +18,10 @@ def index(name='Index'):
 
     return bottle.template('gamename', story=story)
 
+@bottle.route('/raw')
+def raw(name='Raw'):
+    return make_story(html=False)
+
 application = bottle.default_app()
 
 if __name__ == '__main__':
