@@ -92,6 +92,7 @@ name = [u'Ultimate %s', u'The %s', u'%s', u'%s: Reckoning', u'%s 2', u'%s 3', u'
     u'%s Black Label', u'%s: Touched!'
     ]
 
+# should really be split into developer/publisher
 company = [u'Lionhead', u'Microsoft', u'Sony', u'Polytron', u'Sega', u'Nintendo', u'Activision', u'EA',
     u'Bioware', u'Bethesda', u'Valve', u'From Software', u'Double Fine', u'Gameloft', u'Zynga', u'22 Cans',
     u'Carbon Neutral Games', u'Harmonix', u'Neversoft', u'Mojang', u'Dejobaan', u'Telltale Games',
@@ -180,7 +181,7 @@ story = [
     u"Despite <company>’s billion-dollar marketing push, <game> sold fewer than ten thousand copies in its first week on sale.",
     u"Shareholders are reportedly angry at <company> over their handling of <game>.",
     u"<game> has been nominated for over two hundred Game of the Year awards. <company> have sent representatives around the world to collect every single one.",
-    u"<company>, developers of critic’s darling <game>, have been purchased by CBS Interactive.",
+    u"<company_a>, developers of critic’s darling <game>, have been purchased by <company_b>.",
     u"<luminary> has offered <company> an effective blank check to fund the development of a sequel to <game>.",
     u"The tear-jerking viral YouTube video in which a bedridden child plays <game> in her last hours alive has been proven fake. <company> have apologised for misleading the public.",
     u"<company> are no longer under threat of hostile takeover after the runaway success of <game>.",

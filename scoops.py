@@ -5,9 +5,6 @@ from random import choice
 import re
 
 import fragments
-import tweepy
-
-from sys import argv
 
 
 def get_fragment(name, html):
@@ -37,6 +34,7 @@ def make_story(html=True):
     return story
 
 if __name__ == '__main__':
+    from sys import argv
     if 'tweet' in argv: tweet = True
     else: tweet = False
 
@@ -45,7 +43,10 @@ if __name__ == '__main__':
         if not tweet or len(story) <= 140: break
     
     if tweet:
+        import tweepy
+
         from secrets import consumer_key, consumer_secret, key, secret
+
         auth = tweepy.auth.OAuthHandler(consumer_key, consumer_secret)
         auth.set_access_token(key, secret)
 
