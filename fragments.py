@@ -194,4 +194,5 @@ story = [
     u"<company> will be making an agressive return to hoops this fall with <game>.",
     u"Following the controversy surrouding <company_a>’s handling of royalties for <game>, <luminary> has left <company_b>.",
     u"<critic> is the first of many to leave <publication> after publishing a suspiciously favourable review of <game>.",
+    u"In the age of the <platform>, where does <luminary> fit into <company>?",
     ]
