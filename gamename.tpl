@@ -27,7 +27,7 @@
         <a id="stamp" target="_blank" href="http://www.musicfortheblind.co.uk/">
             <img alt="Music for the Blind" title="music for the blind" src="http://d.bldm.us/stamp.png"> 
         </a>
-        <p><a href="https://github.com/colons/scoops">Source</a> (Python, Bottle)</p>
+        <p><a href="/raw">Plain text Scoops</a> | <a href="https://github.com/colons/scoops">Scoops on GitHub</a></p>
     </div>
     </body>
 </html>
