@@ -26,7 +26,7 @@ franchise_a = [u'Dark', u'Steel', u'Modern', u'Virtua', u'Burning', u'Half', u'D
     u'Trauma', u'Jimmy', u'Age of', u'Jungle', u'Animal', u'Naughty', u'Ancient', u'Smash', u'Item',
     u'Monday Night', u'Cooking', u'Pro', u'Spirit', u'Exotic', u'System', u'Criminal', u'Mystic', u'Elder',
     u'Ocarina of', u'Theme', u'Hyperdimension', u'Kirby’s', u'Epic', u'Dante’s', u'Mecha', u'Yoshi’s',
-    u'Paper'
+    u'Paper', u'Ultimate',
     ]
 
 franchise_b = [u'Souls', u'Storm', u'Batallion', u'Warfare', u'Tennis', u'Fighter', u'Retribution',
@@ -89,7 +89,7 @@ name = [u'Ultimate %s', u'The %s', u'%s', u'%s: Reckoning', u'%s 2', u'%s 3', u'
     u'%s at War', u'Tony Hawk %s', u'My %s', u'myNotebook %s', u'%sVille', u'%s: Warped', u'%s Reloaded',
     u'Buzz! %s', u'%s Jr.', u'%s Rising', u'%s Red Version', u'%s Blue Version', u'%s Zero', u'%s Climax',
     u'%s at the Olympic Games', u'%s Turbo', u'%s 2000', u'%s 3000', u'%s: Insect Armageddon',
-    u'%s Black Label', u'%s: Touched!'
+    u'%s Black Label', u'%s: Touched!', u'%s Gold', u'Ultimate %s', u'%S X', u'%s Y', u'%s + Cats',
     ]
 
 # should really be split into developer/publisher
