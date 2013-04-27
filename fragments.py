@@ -115,7 +115,7 @@ company = [u'Lionhead', u'Microsoft', u'Sony', u'Polytron', u'Sega', u'Nintendo'
     u'Traveller’s Tales', u'Naugty Dog', u'WayForward', u'CINEMAX', u'Nnooo', u'Bullfrog',
     u'Bohemia Interactive', u'Game Freak', u'Sledgehammer Games', u'VectorCell', u'Edge Games',
     u'Illusion', u'Dark Energy Digital', u'Rising Star Games', u'Quantic Dream', u'Rocksteady Studios',
-    u'DMA Design',
+    u'DMA Design', u'CCP',
     ]
 
 luminary = [
