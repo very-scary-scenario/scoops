@@ -152,8 +152,16 @@ platform = [
     ]
 
 quantity = [
-    u'2', u'42', u'5,000', u'400,000', u'775 million', 
-    ]
+    u'2', u'42', u'5,000', u'400,000', u'775 million',
+]
+
+peripheral = [
+    u'Oculus Rift', u'Power Glove', u'Guitar Hero guitar', u'Kinect',
+    u'PlayStation Move', u'Vitality Sensor', u'Novint Falcon', u'dance mat',
+    u'R.O.B.', u'Leap Motion Controller', u'Cicle Pad Pro',
+    u'Game Boy Printer', u'Game Boy Camera', u'uDraw', u'Wii Balance Board',
+    u'IllumiRoom', u'Xbox SmartGlass', u'Rumble Pak', u'Buzz! Buzzer',
+]
 
 story = [
     u'Our sources inform us that <company> are aiming to ship <game> next holiday season.',
@@ -161,7 +169,7 @@ story = [
     u'<company> have announced a Kickstarter campaign to fund the development of <game>.',
     u'The internet is today angry at <company> after it is revealed that <game> shipped with DLC on-disk.',
     u"After shipping the PC version of <game> on Steam, <company> tell us that they couldn’t be happier with its new home.",
-    u"Protestors are picketing the offices of <company> today after the discovery of a hidden sex minigame in <game>.",
+    u"Protesters are picketing the offices of <company> today after the discovery of a hidden sex minigame in <game>.",
     u"<company> have been forced to lay off hundreds of employees due to the poor Metacritic performance of <game>.",
     u"<company> have issued a global recall of <game> following the discovery that it contains potentially offensive religious content.",
     u"Gamers rejoice! After fifteen years in development, <company> have finally released <game>.",
@@ -197,13 +205,14 @@ story = [
 #   u"<company>’s forthcoming title <game> has been pushed back to be released as a PlayStation 4 launch title.",
     u"<company> are being criticised over a sequence in <game> in which players are encouraged to engage in a terrorist act.",
     u"Record returns follow record sales and <company> send millions of copies of <game> to landfill.",
-    u"<company> will be making an agressive return to hoops this fall with <game>.",
-    u"Following the controversy surrouding <company_a>’s handling of royalties for <game>, <luminary> has left <company_b>.",
+    u"<company> will be making an aggressive return to hoops this fall with <game>.",
+    u"Following the controversy surrounding <company_a>’s handling of royalties for <game>, <luminary> has left <company_b>.",
     u"<critic> is the first of many to leave <publication> after publishing a suspiciously favourable review of <game>.",
     u"In the age of the <platform>, where does <luminary> fit into <company>?",
     u"<luminary> has revealed to <publication> that <game_a> was intended as a tribute to <game_b>.",
     u"<game> sold <quantity> copies in its first week. Considering the state of <company>, how much more can we expect from <luminary>?",
     u"In a public rant on <community>, <luminary> finally lets <critic> know the dark truth about <game>.",
-    u"<game_a> has some surprising simularities with <game_b>. Long-time <company> fans have mixed opinions.",
+    u"<game_a> has some surprising similarities with <game_b>. Long-time <company> fans have mixed opinions.",
     u"<company> have finally announced a reboot of <game> for <platform>.",
-    ]
+    u"<company> have announced an upcoming update for <game>, adding <peripheral> support.",
+]
