@@ -89,7 +89,7 @@ name = [u'Ultimate %s', u'The %s', u'%s', u'%s: Reckoning', u'%s 2', u'%s 3', u'
     u'%s at War', u'Tony Hawk %s', u'My %s', u'myNotebook %s', u'%sVille', u'%s: Warped', u'%s Reloaded',
     u'Buzz! %s', u'%s Jr.', u'%s Rising', u'%s Red Version', u'%s Blue Version', u'%s Zero', u'%s Climax',
     u'%s at the Olympic Games', u'%s Turbo', u'%s 2000', u'%s 3000', u'%s: Insect Armageddon',
-    u'%s Black Label', u'%s: Touched!', u'%s Gold', u'Ultimate %s', u'%s X', u'%s Y', u'%s + Cats',
+    u'%s Black Label', u'%s: Touched!', u'%s Gold', u'Ultimate %s', u'%S X', u'%s Y', u'%s + Cats',
     u'John Woo Presents %s', u'American McGee’s %s', u'John Madden %s'
     ]
 
@@ -203,7 +203,6 @@ story = [
     u"Rumours are circulating that <company> are going to announce <game> at a publisher event next week.",
     u"After a spate of negative user reviews on Metacritic, <company> have reached out to players of <game> to rebalance the average score.",
     u"About to board a plane to <company>’s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak.",
-#   u"<company>’s forthcoming title <game> has been pushed back to be released as a PlayStation 4 launch title.",
     u"<company> are being criticised over a sequence in <game> in which players are encouraged to engage in a terrorist act.",
     u"Record returns follow record sales and <company> send millions of copies of <game> to landfill.",
     u"<company> will be making an aggressive return to hoops this fall with <game>.",
