@@ -153,6 +153,7 @@ platform = [
     u'Neo Geo', u'Super Nintendo', u'Genesis', u'Dreamcast', u'Nintendo 64', u'PlayStation',
     u'PlayStation 2', u'PlayStation 3', u'Xbox', u'Xbox 360', u'Wii', u'Wii U', u'Atari 2600',
     u'Nintendo DS', u'Game Boy Color', u'Nintendo 3DS', u'PlayStation Vita', u'PSP',
+    u'PlayStation 4', u'Xbox One',
 ]
 
 quantity = [
