@@ -219,7 +219,7 @@ story = [
     u"<game_a> has some surprising similarities with <game_b>. Long-time <company> fans have mixed opinions.",
     u"<company> have finally announced a reboot of <game> for <platform>.",
     u"<company> have announced an upcoming update for <game>, adding <peripheral> support.",
-    u"Despite the prerelease hype, critics have universally panned the <peripheral> since its release.",
+    u"Despite the prerelease hype and the critical success of <game>, the <peripheral> has failed to live up to sales expectations.",
     u"Commenters on <community> are speculating the worst after <company> have refused to clarify their policy on used games in their recently-announced console.",
     u"<platform> is about to become the next water cooler.",
     u"<game> will feature a dog as a fascinating new addition to your squad.",
