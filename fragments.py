@@ -1,6 +1,7 @@
 # -*- coding=utf-8 -*-
 
-franchise_a = [u'Dark', u'Steel', u'Modern', u'Virtua', u'Burning', u'Half', u'Dead', u'Demon', u'Iron',
+franchise_a = [
+    u'Dark', u'Steel', u'Modern', u'Virtua', u'Burning', u'Half', u'Dead', u'Demon', u'Iron',
     u'Zero', u'Lincoln', u'Rock', u'Guitar', u'Brütal', u'FIFA', u'Madden', u'Street', u'Full', u'Twisted',
     u'Dungeon', u'Team', u'Hard', u'Mirror’s', u'Love', u'Saints', u'Dragon', u'Black', u'L.A.', u'Mass',
     u'Night', u'Solar', u'Bad', u'Battle', u'Rhythm', u'Renegade', u'Puzzle', u'Mad', u'Geometry',
@@ -26,10 +27,11 @@ franchise_a = [u'Dark', u'Steel', u'Modern', u'Virtua', u'Burning', u'Half', u'D
     u'Trauma', u'Jimmy', u'Age of', u'Jungle', u'Animal', u'Naughty', u'Ancient', u'Smash', u'Item',
     u'Monday Night', u'Cooking', u'Pro', u'Spirit', u'Exotic', u'System', u'Criminal', u'Mystic', u'Elder',
     u'Ocarina of', u'Theme', u'Hyperdimension', u'Kirby’s', u'Epic', u'Dante’s', u'Mecha', u'Yoshi’s',
-    u'Paper', u'Ultimate',
-    ]
+    u'Paper', u'Ultimate', u'Soda',
+]
 
-franchise_b = [u'Souls', u'Storm', u'Batallion', u'Warfare', u'Tennis', u'Fighter', u'Retribution',
+franchise_b = [
+    u'Souls', u'Storm', u'Batallion', u'Warfare', u'Tennis', u'Fighter', u'Retribution',
     u'Life', u'Death', u'Space', u'Blade', u'Brigade', u'Mania', u'Wing', u'Flame', u'F.O.R.C.E.', u'Band',
     u'Hero', u'Legend', u'Football', u'Tentacle', u'Mansion', u'Heroes', u'Hour', u'Forge', u'Drive',
     u'Fortress', u'Reset', u'Edge', u'Pachinko', u'Plus', u'Arena', u'Descent', u'Noire', u'Ops', u'Rain',
@@ -55,10 +57,11 @@ franchise_b = [u'Souls', u'Storm', u'Batallion', u'Warfare', u'Tennis', u'Fighte
     u'Village', u'Box', u'Warrior', u'Warriors', u'Fantasy', u'Ruler', u'Center', u'Dave', u'Paint',
     u'Forest', u'Beat', u'Crossing', u'Bass', u'TV', u'Dawn', u'Mama', u'Skater', u'Pilot', u'Raiders',
     u'Farm', u'Shock', u'Origins', u'Underworld', u'Scrolls', u'Colossus', u'Mask', u'Snowboarding',
-    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest'
-    ]
+    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker',
+]
 
-name = [u'Ultimate %s', u'The %s', u'%s', u'%s: Reckoning', u'%s 2', u'%s 3', u'%s 4', u'%s 5', u'%s 9',
+name = [
+    u'Ultimate %s', u'The %s', u'%s', u'%s: Reckoning', u'%s 2', u'%s 3', u'%s 4', u'%s 5', u'%s 9',
     u'%s: Episode Three', u'Imagine™ %s', u'%s HD', u'%s with Friends', u'%s: Anniversary', u'%s 7',
     u'The Legend of %s', u'%s: Evolution', u'Call of Duty: %s', u'%s: Redemption', u'%s United',
     u'%s! - The Quest for Gravity', u'%s!!! - A Reckless Disregard for Gravity', u'%s: Hot Pursuit',
@@ -90,11 +93,12 @@ name = [u'Ultimate %s', u'The %s', u'%s', u'%s: Reckoning', u'%s 2', u'%s 3', u'
     u'Buzz! %s', u'%s Jr.', u'%s Rising', u'%s Red Version', u'%s Blue Version', u'%s Zero', u'%s Climax',
     u'%s at the Olympic Games', u'%s Turbo', u'%s 2000', u'%s 3000', u'%s: Insect Armageddon',
     u'%s Black Label', u'%s: Touched!', u'%s Gold', u'Ultimate %s', u'%S X', u'%s Y', u'%s + Cats',
-    u'John Woo Presents %s', u'American McGee’s %s', u'John Madden %s'
-    ]
+    u'John Woo Presents %s', u'American McGee’s %s', u'John Madden %s', u'%s Pro',
+]
 
 # should really be split into developer/publisher
-company = [u'Lionhead', u'Microsoft', u'Sony', u'Polytron', u'Sega', u'Nintendo', u'Activision', u'EA',
+company = [
+    u'Lionhead', u'Microsoft', u'Sony', u'Polytron', u'Sega', u'Nintendo', u'Activision', u'EA',
     u'Bioware', u'Bethesda', u'Valve', u'From Software', u'Double Fine', u'Gameloft', u'Zynga', u'22 Cans',
     u'Carbon Neutral Games', u'Harmonix', u'Neversoft', u'Mojang', u'Dejobaan', u'Telltale Games',
     u'Oddworld Inhabitants', u'Cipher Prime', u'LucasArts', u'thatgamecompany', u'Access Games',
@@ -116,7 +120,7 @@ company = [u'Lionhead', u'Microsoft', u'Sony', u'Polytron', u'Sega', u'Nintendo'
     u'Bohemia Interactive', u'Game Freak', u'Sledgehammer Games', u'VectorCell', u'Edge Games',
     u'Illusion', u'Dark Energy Digital', u'Rising Star Games', u'Quantic Dream', u'Rocksteady Studios',
     u'DMA Design', u'CCP',
-    ]
+]
 
 luminary = [
     u'Notch', u'Sid Meier', u'Will Wright', u'Peter Molyneux', u'Hideo Kojima', u'John Vignocchi',
@@ -124,32 +128,32 @@ luminary = [
     u'Vince Zampella', u'Jason West', u'John Carmack', u'Phil Fish', u'Jonathan Blow',
     u'Edmund McMillen', u'David Cage', u'Kim Swift', u'Paul Barnett', u'Ken Levine', u'Warren Spector',
     u'Chris Hecker', u'Todd Howard', u'American McGee', u'Dan Houser', u'Sam Houser', u'Harvey Smith',
-    ]
+]
 
 critic = [
     u'Jeff Gerstmann', u'Justin McElroy', u'Brad Shoemaker', u'Yahtzee', u'Geoff Keighley',
     u'The Angry Video Game Nerd',
-    ]
+]
 
 publication = [
     u'Polygon', u'Kotaku', u'Giant Bomb', u'Destructoid', u'EGM', u'GameSpot', u'GameSpy',
     u'The Escapist', u'IGN', u'Joystiq', u'GameTrailers',
-    ]
+]
 
 suit = [
     u'Cliff Bleszinski', u'Gabe Newell', u'Steve Ballmer', u'Bobby Kotick', u'Reggie Fils-Aime',
-    u'J Allard', u'Yves Guillemot', u'Satoru Iwata',
-    ]
+    u'J Allard', u'Yves Guillemot', u'Satoru Iwata', u'Don Mattrick',
+]
 
 community = [
     u'4chan', u'Reddit', u'NeoGAF', u'Twitter',
-    ]
+]
 
 platform = [
     u'Neo Geo', u'Super Nintendo', u'Genesis', u'Dreamcast', u'Nintendo 64', u'PlayStation',
     u'PlayStation 2', u'PlayStation 3', u'Xbox', u'Xbox 360', u'Wii', u'Wii U', u'Atari 2600',
     u'Nintendo DS', u'Game Boy Color', u'Nintendo 3DS', u'PlayStation Vita', u'PSP',
-    ]
+]
 
 quantity = [
     u'2', u'42', u'5,000', u'400,000', u'775 million',
@@ -186,7 +190,7 @@ story = [
     u"In a move to bring back the genre that made them famous, <company> today announced their new project <game>.",
     u"A new Humble Bundle debuts today. The highlight of the lineup is <company>’s new title, <game>.",
     u"Despite prior promises otherwise, <game> shipped on Steam today with <company>’s always-connected DRM system.",
-    u"<company> today confirmed that <game> will be a Kinect exclusive.",
+    u"<company> today confirmed that <game> will be a <peripheral> exclusive.",
     u"<company> are being criticised on <community> over the handling of microtransactions in <game>.",
     u"Despite <company>’s billion-dollar marketing push, <game> sold fewer than ten thousand copies in its first week on sale.",
     u"Shareholders are reportedly angry at <company> over their handling of <game>.",
@@ -215,4 +219,10 @@ story = [
     u"<game_a> has some surprising similarities with <game_b>. Long-time <company> fans have mixed opinions.",
     u"<company> have finally announced a reboot of <game> for <platform>.",
     u"<company> have announced an upcoming update for <game>, adding <peripheral> support.",
+    u"Despite the prerelease hype, critics have universally panned the <peripheral> since its release.",
+    u"Commenters on <community> are speculating the worst after <company> have refused to clarify their policy on used games in their recently-announced console.",
+    u"<platform> is about to become the next water cooler.",
+    u"<game> will feature a dog as a fascinating new addition to your squad.",
+    u"<company> have announced plans to produce a television series based on <game>.",
+    u"Fans on <community> are outraged after <company> announces plans to fix a “bug” in <game> that allows homosexual partnerships and male pregnancy.",
 ]
