@@ -153,7 +153,7 @@ platform = [
     u'Neo Geo', u'Super Nintendo', u'Genesis', u'Dreamcast', u'Nintendo 64', u'PlayStation',
     u'PlayStation 2', u'PlayStation 3', u'Xbox', u'Xbox 360', u'Wii', u'Wii U', u'Atari 2600',
     u'Nintendo DS', u'Game Boy Color', u'Nintendo 3DS', u'PlayStation Vita', u'PSP',
-    u'PlayStation 4', u'Xbox One',
+    u'PlayStation 4', u'Xbox One', u'iPhone', u'iPad', u'Ouya', u'3DO',
 ]
 
 quantity = [
@@ -167,6 +167,10 @@ peripheral = [
     u'Game Boy Printer', u'Game Boy Camera', u'uDraw', u'Wii Balance Board',
     u'IllumiRoom', u'Xbox SmartGlass', u'Rumble Pak', u'Buzz! Buzzer',
     u'Trance Vibrator', u'Pokéwalker',
+]
+
+event = [
+    u'E3', u'PAX', u'GDC', u'TGS', u'BlizzCon', u'Fanfest',
 ]
 
 story = [
@@ -226,4 +230,5 @@ story = [
     u"<game> will feature a dog as a fascinating new addition to your squad.",
     u"<company> have announced plans to produce a television series based on <game>.",
     u"Fans on <community> are outraged after <company> announces plans to fix a “bug” in <game> that allows homosexual partnerships and male pregnancy.",
+    u"Mere days after <event>, <company> have announced a complete reversal their <platform> DRM policies.",
 ]
