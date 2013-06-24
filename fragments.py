@@ -27,7 +27,7 @@ franchise_a = [
     u'Trauma', u'Jimmy', u'Age of', u'Jungle', u'Animal', u'Naughty', u'Ancient', u'Smash', u'Item',
     u'Monday Night', u'Cooking', u'Pro', u'Spirit', u'Exotic', u'System', u'Criminal', u'Mystic', u'Elder',
     u'Ocarina of', u'Theme', u'Hyperdimension', u'Kirby’s', u'Epic', u'Dante’s', u'Mecha', u'Yoshi’s',
-    u'Paper', u'Ultimate', u'Soda',
+    u'Paper', u'Ultimate', u'Soda', u'Rogue',
 ]
 
 franchise_b = [
@@ -57,7 +57,7 @@ franchise_b = [
     u'Village', u'Box', u'Warrior', u'Warriors', u'Fantasy', u'Ruler', u'Center', u'Dave', u'Paint',
     u'Forest', u'Beat', u'Crossing', u'Bass', u'TV', u'Dawn', u'Mama', u'Skater', u'Pilot', u'Raiders',
     u'Farm', u'Shock', u'Origins', u'Underworld', u'Scrolls', u'Colossus', u'Mask', u'Snowboarding',
-    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker',
+    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy',
 ]
 
 name = [
