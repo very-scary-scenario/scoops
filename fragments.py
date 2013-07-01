@@ -163,7 +163,7 @@ quantity = [
 peripheral = [
     u'Oculus Rift', u'Power Glove', u'Guitar Hero guitar', u'Kinect',
     u'PlayStation Move', u'Vitality Sensor', u'Novint Falcon', u'dance mat',
-    u'R.O.B.', u'Leap Motion Controller', u'Cicle Pad Pro',
+    u'R.O.B.', u'Leap Motion Controller', u'Circle Pad Pro',
     u'Game Boy Printer', u'Game Boy Camera', u'uDraw', u'Wii Balance Board',
     u'IllumiRoom', u'Xbox SmartGlass', u'Rumble Pak', u'Buzz! Buzzer',
     u'Trance Vibrator', u'Pokéwalker',
