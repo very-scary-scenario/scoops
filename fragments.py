@@ -189,7 +189,7 @@ story = [
     u"An anonymous <company> employee has started a blog documenting the poor working conditions on the <game> team.",
     u"The open-source project <game> has been forked after its founder sold the name to <company>.",
     u"Local flooding has forced <company> to announce that <game> will ship later than expected.",
-    u"<company> will not be attending E3 this year. They have instead opted to host their own event to promote <game>.",
+    u"<company> will not be attending <event> this year. They have instead opted to host their own event to promote <game>.",
     u"For the first time, <company> will be shipping a game — <game> — on a console besides their own.",
     u"<company> have released a trailer for their new anime adaptation <game>.",
     u"In a move to bring back the genre that made them famous, <company> today announced their new project <game>.",
