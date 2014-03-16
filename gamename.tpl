@@ -4,9 +4,9 @@
         <meta charset="utf-8">
         <title>The Latest Scoops!</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <link rel="stylesheet" type="text/css" href="http://d.bldm.us/scoops.css?v=stamp">
-        <link href='http://fonts.googleapis.com/css?family=Lora:700,400' rel='stylesheet' type='text/css'>
-        <link rel="shortcut icon" href="http://media.musicfortheblind.co.uk/static/favicon.ico" type="image/vnd.microsoft.icon">
+        <link rel="stylesheet" type="text/css" href="https://colons.co/scoops.css?v=stamp">
+        <link href='https://fonts.googleapis.com/css?family=Lora:700,400' rel='stylesheet' type='text/css'>
+        <link rel="shortcut icon" href="https://media.musicfortheblind.co.uk/static/favicon.ico" type="image/vnd.microsoft.icon">
     </head>
 
     <body>
@@ -25,7 +25,7 @@
     </p>
     <div class="credit">
         <a id="stamp" target="_blank" href="http://www.musicfortheblind.co.uk/">
-            <img alt="Music for the Blind" title="music for the blind" src="http://d.bldm.us/stamp.png"> 
+            <img alt="Music for the Blind" title="music for the blind" src="https://colons.co/stamp.png"> 
         </a>
         <p><a href="/raw">Plain text Scoops</a> | <a href="https://github.com/colons/scoops">Scoops on GitHub</a></p>
     </div>
