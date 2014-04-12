@@ -230,5 +230,5 @@ story = [
     u"<game> will feature a dog as a fascinating new addition to your squad.",
     u"<company> have announced plans to produce a television series based on <game>.",
     u"Fans on <community> are outraged after <company> announces plans to fix a “bug” in <game> that allows homosexual partnerships and male pregnancy.",
-    u"Mere days after <event>, <company> have announced a complete reversal their <platform> DRM policies.",
+    u"Mere days after <event>, <company> have announced a complete reversal of their <platform> DRM policies.",
 ]
