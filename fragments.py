@@ -151,6 +151,7 @@ suit = [
 
 community = [
     u'4chan', u'Reddit', u'NeoGAF', u'Twitter', u'2ch',
+]
 
 platform = [
     u'Neo Geo', u'Super Nintendo', u'Genesis', u'Dreamcast', u'Nintendo 64', u'PlayStation',
