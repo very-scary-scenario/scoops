@@ -27,7 +27,7 @@ franchise_a = [
     u'Trauma', u'Jimmy', u'Age of', u'Jungle', u'Animal', u'Naughty', u'Ancient', u'Smash', u'Item',
     u'Monday Night', u'Cooking', u'Pro', u'Spirit', u'Exotic', u'System', u'Criminal', u'Mystic', u'Elder',
     u'Ocarina of', u'Theme', u'Hyperdimension', u'Kirby’s', u'Epic', u'Dante’s', u'Mecha', u'Yoshi’s',
-    u'Paper', u'Ultimate', u'Soda', u'Rogue',
+    u'Paper', u'Ultimate', u'Soda', u'Rogue', u'Frog',
 ]
 
 franchise_b = [
@@ -57,7 +57,7 @@ franchise_b = [
     u'Village', u'Box', u'Warrior', u'Warriors', u'Fantasy', u'Ruler', u'Center', u'Dave', u'Paint',
     u'Forest', u'Beat', u'Crossing', u'Bass', u'TV', u'Dawn', u'Mama', u'Skater', u'Pilot', u'Raiders',
     u'Farm', u'Shock', u'Origins', u'Underworld', u'Scrolls', u'Colossus', u'Mask', u'Snowboarding',
-    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy',
+    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy', u'Fractions',
 ]
 
 name = [
@@ -93,7 +93,8 @@ name = [
     u'Buzz! %s', u'%s Jr.', u'%s Rising', u'%s Red Version', u'%s Blue Version', u'%s Zero', u'%s Climax',
     u'%s at the Olympic Games', u'%s Turbo', u'%s 2000', u'%s 3000', u'%s: Insect Armageddon',
     u'%s Black Label', u'%s: Touched!', u'%s Gold', u'Ultimate %s', u'%s X', u'%s Y', u'%s + Cats',
-    u'John Woo Presents %s', u'American McGee’s %s', u'John Madden %s', u'%s Pro',
+    u'John Woo Presents %s', u'American McGee’s %s', u'John Madden %s', u'%s Pro', u'%s: Isolation',
+    u'%s: The Ultimax Ultra Suplex Hold', u'%s 2K14', u'%s 2K15',
 ]
 
 # should really be split into developer/publisher
@@ -104,7 +105,7 @@ company = [
     u'Oddworld Inhabitants', u'Cipher Prime', u'LucasArts', u'thatgamecompany', u'Access Games',
     u'Media Molecule', u'Team Meat', u'Rockstar North', u'Team Bondi', u'Bizarre Creations',
     u'Epic Games', u'Disney Interactive', u'Ubisoft', u'1C Company', u'Konami', u'THQ', u'Atari', u'Capcom',
-    u'Namco Bandai', u'Platinum Games', u'Square Enix', u'Codemasters', u'Majesco', u'Atlus', u'Eidos',
+    u'Bandai Namco', u'Platinum Games', u'Square Enix', u'Codemasters', u'Majesco', u'Atlus', u'Eidos',
     u'5th Cell', u'GRIN', u'KOEI', u'Take-Two', u'Tecmo', u'Pony Canyon', u'ValuSoft', u'2K Games',
     u'Aksys Games', u'EA Sports', u'PopCap', u'Arc System Works', u'Data East', u'Rare', u'Videlectrix',
     u'The Game Factory', u'MicroProse', u'id', u'Meridian4', u'Digital Leisure', u'Taito', u'SNK Playmore',
@@ -116,10 +117,11 @@ company = [
     u'Grasshopper', u'Introversion', u'Level-5', u'Llamasoft', u'Metanet Software', u'Mousechief',
     u'Nifflas', u'Playdead', u'Q-Games', u'Queasy Games', u'Studio Pixel', u'Blizzard', u'inXile',
     u'NCsoft', u'Nippon Ichi Software', u'Rockstar', u'Stardock', u'XSEED Games', u'Two Tribes',
-    u'Traveller’s Tales', u'Naugty Dog', u'WayForward', u'CINEMAX', u'Nnooo', u'Bullfrog',
+    u'Traveller’s Tales', u'Naughty Dog', u'WayForward', u'CINEMAX', u'Nnooo', u'Bullfrog',
     u'Bohemia Interactive', u'Game Freak', u'Sledgehammer Games', u'VectorCell', u'Edge Games',
     u'Illusion', u'Dark Energy Digital', u'Rising Star Games', u'Quantic Dream', u'Rocksteady Studios',
-    u'DMA Design', u'CCP',
+    u'DMA Design', u'CCP', u'NetherRealm Studios', u'Warner Brothers', u'Double Helix Games',
+    u'Iron Galaxy Studios',
 ]
 
 luminary = [
@@ -128,32 +130,33 @@ luminary = [
     u'Vince Zampella', u'Jason West', u'John Carmack', u'Phil Fish', u'Jonathan Blow',
     u'Edmund McMillen', u'David Cage', u'Kim Swift', u'Paul Barnett', u'Ken Levine', u'Warren Spector',
     u'Chris Hecker', u'Todd Howard', u'American McGee', u'Dan Houser', u'Sam Houser', u'Harvey Smith',
+    u'Masahiro Sakurai', u'Satoshi Tajiri',
 ]
 
 critic = [
     u'Jeff Gerstmann', u'Justin McElroy', u'Brad Shoemaker', u'Yahtzee', u'Geoff Keighley',
-    u'The Angry Video Game Nerd',
+    u'The Angry Video Game Nerd', u'Patrick Klepek', u'Don Mattrick', u'Anita Sarkeesian',
+    u'TotalBiscuit', u'Jim Sterling',
 ]
 
 publication = [
     u'Polygon', u'Kotaku', u'Giant Bomb', u'Destructoid', u'EGM', u'GameSpot', u'GameSpy',
-    u'The Escapist', u'IGN', u'Joystiq', u'GameTrailers',
+    u'The Escapist', u'IGN', u'Joystiq', u'GameTrailers', u'Rock Paper Shotgun', u'Gamasutra',
 ]
 
 suit = [
     u'Cliff Bleszinski', u'Gabe Newell', u'Steve Ballmer', u'Bobby Kotick', u'Reggie Fils-Aime',
-    u'J Allard', u'Yves Guillemot', u'Satoru Iwata', u'Don Mattrick',
+    u'J Allard', u'Yves Guillemot', u'Satoru Iwata', u'Don Mattrick', u'Phil Spencer',
 ]
 
 community = [
-    u'4chan', u'Reddit', u'NeoGAF', u'Twitter',
-]
+    u'4chan', u'Reddit', u'NeoGAF', u'Twitter', u'2ch',
 
 platform = [
     u'Neo Geo', u'Super Nintendo', u'Genesis', u'Dreamcast', u'Nintendo 64', u'PlayStation',
     u'PlayStation 2', u'PlayStation 3', u'Xbox', u'Xbox 360', u'Wii', u'Wii U', u'Atari 2600',
     u'Nintendo DS', u'Game Boy Color', u'Nintendo 3DS', u'PlayStation Vita', u'PSP',
-    u'PlayStation 4', u'Xbox One', u'iPhone', u'iPad', u'Ouya', u'3DO',
+    u'PlayStation 4', u'Xbox One', u'iPhone', u'iPad', u'Ouya', u'3DO', u'New Nintendo 3DS',
 ]
 
 quantity = [
@@ -166,11 +169,12 @@ peripheral = [
     u'R.O.B.', u'Leap Motion Controller', u'Circle Pad Pro',
     u'Game Boy Printer', u'Game Boy Camera', u'uDraw', u'Wii Balance Board',
     u'IllumiRoom', u'Xbox SmartGlass', u'Rumble Pak', u'Buzz! Buzzer',
-    u'Trance Vibrator', u'Pokéwalker',
+    u'Trance Vibrator', u'Pokéwalker', u'Project Morpheus', u'Amiibo', u'Taiko drum', 
+    u'Kinect 2.0', u'Link Cable',
 ]
 
 event = [
-    u'E3', u'PAX', u'GDC', u'TGS', u'BlizzCon', u'Fanfest',
+    u'E3', u'PAX', u'GDC', u'TGS', u'BlizzCon', u'Fanfest', u'EGX',
 ]
 
 story = [
@@ -231,4 +235,8 @@ story = [
     u"<company> have announced plans to produce a television series based on <game>.",
     u"Fans on <community> are outraged after <company> announces plans to fix a “bug” in <game> that allows homosexual partnerships and male pregnancy.",
     u"Mere days after <event>, <company> have announced a complete reversal of their <platform> DRM policies.",
+    u"Fans have been angered over rumours that <company> lowered the resolution of <game> on the <platform> for 'parity reasons'.",
+    u"Reviews suggest that <game> is the first title in the franchise that truly does the original film justice.",
+    u"After the street date for <game_a> was broken last year, <company> has decided to push back the European release of <game_b> by a week.",
+    u"Fans of <game> have been upset after <luminary> revealed that certain characters and game modes were cut due to the constraints of the <platform>.",
 ]
