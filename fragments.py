@@ -27,7 +27,7 @@ franchise_a = [
     u'Trauma', u'Jimmy', u'Age of', u'Jungle', u'Animal', u'Naughty', u'Ancient', u'Smash', u'Item',
     u'Monday Night', u'Cooking', u'Pro', u'Spirit', u'Exotic', u'System', u'Criminal', u'Mystic', u'Elder',
     u'Ocarina of', u'Theme', u'Hyperdimension', u'Kirby’s', u'Epic', u'Dante’s', u'Mecha', u'Yoshi’s',
-    u'Paper', u'Ultimate', u'Soda', u'Rogue', u'Frog',
+    u'Paper', u'Ultimate', u'Soda', u'Rogue', u'Frog', u'The Evil', u'Captain', u'Pix the',
 ]
 
 franchise_b = [
@@ -57,7 +57,8 @@ franchise_b = [
     u'Village', u'Box', u'Warrior', u'Warriors', u'Fantasy', u'Ruler', u'Center', u'Dave', u'Paint',
     u'Forest', u'Beat', u'Crossing', u'Bass', u'TV', u'Dawn', u'Mama', u'Skater', u'Pilot', u'Raiders',
     u'Farm', u'Shock', u'Origins', u'Underworld', u'Scrolls', u'Colossus', u'Mask', u'Snowboarding',
-    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy', u'Fractions',
+    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy', u'Fractions', u'Within',
+    u'Trading Card Game',
 ]
 
 name = [
@@ -94,7 +95,8 @@ name = [
     u'%s at the Olympic Games', u'%s Turbo', u'%s 2000', u'%s 3000', u'%s: Insect Armageddon',
     u'%s Black Label', u'%s: Touched!', u'%s Gold', u'Ultimate %s', u'%s X', u'%s Y', u'%s + Cats',
     u'John Woo Presents %s', u'American McGee’s %s', u'John Madden %s', u'%s Pro', u'%s: Isolation',
-    u'%s: The Ultimax Ultra Suplex Hold', u'%s 2K14', u'%s 2K15',
+    u'%s: The Ultimax Ultra Suplex Hold', u'%s 2K14', u'%s 2K15', u'%s: The Pre-Sequel!', u'Middle-Earth: %s',
+    u'%sBound', u'%sclub', u'%s for Nintendo 3DS', u'%s for Wii U',
 ]
 
 # should really be split into developer/publisher
@@ -130,18 +132,20 @@ luminary = [
     u'Vince Zampella', u'Jason West', u'John Carmack', u'Phil Fish', u'Jonathan Blow',
     u'Edmund McMillen', u'David Cage', u'Kim Swift', u'Paul Barnett', u'Ken Levine', u'Warren Spector',
     u'Chris Hecker', u'Todd Howard', u'American McGee', u'Dan Houser', u'Sam Houser', u'Harvey Smith',
-    u'Masahiro Sakurai', u'Satoshi Tajiri',
+    u'Masahiro Sakurai', u'Satoshi Tajiri', u'Alexey Pajitnov', u'David Jaffe',
 ]
 
 critic = [
     u'Jeff Gerstmann', u'Justin McElroy', u'Brad Shoemaker', u'Yahtzee', u'Geoff Keighley',
     u'The Angry Video Game Nerd', u'Patrick Klepek', u'Don Mattrick', u'Anita Sarkeesian',
-    u'TotalBiscuit', u'Jim Sterling', u'PewDiePie',
+    u'TotalBiscuit', u'Jim Sterling', u'PewDiePie', u'Arthur Gies', u'Jeff Green',
+    u'Dan Ryckert',
 ]
 
 publication = [
     u'Polygon', u'Kotaku', u'Giant Bomb', u'Destructoid', u'EGM', u'GameSpot', u'GameSpy',
     u'The Escapist', u'IGN', u'Joystiq', u'GameTrailers', u'Rock Paper Shotgun', u'Gamasutra',
+    u'EDGE Magazine', u'Famitsu',
 ]
 
 suit = [
@@ -158,6 +162,7 @@ platform = [
     u'PlayStation 2', u'PlayStation 3', u'Xbox', u'Xbox 360', u'Wii', u'Wii U', u'Atari 2600',
     u'Nintendo DS', u'Game Boy Color', u'Nintendo 3DS', u'PlayStation Vita', u'PSP',
     u'PlayStation 4', u'Xbox One', u'iPhone', u'iPad', u'Ouya', u'3DO', u'New Nintendo 3DS',
+    u'GameCube', u'Android', u'Windows Phone',
 ]
 
 quantity = [
@@ -171,11 +176,11 @@ peripheral = [
     u'Game Boy Printer', u'Game Boy Camera', u'uDraw', u'Wii Balance Board',
     u'IllumiRoom', u'Xbox SmartGlass', u'Rumble Pak', u'Buzz! Buzzer',
     u'Trance Vibrator', u'Pokéwalker', u'Project Morpheus', u'Amiibo', u'Taiko drum', 
-    u'Kinect 2.0', u'Link Cable',
+    u'Kinect 2.0', u'Link Cable', 
 ]
 
 event = [
-    u'E3', u'PAX', u'GDC', u'TGS', u'BlizzCon', u'Fanfest', u'EGX',
+    u'E3', u'PAX', u'GDC', u'TGS', u'BlizzCon', u'Fanfest', u'EGX', u'Comic-Con',
 ]
 
 story = [
@@ -240,4 +245,10 @@ story = [
     u"Reviews suggest that <game> is the first title in the franchise that truly does the original film justice.",
     u"After the street date for <game_a> was broken last year, <company> has decided to push back the European release of <game_b> by a week.",
     u"Fans of <game> have been upset after <luminary> revealed that certain characters and game modes were cut due to the constraints of the <platform>.",
+    u"Speedrunners have recently discovered a new exploit in the <platform> classic <game>, allowing players to skip straight to the boss room.",
+    u"Almost twenty years after it was first published, an easter egg in <game> has been discovered by accident.",
+    u"Gamers remain baffled as to why <company>'s <game> is getting a HD remake.",
+    u"The PR team at <company> has released high quality image assets for <game> after Photoshopping the main characters into awkward situations took social media by storm.",
+    u"<company>'s decision to release the four year old <game> outside of Japan weeks after the fan translation was completed has riled hardcore fans of the series.",
+    u"NeoGAF has crashed after <luminary> confirmed on <publication>'s podcast that <game> is in development and will release early next year.",
 ]
