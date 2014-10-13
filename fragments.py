@@ -136,7 +136,7 @@ luminary = [
 critic = [
     u'Jeff Gerstmann', u'Justin McElroy', u'Brad Shoemaker', u'Yahtzee', u'Geoff Keighley',
     u'The Angry Video Game Nerd', u'Patrick Klepek', u'Don Mattrick', u'Anita Sarkeesian',
-    u'TotalBiscuit', u'Jim Sterling',
+    u'TotalBiscuit', u'Jim Sterling', u'PewDiePie',
 ]
 
 publication = [
