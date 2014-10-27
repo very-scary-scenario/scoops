@@ -251,4 +251,6 @@ story = [
     u"The PR team at <company> has released high quality image assets for <game> after Photoshopping the main characters into awkward situations took social media by storm.",
     u"<company>'s decision to release the four year old <game> outside of Japan weeks after the fan translation was completed has riled hardcore fans of the series.",
     u"NeoGAF has crashed after <luminary> confirmed on <publication>'s podcast that <game> is in development and will release early next year.",
+    u"<game> has been removed from Steam over a threat on <community>, after the lead developer claimed he was going to “kill Gabe Newell”.",
+    
 ]
