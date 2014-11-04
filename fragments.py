@@ -223,7 +223,7 @@ story = [
     u"After a spate of negative user reviews on Metacritic, <company> have reached out to players of <game> to rebalance the average score.",
     u"About to board a plane to <company>’s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year's <game> leak.",
     u"<company> are being criticised over a sequence in <game> in which players are encouraged to engage in a terrorist act.",
-    u"Record returns follow record sales and <company> send millions of copies of <game> to landfill.",
+    u"Record returns follow record sales, forcing <company> to send millions of copies of <game> to landfill.",
     u"<company> will be making an aggressive return to hoops this fall with <game>.",
     u"Following the controversy surrounding <company_a>’s handling of royalties for <game>, <luminary> has left <company_b>.",
     u"<critic> is the first of many to leave <publication> after publishing a suspiciously favourable review of <game>.",
