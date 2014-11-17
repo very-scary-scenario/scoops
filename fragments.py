@@ -240,4 +240,5 @@ story = [
     u"Reviews suggest that <game> is the first title in the franchise that truly does the original film justice.",
     u"After the street date for <game_a> was broken last year, <company> has decided to push back the European release of <game_b> by a week.",
     u"Fans of <game> have been upset after <luminary> revealed that certain characters and game modes were cut due to the constraints of the <platform>.",
+    u"In unexpected news, <comapny> has claimed that the lead duo of <game> are simply “adventure pals” and not romantically involved.",
 ]
