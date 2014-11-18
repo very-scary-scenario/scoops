@@ -24,8 +24,8 @@
         For more on these or other stories from the world of video games, check out <a href="https://twitter.com/scooperson">Tricky&nbsp;Scooperson</a> on Twitter.
     </p>
     <div class="credit">
-        <a id="stamp" target="_blank" href="http://www.musicfortheblind.co.uk/">
-            <img alt="Music for the Blind" title="music for the blind" src="https://colons.co/stamp.png"> 
+        <a id="stamp" target="_blank" href="https://colons.co/">
+            <img alt="toats a colons joint" src="https://colons.co/stamp.png">
         </a>
         <p><a href="/raw">Plain text Scoops</a> | <a href="https://github.com/colons/scoops">Scoops on GitHub</a></p>
     </div>
