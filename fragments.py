@@ -249,8 +249,8 @@ story = [
     u"Almost twenty years after it was first published, an easter egg in <game> has been discovered by accident.",
     u"Gamers remain baffled as to why <company>'s <game> is getting a HD remake.",
     u"The PR team at <company> has released high quality image assets for <game> after Photoshopping the main characters into awkward situations took social media by storm.",
-    u"<company>'s decision to release the four year old <game> outside of Japan weeks after the fan translation was completed has riled hardcore fans of the series.",
+    u"<company>'s decision to release the four-year-old <game> outside of Japan weeks after the fan translation was completed has riled hardcore fans of the series.",
     u"NeoGAF has crashed after <luminary> confirmed on <publication>'s podcast that <game> is in development and will release early next year.",
-    u"<game> has been removed from Steam over a threat on <community>, after the lead developer claimed he was going to “kill Gabe Newell”.",
+    u"<game> has been removed from Steam over a threat on <community> where the lead developer claimed he was going to “kill Gabe Newell”.",
     u"In unexpected news, <company> has claimed that the lead duo of <game> are simply “adventure pals” and are not romantically involved.",
 ]
