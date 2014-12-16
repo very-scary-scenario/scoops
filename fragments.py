@@ -27,7 +27,7 @@ franchise_a = [
     u'Trauma', u'Jimmy', u'Age of', u'Jungle', u'Animal', u'Naughty', u'Ancient', u'Smash', u'Item',
     u'Monday Night', u'Cooking', u'Pro', u'Spirit', u'Exotic', u'System', u'Criminal', u'Mystic', u'Elder',
     u'Ocarina of', u'Theme', u'Hyperdimension', u'Kirby’s', u'Epic', u'Dante’s', u'Mecha', u'Yoshi’s',
-    u'Paper', u'Ultimate', u'Soda', u'Rogue', u'Frog',
+    u'Paper', u'Ultimate', u'Soda', u'Rogue', u'Frog', u'Papers,', u'The Evil', u'Super Mega',
 ]
 
 franchise_b = [
@@ -57,12 +57,13 @@ franchise_b = [
     u'Village', u'Box', u'Warrior', u'Warriors', u'Fantasy', u'Ruler', u'Center', u'Dave', u'Paint',
     u'Forest', u'Beat', u'Crossing', u'Bass', u'TV', u'Dawn', u'Mama', u'Skater', u'Pilot', u'Raiders',
     u'Farm', u'Shock', u'Origins', u'Underworld', u'Scrolls', u'Colossus', u'Mask', u'Snowboarding',
-    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy', u'Fractions',
+    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy', u'Fractions', u'Please',
+    u'Within',
 ]
 
 name = [
     u'Ultimate %s', u'The %s', u'%s', u'%s: Reckoning', u'%s 2', u'%s 3', u'%s 4', u'%s 5', u'%s 9',
-    u'%s: Episode Three', u'Imagine™ %s', u'%s HD', u'%s with Friends', u'%s: Anniversary', u'%s 7',
+    u'%s: Episode Three', u'Imagine™ %s', u'%s HD', u'%s with Friends', u'%s: Anniversary', u'%s VII',
     u'The Legend of %s', u'%s: Evolution', u'Call of Duty: %s', u'%s: Redemption', u'%s United',
     u'%s! - The Quest for Gravity', u'%s!!! - A Reckless Disregard for Gravity', u'%s: Hot Pursuit',
     u'%s: Fusion', u'%s: Second Edition', u'%s: Make Blooms Not War', u'%s: Armageddon', u'%s: Guerrilla',
@@ -94,7 +95,7 @@ name = [
     u'%s at the Olympic Games', u'%s Turbo', u'%s 2000', u'%s 3000', u'%s: Insect Armageddon',
     u'%s Black Label', u'%s: Touched!', u'%s Gold', u'Ultimate %s', u'%s X', u'%s Y', u'%s + Cats',
     u'John Woo Presents %s', u'American McGee’s %s', u'John Madden %s', u'%s Pro', u'%s: Isolation',
-    u'%s: The Ultimax Ultra Suplex Hold', u'%s 2K14', u'%s 2K15',
+    u'%s: The Ultimax Ultra Suplex Hold', u'%s 2K14', u'%s 2K15', u'%s: Dangerous', u'%s!', u'%s: Treasure Tracker',
 ]
 
 # should really be split into developer/publisher
@@ -121,7 +122,7 @@ company = [
     u'Bohemia Interactive', u'Game Freak', u'Sledgehammer Games', u'VectorCell', u'Edge Games',
     u'Illusion', u'Dark Energy Digital', u'Rising Star Games', u'Quantic Dream', u'Rocksteady Studios',
     u'DMA Design', u'CCP', u'NetherRealm Studios', u'Warner Brothers', u'Double Helix Games',
-    u'Iron Galaxy Studios',
+    u'Iron Galaxy Studios', u'The Bartlet Jones Supernatural Detective Agency',
 ]
 
 luminary = [
@@ -130,7 +131,7 @@ luminary = [
     u'Vince Zampella', u'Jason West', u'John Carmack', u'Phil Fish', u'Jonathan Blow',
     u'Edmund McMillen', u'David Cage', u'Kim Swift', u'Paul Barnett', u'Ken Levine', u'Warren Spector',
     u'Chris Hecker', u'Todd Howard', u'American McGee', u'Dan Houser', u'Sam Houser', u'Harvey Smith',
-    u'Masahiro Sakurai', u'Satoshi Tajiri',
+    u'Masahiro Sakurai', u'Satoshi Tajiri', u'Shinji Hashimoto',
 ]
 
 critic = [
@@ -175,7 +176,7 @@ peripheral = [
 ]
 
 event = [
-    u'E3', u'PAX', u'GDC', u'TGS', u'BlizzCon', u'Fanfest', u'EGX',
+    u'E3', u'PAX', u'GDC', u'TGS', u'BlizzCon', u'Fanfest', u'EGX', u'the PlayStation Experience', u'The Game Awards', 
 ]
 
 story = [
@@ -241,4 +242,8 @@ story = [
     u"After the street date for <game_a> was broken last year, <company> has decided to push back the European release of <game_b> by a week.",
     u"Fans of <game> have been upset after <luminary> revealed that certain characters and game modes were cut due to the constraints of the <platform>.",
     u"In unexpected news, <company> has claimed that the lead duo of <game> are simply “adventure pals” and are not romantically involved.",
+    u"After days of bad press, Apple has stated that the nudity in <company>'s <game> will not be classified as pornography.",
+    u"With no fix in sight for <game>, <company> has stated that early adopters will be able to claim a free game as compensation.",
+    u"<company> are disappointed after receiving numerous one-star reviews for <game> after offering extra levels as paid DLC.",
+    u"Gamers are left feeling betrayed after <luminary> teased a remake of <game> at <event>, only for it to be a console port of the PC version.",
 ]
