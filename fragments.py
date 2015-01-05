@@ -260,8 +260,8 @@ story = [
     u"With no fix in sight for <game>, <company> has stated that early adopters will be able to claim a free game as compensation.",
     u"<company> are disappointed after receiving numerous one-star reviews for <game> after offering extra levels as paid DLC.",
     u"Gamers are left feeling betrayed after <luminary> teased a remake of <game> at <event>, only for it to be a console port of the PC version.",
-    u"<company> and <company> are working on a new episodic game series based on the iconic world of <game>",
-    u"A surprise announcement at <event> has confirmed that <company> is funding the localisation of <company>'s <game>, years after the Japanese release.",
+    u"<company_a> and <company_b> are working on a new episodic game series based on the iconic world of <game>.",
+    u"A surprise announcement at <event> has confirmed that <company_a> is funding the localisation of <company_b>'s <game>, years after the Japanese release.",
     u"The recent beta for <game> has left fans of the series upset, due to the controversial inclusion of ADS.",
     u"Toys “R” Us has come under fire after scalpers were allowed to purchase hundreds of exclusive <game> amiibos.",
 ]
