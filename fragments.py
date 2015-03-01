@@ -28,7 +28,7 @@ franchise_a = [
     u'Monday Night', u'Cooking', u'Pro', u'Spirit', u'Exotic', u'System', u'Criminal', u'Mystic', u'Elder',
     u'Ocarina of', u'Theme', u'Hyperdimension', u'Kirby’s', u'Epic', u'Dante’s', u'Mecha', u'Yoshi’s',
     u'Paper', u'Ultimate', u'Soda', u'Rogue', u'Frog', u'Papers,', u'The Evil', u'Super Mega', u'The Evil',
-    u'Captain', u'Pix the',
+    u'Captain', u'Pix the', u'Camera', u'Sunless', u'Sick', u'Corpse', u'Hyrule', 
 ]
 
 franchise_b = [
@@ -59,7 +59,7 @@ franchise_b = [
     u'Forest', u'Beat', u'Crossing', u'Bass', u'TV', u'Dawn', u'Mama', u'Skater', u'Pilot', u'Raiders',
     u'Farm', u'Shock', u'Origins', u'Underworld', u'Scrolls', u'Colossus', u'Mask', u'Snowboarding',
     u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy', u'Fractions', u'Please', u'Within',
-    u'Trading Card Game',
+    u'Trading Card Game', u'Obscura', u'Sea', u'Shuffle',
 ]
 
 name = [
@@ -94,11 +94,12 @@ name = [
     u'%s at War', u'Tony Hawk %s', u'My %s', u'myNotebook %s', u'%sVille', u'%s: Warped', u'%s Reloaded',
     u'Buzz! %s', u'%s Jr.', u'%s Rising', u'%s Red Version', u'%s Blue Version', u'%s Zero', u'%s Climax',
     u'%s at the Olympic Games', u'%s Turbo', u'%s 2000', u'%s 3000', u'%s: Insect Armageddon',
-    u'%s Black Label', u'%s: Touched!', u'%s Gold', u'Ultimate %s', u'%s X', u'%s Y', u'%s + Cats',
+    u'%s Black Label', u'%s: Touched!', u'%s Gold', u'%s Ultimate', u'%s X', u'%s Y', u'%s + Cats',
     u'John Woo Presents %s', u'American McGee’s %s', u'John Madden %s', u'%s Pro', u'%s: Isolation',
     u'%s: The Ultimax Ultra Suplex Hold', u'%s 2K14', u'%s 2K15', u'%s: The Pre-Sequel!',
     u'Middle-Earth: %s', u'%sBound', u'%sclub', u'%s for Nintendo 3DS', u'%s for Wii U', u'%s: Dangerous',
-    u'%s: Treasure Tracker',
+    u'%s: Treasure Tracker', u'%s: Tipping Stars', u'%s: 1886', u'%snautica', u'%sfactory', u'%sBrick',
+    u'%s: A Thief's End', u'%s: Rebirth',
 ]
 
 # should really be split into developer/publisher
@@ -135,6 +136,7 @@ luminary = [
     u'Edmund McMillen', u'David Cage', u'Kim Swift', u'Paul Barnett', u'Ken Levine', u'Warren Spector',
     u'Chris Hecker', u'Todd Howard', u'American McGee', u'Dan Houser', u'Sam Houser', u'Harvey Smith',
     u'Masahiro Sakurai', u'Satoshi Tajiri', u'Alexey Pajitnov', u'David Jaffe', u'Shinji Hashimoto',
+    u'Dave Lang', u'Ed Boon',
 ]
 
 critic = [
@@ -178,7 +180,7 @@ peripheral = [
     u'Game Boy Printer', u'Game Boy Camera', u'uDraw', u'Wii Balance Board',
     u'IllumiRoom', u'Xbox SmartGlass', u'Rumble Pak', u'Buzz! Buzzer',
     u'Trance Vibrator', u'Pokéwalker', u'Project Morpheus', u'Amiibo', u'Taiko drum',
-    u'Kinect 2.0', u'Link Cable',
+    u'Kinect 2.0', u'Link Cable', u'HoloLens', u'Portal of Power', 
 ]
 
 event = [
@@ -264,4 +266,10 @@ story = [
     u"A surprise announcement at <event> has confirmed that <company_a> is funding the localisation of <company_b>'s <game>, years after the Japanese release.",
     u"The recent beta for <game> has left fans of the series upset, due to the controversial inclusion of ADS.",
     u"Toys “R” Us has come under fire after scalpers were allowed to purchase hundreds of exclusive <game> amiibos.",
+    u"<company> is celebrating the release of <game> by releasing hundreds of free codes on <community>.",
+    u"You've been waiting for it. We've been waiting for it. The next Giant Bomb Endurance Run will be the <platform> version of <game>.",
+    u"The rumour that Rayman will appear in <game> has been proven false.",
+    u"Fans of EVO are furious over this year's inclusion of <game>. A controversial decision.",
+    u"Sure, Godus is a mess, but what ever happened to Peter Molyneux's <game>?",
+    u"PS Plus users find themselves elated to discover both <game_a> and <game_b> will be free this month.",
 ]
