@@ -99,7 +99,7 @@ name = [
     u'%s: The Ultimax Ultra Suplex Hold', u'%s 2K14', u'%s 2K15', u'%s: The Pre-Sequel!',
     u'Middle-Earth: %s', u'%sBound', u'%sclub', u'%s for Nintendo 3DS', u'%s for Wii U', u'%s: Dangerous',
     u'%s: Treasure Tracker', u'%s: Tipping Stars', u'%s: 1886', u'%snautica', u'%sfactory', u'%sBrick',
-    u'%s: A Thief's End', u'%s: Rebirth',
+    u"%s: A Thief's End", u'%s: Rebirth',
 ]
 
 # should really be split into developer/publisher
