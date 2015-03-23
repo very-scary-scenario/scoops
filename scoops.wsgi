@@ -20,7 +20,15 @@ def index(name='Index'):
 
 @bottle.route('/raw')
 def raw(name='Raw'):
-    return make_story(html=False)
+    try:
+        count = int(bottle.request.query.count)
+    except ValueError:
+        count = 1
+
+    bottle.response.content_type = 'text/plain; charset=utf-8'
+    return '\n'.join([
+        make_story(html=False) for x in xrange(count)
+    ])
 
 application = bottle.default_app()
 
