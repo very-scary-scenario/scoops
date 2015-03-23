@@ -27,7 +27,7 @@
         <a id="stamp" target="_blank" href="https://colons.co/">
             <img alt="toats a colons joint" src="https://colons.co/stamp.png">
         </a>
-        <p><a href="/raw">Plain text Scoops</a> | <a href="https://github.com/colons/scoops">Scoops on GitHub</a></p>
+        <p><a href="/raw?count=1">Plain text Scoops</a> | <a href="https://github.com/colons/scoops">Scoops on GitHub</a></p>
     </div>
     </body>
 </html>
