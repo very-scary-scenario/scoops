@@ -9,25 +9,24 @@ import fragments
 
 def get_fragment(name, html):
     if name == 'franchise':
-        return u'%s %s' % (choice(fragments.franchise_a), choice(fragments.franchise_b))
+        return u'%s %s' % (choice(fragments.franchise_a),
+                           choice(fragments.franchise_b))
 
     if name == 'game':
         game = '%s' % choice(fragments.name) % get_fragment('franchise', html)
-        if html: return u'<em>%s</em>' % game
-        else: return u'‘%s’' % game
+        return u'<em>%s</em>' % game if html else u'‘%s’' % game
 
     else:
         return choice(getattr(fragments, name))
 
+
 def make_story(html=True):
     story = choice(fragments.story)
-    # print story
     repl = {}
     for r in re.findall(r'<(.*?)>', story):
         if r not in repl:
             repl[r] = get_fragment(r.split('_')[0], html)
 
-    # print repl
     for r in repl:
         story = story.replace('<%s>' % r, repl[r])
 
@@ -35,13 +34,13 @@ def make_story(html=True):
 
 if __name__ == '__main__':
     from sys import argv
-    if 'tweet' in argv: tweet = True
-    else: tweet = False
+    tweet = 'tweet' in argv
 
     while True:
         story = make_story(html=False)
-        if not tweet or len(story) <= 140: break
-    
+        if not tweet or len(story) <= 140:
+            break
+
     if tweet:
         import tweepy
 
@@ -55,4 +54,3 @@ if __name__ == '__main__':
 
     else:
         print story
-    

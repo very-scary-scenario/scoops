@@ -1,7 +1,8 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
-import os, sys
+import sys
+import os
 
 dir = os.path.dirname(__file__)
 
@@ -12,11 +13,13 @@ import bottle
 
 from scoops import make_story
 
+
 @bottle.route('/')
 def index(name='Index'):
     story = make_story().replace('&', '&amp;')
 
     return bottle.template('gamename', story=story)
+
 
 @bottle.route('/raw')
 def raw(name='Raw'):
@@ -34,5 +37,5 @@ application = bottle.default_app()
 
 if __name__ == '__main__':
     bottle.run(host='localhost', port=8080)
-    #from flup.server.fcgi import WSGIServer
-    #WSGIServer(application).run()
+    # from flup.server.fcgi import WSGIServer
+    # WSGIServer(application).run()
