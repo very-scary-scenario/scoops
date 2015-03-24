@@ -30,7 +30,7 @@ def raw(name='Raw'):
 
     bottle.response.content_type = 'text/plain; charset=utf-8'
     return '\n'.join([
-        make_story(html=False) for x in xrange(count)
+        make_story(html=False) for x in xrange(min(500, count))
     ])
 
 application = bottle.default_app()
