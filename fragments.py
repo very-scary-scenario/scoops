@@ -28,7 +28,7 @@ franchise_a = [
     u'Monday Night', u'Cooking', u'Pro', u'Spirit', u'Exotic', u'System', u'Criminal', u'Mystic', u'Elder',
     u'Ocarina of', u'Theme', u'Hyperdimension', u'Kirby’s', u'Epic', u'Dante’s', u'Mecha', u'Yoshi’s',
     u'Paper', u'Ultimate', u'Soda', u'Rogue', u'Frog', u'Papers,', u'The Evil', u'Super Mega', u'The Evil',
-    u'Captain', u'Pix the', u'Camera', u'Sunless', u'Sick', u'Corpse', u'Hyrule', 
+    u'Captain', u'Pix the', u'Camera', u'Sunless', u'Sick', u'Corpse', u'Hyrule', u'Pillars', u'Cities',
 ]
 
 franchise_b = [
@@ -58,8 +58,8 @@ franchise_b = [
     u'Village', u'Box', u'Warrior', u'Warriors', u'Fantasy', u'Ruler', u'Center', u'Dave', u'Paint',
     u'Forest', u'Beat', u'Crossing', u'Bass', u'TV', u'Dawn', u'Mama', u'Skater', u'Pilot', u'Raiders',
     u'Farm', u'Shock', u'Origins', u'Underworld', u'Scrolls', u'Colossus', u'Mask', u'Snowboarding',
-    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy', u'Fractions', u'Please', u'Within',
-    u'Trading Card Game', u'Obscura', u'Sea', u'Shuffle',
+    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy', u'Fractions', u'Please',
+    u'Within', u'Trading Card Game', u'Obscura', u'Sea', u'Shuffle', u'Hardline', u'of Eternity',
 ]
 
 name = [
@@ -99,7 +99,7 @@ name = [
     u'%s: The Ultimax Ultra Suplex Hold', u'%s 2K14', u'%s 2K15', u'%s: The Pre-Sequel!',
     u'Middle-Earth: %s', u'%sBound', u'%sclub', u'%s for Nintendo 3DS', u'%s for Wii U', u'%s: Dangerous',
     u'%s: Treasure Tracker', u'%s: Tipping Stars', u'%s: 1886', u'%snautica', u'%sfactory', u'%sBrick',
-    u"%s: A Thief's End", u'%s: Rebirth',
+    u"%s: A Thief's End", u'%s: Rebirth', u'%s and the Blind Forest', u'%s: Skylines', u'%s: Second Son',
 ]
 
 # should really be split into developer/publisher
@@ -143,7 +143,7 @@ critic = [
     u'Jeff Gerstmann', u'Justin McElroy', u'Brad Shoemaker', u'Yahtzee', u'Geoff Keighley',
     u'The Angry Video Game Nerd', u'Patrick Klepek', u'Don Mattrick', u'Anita Sarkeesian',
     u'TotalBiscuit', u'Jim Sterling', u'PewDiePie', u'Arthur Gies', u'Jeff Green',
-    u'Dan Ryckert',
+    u'Dan Ryckert', u'JonTron', u'Egoraptor',
 ]
 
 publication = [
@@ -154,11 +154,11 @@ publication = [
 
 suit = [
     u'Cliff Bleszinski', u'Gabe Newell', u'Steve Ballmer', u'Bobby Kotick', u'Reggie Fils-Aime',
-    u'J Allard', u'Yves Guillemot', u'Satoru Iwata', u'Don Mattrick', u'Phil Spencer',
+    u'J Allard', u'Yves Guillemot', u'Satoru Iwata', u'Don Mattrick', u'Phil Spencer', u'Phil Harrison',
 ]
 
 community = [
-    u'4chan', u'Reddit', u'NeoGAF', u'Twitter', u'2ch',
+    u'4chan', u'Reddit', u'NeoGAF', u'Twitter', u'2ch', u'YouTube', u'Twitch',
 ]
 
 platform = [
@@ -166,7 +166,7 @@ platform = [
     u'PlayStation 2', u'PlayStation 3', u'Xbox', u'Xbox 360', u'Wii', u'Wii U', u'Atari 2600',
     u'Nintendo DS', u'Game Boy Color', u'Nintendo 3DS', u'PlayStation Vita', u'PSP',
     u'PlayStation 4', u'Xbox One', u'iPhone', u'iPad', u'Ouya', u'3DO', u'New Nintendo 3DS',
-    u'GameCube', u'Android', u'Windows Phone',
+    u'GameCube', u'Android', u'Windows Phone', u'Nintendo NX',
 ]
 
 quantity = [
@@ -272,4 +272,6 @@ story = [
     u"Fans of EVO are furious over this year's inclusion of <game>. A controversial decision.",
     u"Sure, Godus is a mess, but what ever happened to Peter Molyneux's <game>?",
     u"PS Plus users find themselves elated to discover both <game_a> and <game_b> will be free this month.",
+    u"After an internal feud concerning the development of <game>, <luminary>'s name is being removed from public material.",
+    u"The wait for new games for the <platform> continues.",
 ]
