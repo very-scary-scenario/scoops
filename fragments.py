@@ -28,7 +28,7 @@ franchise_a = [
     u'Monday Night', u'Cooking', u'Pro', u'Spirit', u'Exotic', u'System', u'Criminal', u'Mystic', u'Elder',
     u'Ocarina of', u'Theme', u'Hyperdimension', u'Kirby’s', u'Epic', u'Dante’s', u'Mecha', u'Yoshi’s',
     u'Paper', u'Ultimate', u'Soda', u'Rogue', u'Frog', u'Papers,', u'The Evil', u'Super Mega', u'The Evil',
-    u'Captain', u'Pix the', u'Camera', u'Sunless', u'Sick', u'Corpse', u'Hyrule', 
+    u'Captain', u'Pix the', u'Camera', u'Sunless', u'Sick', u'Corpse', u'Hyrule', u'Pillars', u'Cities',
 ]
 
 franchise_b = [
@@ -58,8 +58,8 @@ franchise_b = [
     u'Village', u'Box', u'Warrior', u'Warriors', u'Fantasy', u'Ruler', u'Center', u'Dave', u'Paint',
     u'Forest', u'Beat', u'Crossing', u'Bass', u'TV', u'Dawn', u'Mama', u'Skater', u'Pilot', u'Raiders',
     u'Farm', u'Shock', u'Origins', u'Underworld', u'Scrolls', u'Colossus', u'Mask', u'Snowboarding',
-    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy', u'Fractions', u'Please', u'Within',
-    u'Trading Card Game', u'Obscura', u'Sea', u'Shuffle',
+    u'Neptunia', u'Snap', u'Dash', u'Attorney', u'Conquest', u'Drinker', u'Legacy', u'Fractions', u'Please',
+    u'Within', u'Trading Card Game', u'Obscura', u'Sea', u'Shuffle', u'Hardline', u'of Eternity',
 ]
 
 name = [
@@ -99,7 +99,7 @@ name = [
     u'%s: The Ultimax Ultra Suplex Hold', u'%s 2K14', u'%s 2K15', u'%s: The Pre-Sequel!',
     u'Middle-Earth: %s', u'%sBound', u'%sclub', u'%s for Nintendo 3DS', u'%s for Wii U', u'%s: Dangerous',
     u'%s: Treasure Tracker', u'%s: Tipping Stars', u'%s: 1886', u'%snautica', u'%sfactory', u'%sBrick',
-    u"%s: A Thief's End", u'%s: Rebirth',
+    u"%s: A Thief's End", u'%s: Rebirth', u'%s and the Blind Forest', u'%s: Skylines', u'%s: Second Son',
 ]
 
 # should really be split into developer/publisher
@@ -143,7 +143,7 @@ critic = [
     u'Jeff Gerstmann', u'Justin McElroy', u'Brad Shoemaker', u'Yahtzee', u'Geoff Keighley',
     u'The Angry Video Game Nerd', u'Patrick Klepek', u'Don Mattrick', u'Anita Sarkeesian',
     u'TotalBiscuit', u'Jim Sterling', u'PewDiePie', u'Arthur Gies', u'Jeff Green',
-    u'Dan Ryckert',
+    u'Dan Ryckert', u'JonTron', u'Egoraptor',
 ]
 
 publication = [
@@ -154,11 +154,11 @@ publication = [
 
 suit = [
     u'Cliff Bleszinski', u'Gabe Newell', u'Steve Ballmer', u'Bobby Kotick', u'Reggie Fils-Aime',
-    u'J Allard', u'Yves Guillemot', u'Satoru Iwata', u'Don Mattrick', u'Phil Spencer',
+    u'J Allard', u'Yves Guillemot', u'Satoru Iwata', u'Don Mattrick', u'Phil Spencer', u'Phil Harrison',
 ]
 
 community = [
-    u'4chan', u'Reddit', u'NeoGAF', u'Twitter', u'2ch',
+    u'4chan', u'Reddit', u'NeoGAF', u'Twitter', u'2ch', u'YouTube', u'Twitch',
 ]
 
 platform = [
@@ -166,7 +166,7 @@ platform = [
     u'PlayStation 2', u'PlayStation 3', u'Xbox', u'Xbox 360', u'Wii', u'Wii U', u'Atari 2600',
     u'Nintendo DS', u'Game Boy Color', u'Nintendo 3DS', u'PlayStation Vita', u'PSP',
     u'PlayStation 4', u'Xbox One', u'iPhone', u'iPad', u'Ouya', u'3DO', u'New Nintendo 3DS',
-    u'GameCube', u'Android', u'Windows Phone',
+    u'GameCube', u'Android', u'Windows Phone', u'Nintendo NX',
 ]
 
 quantity = [
@@ -239,37 +239,39 @@ story = [
     u"<game_a> has some surprising similarities with <game_b>. Long-time <company> fans have mixed opinions.",
     u"<company> have finally announced a reboot of <game> for <platform>.",
     u"<company> have announced an upcoming update for <game>, adding <peripheral> support.",
-    u"Despite the critical success of <game>, the <peripheral> has failed to live up to sales expectations.",
-    u"<community> speculates the worst after <company> refuses to clarify their used game policy for their upcoming console.",
+    u"Despite the prerelease hype and the critical success of <game>, the <peripheral> has failed to live up to sales expectations.",
+    u"Commenters on <community> are speculating the worst after <company> have refused to clarify their policy on used games in their recently-announced console.",
     u"<platform> is about to become the next water cooler.",
     u"<game> will feature a dog as a fascinating new addition to your squad.",
     u"<company> have announced plans to produce a television series based on <game>.",
-    u"Fans on <community> are outraged after <company> removes a “bug” in <game> that allows gay partnerships and male pregnancy.",
+    u"Fans on <community> are outraged after <company> announces plans to fix a “bug” in <game> that allows homosexual partnerships and male pregnancy.",
     u"Mere days after <event>, <company> have announced a complete reversal of their <platform> DRM policies.",
-    u"<company> have decided to lower the resolution of <game> on the <platform> for 'parity reasons'.",
+    u"Fans have been angered over rumours that <company> lowered the resolution of <game> on the <platform> for 'parity reasons'.",
     u"Reviews suggest that <game> is the first title in the franchise that truly does the original film justice.",
-    u"After the street date for <game_a> was broken, <company> has pushed back the European release of <game_b> by a week.",
-    u"Fans of <game> are upset after <luminary> revealed that characters and game modes were cut due to the constraints of the 3DS.",
-    u"Speedrunners have discovered a new exploit in the <platform> classic <game>, allowing them to skip straight to the boss room.",
+    u"After the street date for <game_a> was broken last year, <company> has decided to push back the European release of <game_b> by a week.",
+    u"Fans of <game> have been upset after <luminary> revealed that certain characters and game modes were cut due to the constraints of the <platform>.",
+    u"Speedrunners have recently discovered a new exploit in the <platform> classic <game>, allowing players to skip straight to the boss room.",
     u"Almost twenty years after it was first published, an easter egg in <game> has been discovered by accident.",
     u"Gamers remain baffled as to why <company>'s <game> is getting a HD remake.",
-    u"<company>'s PR team has released image assets for <game> after Photoshopping the characters into odd situations became a meme.",
-    u"<company> has decided to localise the four-year-old <game>, weeks after the fan translation was completed.",
-    u"NeoGAF has crashed after <luminary> confirmed on <publication>'s podcast that <game> is now in development.",
-    u"<game> has been removed from Steam over a threat on <community> where the lead developer threatened to “kill Gabe Newell”.",
-    u"In unexpected news, <company> has claimed that the lead duo of <game> are “adventure pals” and are not romantically involved.",
+    u"The PR team at <company> has released high quality image assets for <game> after Photoshopping the main characters into awkward situations took social media by storm.",
+    u"<company>'s decision to release the four-year-old <game> outside of Japan weeks after the fan translation was completed has riled hardcore fans of the series.",
+    u"NeoGAF has crashed after <luminary> confirmed on <publication>'s podcast that <game> is in development and will release early next year.",
+    u"<game> has been removed from Steam over a threat on <community> where the lead developer claimed he was going to “kill Gabe Newell”.",
+    u"In unexpected news, <company> has claimed that the lead duo of <game> are simply “adventure pals” and are not romantically involved.",
     u"After days of bad press, Apple has stated that the nudity in <company>'s <game> will not be classified as pornography.",
-    u"With no fix in sight for <game>, <company> has stated that early adopters can claim a free game as compensation.",
+    u"With no fix in sight for <game>, <company> has stated that early adopters will be able to claim a free game as compensation.",
     u"<company> are disappointed after receiving numerous one-star reviews for <game> after offering extra levels as paid DLC.",
-    u"Gamers are feeling betrayed after a remake of <game> was teased at <event>, only for it to be a port of the PC version.",
+    u"Gamers are left feeling betrayed after <luminary> teased a remake of <game> at <event>, only for it to be a console port of the PC version.",
     u"<company_a> and <company_b> are working on a new episodic game series based on the iconic world of <game>.",
-    u"<publication> has confirmed that <company_a> is funding the localisation of <company_b>'s <game>.",
+    u"A surprise announcement at <event> has confirmed that <company_a> is funding the localisation of <company_b>'s <game>, years after the Japanese release.",
     u"The recent beta for <game> has left fans of the series upset, due to the controversial inclusion of ADS.",
     u"Toys “R” Us has come under fire after scalpers were allowed to purchase hundreds of exclusive <game> amiibos.",
     u"<company> is celebrating the release of <game> by releasing hundreds of free codes on <community>.",
-    u"We've all been waiting for it. The next Giant Bomb Endurance Run will be the <platform> version of <game>.",
+    u"You've been waiting for it. We've been waiting for it. The next Giant Bomb Endurance Run will be the <platform> version of <game>.",
     u"The rumour that Rayman will appear in <game> has been proven false.",
     u"Fans of EVO are furious over this year's inclusion of <game>. A controversial decision.",
     u"Sure, Godus is a mess, but what ever happened to Peter Molyneux's <game>?",
     u"PS Plus users find themselves elated to discover both <game_a> and <game_b> will be free this month.",
+    u"After an internal feud concerning the development of <game>, <luminary>'s name is being removed from public material.",
+    u"The wait for new games for the <platform> continues.",
 ]
