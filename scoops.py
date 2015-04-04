@@ -4,7 +4,7 @@
 from random import choice
 import re
 
-import fragments
+from fragments import fragments
 
 
 def get_fragment(name, html):

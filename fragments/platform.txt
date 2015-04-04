@@ -1,0 +1,28 @@
+Neo Geo
+Super Nintendo
+Genesis
+Dreamcast
+Nintendo 64
+PlayStation
+PlayStation 2
+PlayStation 3
+Xbox
+Xbox 360
+Wii
+Wii U
+Atari 2600
+Nintendo DS
+Game Boy Color
+Nintendo 3DS
+PlayStation Vita
+PSP
+PlayStation 4
+Xbox One
+iPhone
+iPad
+Ouya
+3DO
+New Nintendo 3DS
+GameCube
+Android
+Windows Phone
