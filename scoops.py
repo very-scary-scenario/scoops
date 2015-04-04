@@ -13,7 +13,7 @@ def get_fragment(name, html):
                            choice(fragments.franchise_b))
 
     if name == 'game':
-        game = '%s' % choice(fragments.name) % get_fragment('franchise', html)
+        game = '%s' % choice(fragments.entry) % get_fragment('franchise', html)
         return u'<em>%s</em>' % game if html else u'‘%s’' % game
 
     else:
