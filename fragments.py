@@ -19,7 +19,7 @@ class Fragments(object):
             with open(os.path.join(DIR, filename)) as fragfile:
                 setattr(self, name, [
                     f for f in [
-                        l.strip() for l in fragfile.readlines()
+                        l.decode('utf-8').strip() for l in fragfile.readlines()
                     ] if f
                 ])
 
