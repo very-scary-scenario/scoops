@@ -17,11 +17,23 @@ class Fragments(object):
                 continue
 
             with open(os.path.join(DIR, filename)) as fragfile:
-                setattr(self, name, [
-                    f for f in [
-                        l.decode('utf-8').strip() for l in fragfile.readlines()
-                    ] if f
-                ])
+                values = [f for f in [
+                    l.decode('utf-8').strip() for l in fragfile.readlines()
+                ] if f]
+
+                for value in values:
+                    count = len([v for v in values if v == value])
+                    if count != 1:
+                        raise ValueError(
+                            '{value!r} appears {count} times in {name!r}'
+                            .format(
+                                value=value,
+                                count=count,
+                                name=name,
+                            )
+                        )
+
+                setattr(self, name, values)
 
 
 fragments = Fragments()

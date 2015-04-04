@@ -69,7 +69,6 @@ The Wonderful %s
 %s V
 %s: Terror from the Deep
 Peter Jackson’s %s: The Official Game of the Movie
-%s VII
 %s: Championship Edition
 Super %s
 %s: Total War
