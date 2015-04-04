@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding=utf-8 -*-
 
-from random import choice
+from random import choice, random
 import re
 
 from fragments import fragments
@@ -13,7 +13,13 @@ def get_fragment(name, html):
                            choice(fragments.franchise_b))
 
     if name == 'game':
-        game = '%s' % choice(fragments.entry) % get_fragment('franchise', html)
+        franchise = get_fragment('franchise', html)
+
+        if random() < 0.4:
+            game = choice(fragments.entry) % franchise
+        else:
+            game = franchise
+
         return u'<em>%s</em>' % game if html else u'‘%s’' % game
 
     else:

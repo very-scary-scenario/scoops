@@ -1,6 +1,5 @@
 Ultimate %s
 The %s
-%s
 %s: Reckoning
 %s 2
 %s 3
