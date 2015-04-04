@@ -253,3 +253,5 @@ Sunless
 Sick
 Corpse
 Hyrule
+Pillars
+Cities

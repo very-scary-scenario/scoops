@@ -8,3 +8,4 @@ Yves Guillemot
 Satoru Iwata
 Don Mattrick
 Phil Spencer
+Phil Harrison

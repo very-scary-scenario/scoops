@@ -26,3 +26,4 @@ New Nintendo 3DS
 GameCube
 Android
 Windows Phone
+Nintendo NX

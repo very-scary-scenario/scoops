@@ -3,3 +3,5 @@ Reddit
 NeoGAF
 Twitter
 2ch
+YouTube
+Twitch
