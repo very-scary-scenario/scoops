@@ -3,7 +3,7 @@
   <head>
     <title>lower third</title>
     <meta charset='utf-8'/>
-    <link href='http://fonts.googleapis.com/css?family=News+Cycle:700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=News+Cycle:700' rel='stylesheet' type='text/css'>
     <style>
       @keyframes marquee {
         0% {left: 100vw}
