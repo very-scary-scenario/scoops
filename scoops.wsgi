@@ -21,6 +21,11 @@ def index(name='Index'):
     return bottle.template('gamename', story=story)
 
 
+@bottle.route('/ticker')
+def ticker(name='Ticker'):
+    return bottle.template('ticker')
+
+
 @bottle.route('/raw')
 def raw(name='Raw'):
     try:
@@ -28,14 +33,17 @@ def raw(name='Raw'):
     except ValueError:
         count = 1
 
+    html = bool(bottle.request.query.html)
+
     bottle.response.content_type = 'text/plain; charset=utf-8'
+
     return '\n'.join([
-        make_story(html=False) for x in xrange(min(500, count))
+        make_story(html=html) for x in xrange(min(500, count))
     ])
 
 application = bottle.default_app()
 
 if __name__ == '__main__':
-    bottle.run(host='localhost', port=8080)
+    bottle.run(host='localhost', port=8081)
     # from flup.server.fcgi import WSGIServer
     # WSGIServer(application).run()
