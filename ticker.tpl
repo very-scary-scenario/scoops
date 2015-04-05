@@ -6,12 +6,12 @@
     <link href='http://fonts.googleapis.com/css?family=News+Cycle:700' rel='stylesheet' type='text/css'>
     <style>
       @keyframes marquee {
-        0% {
-          left: 100vw;
-        }
-        100% {
-          left: -100%;
-        }
+        0% {left: 100vw}
+        100% {left: -100%}
+      }
+      @-webkit-keyframes marquee {
+        0% {left: 100vw}
+        100% {left: -100%}
       }
 
       * {
@@ -31,8 +31,10 @@
       h1 {
         margin-top: 1em;
         position: relative;
-        animation: marquee 20s linear;
         left: -100%;
+
+        animation: marquee 20s linear;
+        -webkit-animation: marquee 20s linear;
       }
     </style>
   </head>
