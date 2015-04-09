@@ -198,14 +198,14 @@ Middle-Earth: %s
 %snautica
 %sfactory
 %sBrick
-%s: A Thief's End
+%s: A Thief’s End
 %s: Rebirth
 %s and the Blind Forest
 %s: Skylines
 %s: Second Son
-%s at Freddy's
+%s at Freddy’s
 %s Presents Fast & Furious
-%s 'n' Tasty!
+%s ‘n’ Tasty!
 %s All-ages Download Edition
 %s: Last Round
 %s: China
