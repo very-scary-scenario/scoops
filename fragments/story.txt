@@ -52,7 +52,6 @@ Despite the critical success of <game>, the <peripheral> has failed to live up t
 <community> speculates the worst after <company> refuses to clarify their used game policy for their upcoming console.
 <platform> is about to become the next water cooler.
 <game> will feature a dog as a fascinating new addition to your squad.
-<company> have announced plans to produce a television series based on <game>.
 Fans on <community> are outraged after <company> removes a “bug” in <game> that allows gay partnerships and male pregnancy.
 Mere days after <event>, <company> have announced a complete reversal of their <platform> DRM policies.
 <company> have decided to lower the resolution of <game> on the <platform> for 'parity reasons'.
@@ -83,3 +82,11 @@ Sure, Godus is a mess, but what ever happened to Peter Molyneux's <game>?
 PS Plus users find themselves elated to discover both <game_a> and <game_b> will be free this month.
 After an internal feud concerning the development of <game>, <luminary>'s name is being removed from public material.
 The wait for new <platform> games continues.
+Puzzling. Confusing. Terrifying. How did <game> make it through Steam Greenlight?
+The news of <company>'s closure has been met with uproar, after being announced on-stage at <event>.
+Rumours are circulating about Netflix creating a live-action series of <company>'s <game>.
+Rhythm games are coming back to consoles, but will we see <peripheral> support?
+In unforseen news, Hollywood looks set to be making a major motion picture based on the <game> franchise.
+We're happy to reveal that <luminary> is the new hire for <publication>.
+<community> users have taken it upon themselves to create a HD remaster of <game>. <company> has not commented on the matter.
+It turns out there really were <quantity> copies of <game> buried in New Mexico landfill.
