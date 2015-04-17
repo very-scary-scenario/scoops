@@ -1,6 +1,8 @@
 #!/usr/bin/env python2
 # -*- coding=utf-8 -*-
 
+from __future__ import unicode_literals
+
 from random import choice, random
 import re
 
@@ -33,8 +35,15 @@ def make_story(html=True):
         if r not in repl:
             repl[r] = get_fragment(r.split('_')[0], html)
 
-    for r in repl:
-        story = story.replace('<%s>' % r, repl[r])
+    for k, v in repl.iteritems():
+        replacements = []
+        if re.match(r'.*s\W*$', v):
+            replacements.append(('<%s>’s' % k, '%s’' % v))
+
+        replacements.append(('<%s>' % k, v,))
+
+        for old, new in replacements:
+            story = story.replace(old, new)
 
     return story
 

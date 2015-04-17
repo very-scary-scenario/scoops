@@ -23,6 +23,13 @@ class Fragments(object):
 
                 for value in values:
                     count = len([v for v in values if v == value])
+
+                    if "'s" in value:
+                        raise ValueError(
+                            "You should be using ’ rather than ' in {}"
+                            .format(value)
+                        )
+
                     if count != 1:
                         raise ValueError(
                             '{value!r} appears {count} times in {name!r}'

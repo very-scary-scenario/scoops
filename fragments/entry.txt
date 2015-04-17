@@ -198,7 +198,7 @@ Middle-Earth: %s
 %snautica
 %sfactory
 %sBrick
-%s: A Thief's End
+%s: A Thief’s End
 %s: Rebirth
 %s and the Blind Forest
 %s: Skylines
