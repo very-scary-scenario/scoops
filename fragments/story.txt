@@ -55,7 +55,7 @@ Despite the critical success of <game>, the <peripheral> has failed to live up t
 <company> have announced plans to produce a television series based on <game>.
 Fans on <community> are outraged after <company> removes a “bug” in <game> that allows gay partnerships and male pregnancy.
 Mere days after <event>, <company> have announced a complete reversal of their <platform> DRM policies.
-<company> have decided to lower the resolution of <game> on the <platform> for 'parity reasons'.
+<company> have decided to lower the resolution of <game> on the <platform> for “parity reasons”.
 Reviews suggest that <game> is the first title in the franchise that truly does the original film justice.
 After the street date for <game_a> was broken, <company> has pushed back the European release of <game_b> by a week.
 Fans of <game> are upset after <luminary> revealed that characters and game modes were cut due to the <platform> constraints.
@@ -76,7 +76,7 @@ Gamers are feeling betrayed after a remake of <game> was teased at <event>, only
 The recent beta for <game> has left fans of the series upset, due to the controversial inclusion of ADS.
 Toys “R” Us has come under fire after scalpers were allowed to purchase hundreds of exclusive <game> amiibos.
 <company> is celebrating the release of <game> by releasing hundreds of free codes on <community>.
-We've all been waiting for it. The next Giant Bomb Endurance Run will be the <platform> version of <game>.
+We’ve all been waiting for it. The next Giant Bomb Endurance Run will be the <platform> version of <game>.
 The rumour that Rayman will appear in <game> has been proven false.
 Fans of EVO are furious over this year’s inclusion of <game>. A controversial decision.
 Sure, Godus is a mess, but what ever happened to Peter Molyneux’s <game>?

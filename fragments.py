@@ -24,11 +24,12 @@ class Fragments(object):
                 for value in values:
                     count = len([v for v in values if v == value])
 
-                    if "'s" in value:
-                        raise ValueError(
-                            "You should be using ’ rather than ' in {}"
-                            .format(value)
-                        )
+                    for banned_character in ["'", '"']:
+                        if banned_character in value:
+                            raise ValueError(
+                                "You should be using ’ rather than ' in {0!r}"
+                                .format(value)
+                            )
 
                     if count != 1:
                         raise ValueError(
