@@ -203,3 +203,4 @@ Middle-Earth: %s
 %s and the Blind Forest
 %s: Skylines
 %s: Second Son
+Fun! Fun! %s!
