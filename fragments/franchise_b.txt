@@ -19,8 +19,7 @@ Hero
 Legend
 Football
 Tentacle
-Mansion
-Heroes
+Mansion Heroes
 Hour
 Forge
 Drive
@@ -256,3 +255,5 @@ Justice
 Escape
 Gundam
 TOUCH
+Battle
+Zombies
