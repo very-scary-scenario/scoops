@@ -206,3 +206,9 @@ Middle-Earth: %s
 Fun! Fun! %s!
 %s starring GOEMON
 Simply %s
+%s at Freddy’s
+%s Presents Fast & Furious
+%s ‘n’ Tasty!
+%s All-ages Download Edition
+%s: Last Round
+%s: China
