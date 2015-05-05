@@ -19,7 +19,8 @@ Hero
 Legend
 Football
 Tentacle
-Mansion Heroes
+Mansion
+Heroes
 Hour
 Forge
 Drive
