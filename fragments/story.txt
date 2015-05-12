@@ -96,3 +96,4 @@ A sequel to <game>, last year's runaway success, has been revealed via a listing
 Gamers are enraged to discover that the demo for <game> has been removed, following the collapse of the project.
 <game_a>, the spiritual successor to <game_b>, has met its Kickstarter goal in only 40 minutes.
 <vendor> will be hosting an “open beta weekend” for <game> to stress test online features.
+In <game>, <company>'s new mobile game, players can engage in conversation, take actions and even do activities together.
