@@ -97,3 +97,4 @@ Gamers are enraged to discover that the demo for <game> has been removed, follow
 <game_a>, the spiritual successor to <game_b>, has met its Kickstarter goal in only 40 minutes.
 <vendor> will be hosting an “open beta weekend” for <game> to stress test online features.
 In <game>, <company>'s new mobile game, players can engage in conversation, take actions and even do activities together.
+Reasonable adults remain baffled as to why the addition of female teams in <game> is meant to be a bad thing.
