@@ -34,3 +34,4 @@ David Jaffe
 Shinji Hashimoto
 Dave Lang
 Ed Boon
+Koji Igarashi
