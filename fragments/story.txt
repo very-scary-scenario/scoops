@@ -1,7 +1,7 @@
 Our sources inform us that <company> are aiming to ship <game> next holiday season.
 Enraged fans are petitioning <company> to “fix” the ending of <game>.
 <company> have announced a Kickstarter campaign to fund the development of <game>.
-The internet is today angry at <company> after it is revealed that <game> shipped with DLC on-disk.
+The internet is today angry at <company> after it is revealed that <game> shipped with on-disk DLC.
 After shipping the PC version of <game> on Steam, <company> tell us that they couldn’t be happier with its new home.
 Protesters are picketing the offices of <company> today after the discovery of a hidden sex minigame in <game>.
 <company> have been forced to lay off hundreds of employees due to the poor Metacritic performance of <game>.
@@ -15,7 +15,7 @@ The open-source project <game> has been forked after its founder sold the name t
 Local flooding has forced <company> to announce that <game> will ship later than expected.
 <company> will not be attending <event> this year. They have instead opted to host their own event to promote <game>.
 For the first time, <company> will be shipping a game — <game> — on a console besides their own.
-<company> have released a trailer for their new anime adaptation <game>.
+<company> have released a trailer for the new anime adaptation of <game>.
 In a move to bring back the genre that made them famous, <company> today announced their new project <game>.
 A new Humble Bundle debuts today. The highlight of the lineup is <company>’s new title, <game>.
 Despite prior promises otherwise, <game> shipped on Steam today with <company>’s always-connected DRM system.
@@ -31,8 +31,8 @@ The tear-jerking viral YouTube video in which a bedridden child plays <game> in 
 Ex-<company> employees are frustrated about their exclusion from the credits of <game>.
 <company> have confirmed that <game> will ship when planned and multiplayer will be patched in post-release.
 Controversy unfolds as <company> are criticised for marketing their adult visual novel <game> to minors.
-<company> have sold the rights to make a movie of <game> to an undisclosed third party.
-<company> are playing down the importance of the recent leak of <game>’s script months before it is due to be released.
+<company> have sold the theatrical rights of <game> to an undisclosed third party.
+<company> are playing down the importance of the <game> story leak, months before it is due to go on sale.
 Rumours are circulating that <company> are going to announce <game> at a publisher event next week.
 After a spate of negative user reviews on Metacritic, <company> have reached out to players of <game> to rebalance the average score.
 About to board a plane to <company>’s offices, where he thought he was getting an interview, police today arrested the hacker responsible for last year’s <game> leak.
@@ -79,22 +79,25 @@ We’ve all been waiting for it. The next Giant Bomb Endurance Run will be the <
 The rumour that Rayman will appear in <game> has been proven false.
 Fans of EVO are furious over this year’s inclusion of <game>. A controversial decision.
 Sure, Godus is a mess, but what ever happened to Peter Molyneux’s <game>?
-PS Plus users find themselves elated to discover both <game_a> and <game_b> will be free this month.
-After an internal feud concerning the development of <game>, <luminary>’s name is being removed from public material.
+PS Plus users find themselves elated to discover both <game_a> and <game_b> are free this month.
+After a feud concerning the development of <game>, <luminary>’s name is being removed from public-facing material.
 The wait for new <platform> games continues.
 The jig is up! <game> is revealed to be Frog Fractions 2.
 Puzzling. Confusing. Terrifying. How did <game> make it through Steam Greenlight?
-The news of <company>’s closure has been met with uproar, after being announced on-stage at <event>.
-Rumours are circulating about Netflix creating a live-action series of <company>’s <game>.
+The news of <company>’s closure has been met with uproar, after it was announced on-stage at <event>.
+Is it true that Netflix is creating a live-action series of <company>’s <game>?
 Rhythm games are coming back to consoles, but will we see <peripheral> support?
-In unforseen news, Hollywood looks set to be making a major motion picture based on the <game> franchise.
+In unforseen news, Hollywood looks set to make a major motion picture based on the <game> franchise.
 We’re happy to reveal that <luminary> is the new hire for <publication>.
-<community> users have taken it upon themselves to create a HD remaster of <game>. <company> has not commented on the matter.
+<community> users have taken it upon themselves to create a HD remaster of <game>. <company> refused to comment.
 It turns out there really were <quantity> copies of <game> buried in New Mexico landfill.
 A sequel to <game>, last year’s runaway success, has been revealed via a listing on <vendor>.
-<company> fans are petitioning for the removal of paid DLC support from <game>.
-Gamers are enraged to discover that the demo for <game> has been removed, following the collapse of the project.
+<company> fans are petitioning for the removal of paid DLC from <game>.
+Gamers are furious that the demo for <game> has been removed from <vendor>, following the collapse of the project.
 <game_a>, the spiritual successor to <game_b>, has met its Kickstarter goal in only 40 minutes.
-<vendor> will be hosting an “open beta weekend” for <game> to stress test online features.
+<vendor> have announced an “open beta weekend” for <game> to stress test online features.
 In <game>, <company>’s new mobile game, players can engage in conversation, take actions and even do activities together.
 Reasonable adults remain baffled as to why the addition of female teams in <game> is meant to be a bad thing.
+With all of the recent leaks, will there be anything left to announce at <event>?
+<luminary>’s new Kickstarter project <game> has become the most funded game in the history of the service.
+Thanks to an unexpected partnership, every <peripheral> will now be bundled with an Xbox One controller.
