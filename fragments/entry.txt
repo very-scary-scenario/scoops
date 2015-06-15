@@ -210,5 +210,6 @@ Simply %s
 %s Presents Fast & Furious
 %s ‘n’ Tasty!
 %s All-ages Download Edition
-%s: Last Round
+%s: Last Roun
 %s: China
+Tony Hawk’s %s
