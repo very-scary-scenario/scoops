@@ -221,3 +221,4 @@ Tony Hawk’s %s
 %s Go
 %s: Integrity and Faithlessness
 World of %s
+%s: Zero Dawn
