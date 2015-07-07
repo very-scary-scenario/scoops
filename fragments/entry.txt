@@ -213,3 +213,12 @@ Simply %s
 %s Last Round
 %s: China
 Tony Hawk’s %s
+%s: Federation Forge
+%s Fates
+%s: Amiibo Festival
+%s: Paper Jam
+%s of the Tomb Raider
+%s Go
+%s: Integrity and Faithlessness
+World of %s
+%s: Zero Dawn
