@@ -213,7 +213,7 @@ Simply %s
 %s Last Round
 %s: China
 Tony Hawk’s %s
-%s: Federation Forge
+%s: Federation Force
 %s Fates
 %s: Amiibo Festival
 %s: Paper Jam
