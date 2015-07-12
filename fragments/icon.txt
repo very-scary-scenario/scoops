@@ -3,4 +3,75 @@ Luigi
 Princess Peach
 Wario
 Waluigi
+Pikachu
+Donkey Kong
+Link
+Ganondorf
+Samus
+Yoshi
+Kirby
+Fox
+Bowser
+Zelda
+Marth
+Little Mac
+Shulk
+Mega Man
+Sonic
+Solid Snake
 Rayman
+Ryu
+M. Bison
+Nathan Drake
+Soap MacTavish
+Lightning
+Cloud Strife
+Tiger Woods
+Altaïr
+Ezio Auditore
+Desmond Miles
+Albert Wesker
+Chris Redfield
+Claire Redfield
+Jill Valentine
+Leon S. Kennedy
+Master Chief
+Cortana
+Crash Bandicoot
+Spyro
+Heihachi Mishima
+Kazuya Mishima
+Yoshimitsu
+Phoenix Wright
+Miles Edgeworth
+Pac-Man
+Lara Croft
+Goku
+Frieza
+Luke Skywalker
+Darth Vader
+James Bond
+Tony Hawk
+Spider-Man
+Wolverine
+Scorpion
+Sub-Zero
+K.K. Slider
+Tom Nook
+Mr. Resetti
+Dr. Robotnik
+Batman
+Kratos
+Simon Belmont
+Frogger
+Gordon Freeman
+Professor Layton
+Commander Shepard
+Bomberman
+Naruto
+Agent 47
+Frank West
+Max Payne
+Godzilla
+Alex Kidd
+Leisure Suit Larry
