@@ -222,3 +222,5 @@ Tony Hawk’s %s
 %s: Integrity and Faithlessness
 World of %s
 %s: Zero Dawn
+%s Windows 10 Edition
+%s: Spot The Liar!
