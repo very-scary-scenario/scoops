@@ -57,7 +57,7 @@ Mere days after <event>, <company> have announced a complete reversal of their <
 <company> have decided to lower the resolution of <game> on the <platform> for “parity reasons”.
 Reviews suggest that <game> is the first game in the franchise that truly does the source material justice.
 After the street date for <game_a> was broken, <company> has pushed back the European release of <game_b> by a week.
-Fans of <game> are upset after <luminary> revealed that characters and game modes were cut due to the <platform> constraints.
+Fans of <game> are upset after <luminary> revealed that game modes were cut due to <platform> hardware constraints.
 Speedrunners have discovered a new exploit in the <platform> classic <game>, allowing them to skip straight to the boss room.
 Almost twenty years after it was first published, an easter egg in <game> has been discovered by accident.
 Gamers remain baffled as to why <company>’s <game> is getting a HD remake.
