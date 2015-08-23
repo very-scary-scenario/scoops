@@ -54,7 +54,7 @@ Despite the critical success of <game>, the <peripheral> has failed to live up t
 <game> will feature a dog as a fascinating new addition to your squad.
 Fans on <community> are outraged after <company> removes a “bug” in <game> that allows gay partnerships and male pregnancy.
 Mere days after <event>, <company> have announced a complete reversal of their <platform> DRM policies.
-<company> have decided to lower the resolution of <game> on the <platform> for “parity reasons”.
+<company> have decided to lower the resolution of <game> on <platform> for “parity reasons”.
 Reviews suggest that <game> is the first game in the franchise that truly does the source material justice.
 After the street date for <game_a> was broken, <company> has pushed back the European release of <game_b> by a week.
 Fans of <game> are upset after <luminary> revealed that game modes were cut due to <platform> hardware constraints.
