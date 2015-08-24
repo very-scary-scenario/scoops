@@ -224,3 +224,11 @@ World of %s
 %s: Zero Dawn
 %s Windows 10 Edition
 %s: Spot The Liar!
+%s: Summer Vacation Spent With You
+%s: Must Songs
+King of %s
+%s: The Fall of Gravity
+%s: Street Rage
+%s 256
+%s: Hong Kong
+%s -Colorful-
