@@ -1,6 +1,6 @@
 Our sources inform us that <company> are aiming to ship <game> next holiday season.
 Enraged fans are petitioning <company> to “fix” the ending of <game>.
-<company> have announced a Kickstarter campaign to fund the development of <game>.
+<company> have announced a campaign on <crowdfund> to fund the development of <game>.
 The internet is today angry at <company> after it is revealed that <game> shipped with on-disk DLC.
 After shipping the PC version of <game> on Steam, <company> tell us that they couldn’t be happier with its new home.
 Protesters are picketing the offices of <company> today after the discovery of a hidden sex minigame in <game>.
@@ -94,15 +94,15 @@ It turns out there really were <quantity> copies of <game> buried in New Mexico 
 A sequel to <game>, last year’s runaway success, has been revealed via a listing on <vendor>.
 <company> fans are petitioning for the removal of paid DLC from <game>.
 Gamers are furious that the demo for <game> has been removed from <vendor>, following the collapse of the project.
-<game_a>, the spiritual successor to <game_b>, has met its Kickstarter goal in only 40 minutes.
+<game_a>, the spiritual successor to <game_b>, has met its <crowdfund> goal in only 40 minutes.
 <vendor> have announced an “open beta weekend” for <game> to stress test online features.
 In <game>, <company>’s new mobile game, players can engage in conversation, take actions and even do activities together.
 Reasonable adults remain baffled as to why the addition of female teams in <game> is meant to be a bad thing.
 With all of the recent leaks, will there be anything left to announce at <event>?
-<luminary>’s new Kickstarter project <game> has become the most funded game in the history of the service.
+<luminary>’s new <crowdfund> project <game> has become the most funded game in the history of the service.
 Thanks to an unexpected partnership, every <peripheral> will now be bundled with an Xbox One controller.
 <game> will ship with <peripheral> support. <luminary> stated that “As far as stupid gimmicks go, it’s the best fucking one.”
-Announced during <company>’s press conference, the long-awaited sequel to <game> is coming to Kickstarter.
+Announced during <company>’s press conference, the long-awaited sequel to <game> is coming to <crowdfund>.
 It has repair bots, it has fish… but <game> still doesn’t have a pet system. At $64 million, that changes.
 ༼ つ ◕_◕ ༽つ give <game> ༼ つ ◕_◕ ༽つ
 <game> is: FPS; hobby-grade coop campaign; genre-blended, multi-mode competitive e-sports; meta-growth, choice + epic <game> Heroes!
