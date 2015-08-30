@@ -232,3 +232,4 @@ King of %s
 %s 256
 %s: Hong Kong
 %s -Colorful-
+%s: Dreamer

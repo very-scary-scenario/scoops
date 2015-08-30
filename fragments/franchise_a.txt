@@ -290,3 +290,4 @@ Fallout
 Wind-Up
 Gathering
 Rocket
+Suicide
