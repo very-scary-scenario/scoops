@@ -233,4 +233,4 @@ King of %s
 %s: Hong Kong
 %s -Colorful-
 %s: Dreamer
-James Cameron's %s
+James Cameron’s %s
