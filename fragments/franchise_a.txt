@@ -292,7 +292,6 @@ Gathering
 Rocket
 Suicide
 Skate
-Dead
 Powerup
 Warning
 Operation
