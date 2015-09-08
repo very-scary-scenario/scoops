@@ -234,3 +234,15 @@ King of %s
 %s -Colorful-
 %s: Dreamer
 James Cameron’s %s
+Mega %s
+%s - A Murder Simulator
+%s: Murder Party
+%s: Cold War
+%s ’n’ Paint
+%s or DIE
+%s Adventure
+%s: The Official Videogame of the Winter Olympic Games
+%s: Extinction Agenda
+%s Across America
+Ms. %s
+%s Remastered
