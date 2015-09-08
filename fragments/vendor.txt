@@ -1,4 +1,3 @@
 Steam
 Origin
 GoG
-#should think about how to structure this so we can have stuff like Game and Tesco without looking weird.
