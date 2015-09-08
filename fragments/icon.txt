@@ -19,6 +19,7 @@ Shulk
 Mega Man
 Sonic
 Solid Snake
+Big Boss
 Rayman
 Ryu
 M. Bison
@@ -26,6 +27,7 @@ Nathan Drake
 Soap MacTavish
 Lightning
 Cloud Strife
+Sephiroth
 Tiger Woods
 Altaïr
 Ezio Auditore
@@ -76,3 +78,6 @@ Godzilla
 Alex Kidd
 Leisure Suit Larry
 Segata Sanshiro
+Ryu Hayabusa
+Dirk the Daring
+Marcus Fenix
