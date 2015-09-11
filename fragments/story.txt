@@ -73,7 +73,7 @@ Gamers are feeling betrayed after a remake of <game> was teased at <event>, only
 <company_a> and <company_b> are working on a new episodic game series based on the iconic world of <game>.
 <publication> has confirmed that <company_a> is funding the localisation of <company_b>’s <game>.
 The recent beta for <game> has left fans of the series upset, due to the controversial inclusion of ADS.
-Toys “R” Us has come under fire after scalpers were allowed to purchase hundreds of exclusive <game> amiibos.
+<shop> has come under fire after scalpers were allowed to purchase hundreds of exclusive <game> amiibos.
 <company> is celebrating the release of <game> by releasing hundreds of free codes on <community>.
 We’ve all been waiting for it. The next Giant Bomb Endurance Run will be the <platform> version of <game>.
 The rumour that <icon> will appear in <game> has been proven false.
@@ -119,3 +119,5 @@ In the <platform> version of <game>, you’ll be able to fight <icon> in an epic
 <company> has announced that it’s developing a theme park, due to open in 2020. Will we see a ride based on <game>?
 Jack Thompson’s legal battle with <company> over <game> is being adapted into a 90-minute dramatization by the BBC.
 Level up your game with <game> edition Red Bull cans, featuring bonus XP and an epic new quest.
+In a shocking reveal, <luminary> has revealed themselves to be the mother of <icon>.
+Gamers are left frustrated after hundreds of <game> special edition bundles were stolen from a truck owned by <shop>.
