@@ -12,6 +12,7 @@ Yoshi
 Kirby
 Fox
 Bowser
+Bowser Jr.
 Zelda
 Marth
 Little Mac
