@@ -165,4 +165,4 @@ Ms. %s
 Arcade Archives: %s
 %s!!!!!
 Dragon Ball Z: %s
-Assassin's Creed: %s
+Assassin’s Creed: %s
