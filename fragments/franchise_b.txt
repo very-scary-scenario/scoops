@@ -13,7 +13,6 @@ Brigade
 Mania
 Wing
 Flame
-F.O.R.C.E.
 Band
 Hero
 Legend
@@ -82,7 +81,6 @@ Horses
 Orchestra
 Overture
 City
-Premonition
 Tournament
 Panic
 Rocket
@@ -93,7 +91,6 @@ Kong
 Attack
 Race
 Planet
-Creed
 Men
 Honor
 Radio
@@ -117,7 +114,6 @@ Eden
 Monsters
 Wings
 Birds
-Big Planet
 Shoujo
 Evil
 Dust
@@ -169,7 +165,6 @@ Street
 NFL
 Quest
 Hill
-Emblem
 Invaders
 Commander
 Fury
@@ -178,7 +173,6 @@ Showdown
 Recon
 Shots
 Brothers
-Wolfenstein
 Shop
 Sports
 Mission
@@ -236,7 +230,6 @@ Scrolls
 Colossus
 Mask
 Snowboarding
-Neptunia
 Snap
 Dash
 Attorney
@@ -250,7 +243,6 @@ Obscura
 Sea
 Shuffle
 Within
-Hardline
 Eternity
 Justice
 Escape
@@ -278,7 +270,6 @@ Rocks
 Evangile
 Verge
 Rampage
-Touch & Go
 Tactics
 Quintet
 ’N Chaos
@@ -297,3 +288,9 @@ Clickers
 Clicker
 Defenders
 Racer
+Busters
+Lullaby
+Samurai
+Cactus
+Factor
+Climax
