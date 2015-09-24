@@ -11,7 +11,6 @@ Zero
 Lincoln
 Rock
 Guitar
-Brütal
 FIFA
 Madden
 Street
@@ -20,9 +19,7 @@ Twisted
 Dungeon
 Team
 Hard
-Mirror’s
 Love
-Saints
 Dragon
 Black
 L.A.
@@ -77,18 +74,13 @@ Total
 Deadly
 Desert
 Unreal
-Doki Doki
-Chu Chu
 Poker
 Gal
 Rock of
 King
 Donkey
-Assassin’s
 Warp
 War
-Medal of
-Jet Set
 Oregon
 Mercenary
 Tecmo
@@ -102,10 +94,8 @@ Meat
 Tiny
 Face
 Everyday
-PixelJunk
 Angry
 Little
-Katawa
 King of
 Resident
 Mario
@@ -116,7 +106,6 @@ End of
 Space
 Metal
 Devil
-Shin Megami
 Sonic
 Spy
 Pocket
@@ -149,7 +138,6 @@ Mortal
 Cosmic
 Calamity
 Continuum
-Otomedius
 Test
 Men of
 Fortune
@@ -163,7 +151,6 @@ Silent
 Fire
 MLB
 Wing
-River City
 Fatal
 Samurai
 Hot
@@ -203,7 +190,6 @@ Moto
 Elevator
 Music
 Curious
-Dynasty
 Final
 Supreme
 Legendary
@@ -229,9 +215,7 @@ System
 Criminal
 Mystic
 Elder
-Ocarina of
 Theme
-Hyperdimension
 Kirby’s
 Epic
 Dante’s
@@ -242,11 +226,9 @@ Ultimate
 Soda
 Rogue
 Frog
-Papers,
 The Evil
 Super Mega
 Captain
-Pix the
 Camera
 Sunless
 Sick
@@ -276,7 +258,6 @@ Anonymous
 Candle
 Furry
 Princess
-Axiom
 Story of
 Son of
 Tabletop
@@ -311,7 +292,11 @@ Man vs.
 Cow
 Cookie
 President
-’Splosion
 Drag
 Depression
 Bonsai
+Kitten
+Albino
+Deep
+Assault
+Happy
