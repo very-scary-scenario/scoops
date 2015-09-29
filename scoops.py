@@ -17,7 +17,7 @@ def get_fragment(name, html):
     if name == 'game':
         franchise = get_fragment('franchise', html)
 
-        if random() < 0.6:
+        if random() < 0.8:
             game = choice(fragments.entry) % franchise
         else:
             game = franchise
