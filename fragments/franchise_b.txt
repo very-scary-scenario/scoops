@@ -105,7 +105,6 @@ Party
 ☆ Star
 Boy
 Void
-Mesa
 Tower
 Journey
 Flow
@@ -294,3 +293,4 @@ Samurai
 Cactus
 Factor
 Climax
+BMX
