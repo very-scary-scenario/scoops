@@ -58,7 +58,6 @@ Swarm
 Raider
 Sandbox
 Smasher
-Synapse
 Fight
 Trick
 Dogma
@@ -266,7 +265,6 @@ Sudoku
 Route
 Legends
 Rocks
-Evangile
 Verge
 Rampage
 Tactics
@@ -294,3 +292,13 @@ Cactus
 Factor
 Climax
 BMX
+Lord
+School
+Game
+Bomber
+Hunt
+Magic
+Desire
+Bus
+Syndrome
+Revenge
