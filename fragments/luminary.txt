@@ -35,3 +35,4 @@ Shinji Hashimoto
 Dave Lang
 Ed Boon
 Koji Igarashi
+Guillermo del Toro
