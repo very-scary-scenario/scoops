@@ -126,6 +126,6 @@ Gamers are left frustrated after hundreds of <game> special edition bundles were
 <community> has been brought offline by thousands of users discussing a rumoured kiss between <icon> and a human in <game>.
 In expected news, <company> has announced that the release of <game> has been pushed to the beginning of next year.
 <company> has stated that on legacy platforms, <game> will only contain multiplayer game modes.
-In this month's Loot Crate, you'll find a <game_a> t-shirt and an exclusive early-access code for <game_b>.
+In this month’s Loot Crate, you’ll find a <game_a> t-shirt and an exclusive early-access code for <game_b>.
 The campaign for <company>’s upcoming <game>, which unlocked content based on pre-order numbers, has been cancelled.
 A new firmware update is available for <platform>, improving stability.
