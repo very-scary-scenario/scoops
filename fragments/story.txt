@@ -129,5 +129,5 @@ In expected news, <company> has announced that the release of <game> has been pu
 In this month’s Loot Crate, you’ll find a <game_a> t-shirt and an exclusive early-access code for <game_b>.
 The marketing campaign for <game>, which unlocked content based on pre-order numbers, has been cancelled.
 A new firmware update is available for <platform>, improving stability.
-A player has live-streamed the moment they accidentally set their house on fire, whilst playing <game> online to thousands.
+A <stream> user has accidentally set their house on fire while live-streaming <game>, broadcasting the event to thousands.
 A prototype <platform> game featuring <icon> has been discovered at a US flea market. 
