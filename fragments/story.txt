@@ -131,3 +131,6 @@ The marketing campaign for <game>, which unlocked content based on pre-order num
 A new firmware update is available for <platform>, improving stability.
 A <stream> user has accidentally set their house on fire while live-streaming <game>, broadcasting the event to thousands.
 A prototype <platform> game featuring <icon> has been discovered at a US flea market. 
+<publication> has apologised for their negative article about <game_a> after discovering the game they previewed was actually <game_b>.
+<company> has embraced and publicised a fan-made mod for their fifteen-year-old game, <game>.
+Sick of having your resources stolen in <game>? You’re in luck, as <company> now offers digital insurance.
