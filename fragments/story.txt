@@ -134,3 +134,4 @@ A prototype <platform> game featuring <icon> has been discovered at a US flea ma
 <publication> has apologised for their negative article about <game_a> after discovering the game they previewed was actually <game_b>.
 <company> has embraced and publicised a fan-made mod for their fifteen-year-old game, <game>.
 Sick of having your resources stolen in <game>? You’re in luck, as <company> now offers digital insurance.
+Crunchyroll is now on <platform>! Whoa!
