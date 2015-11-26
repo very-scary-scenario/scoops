@@ -135,3 +135,6 @@ A prototype <platform> game featuring <icon> has been discovered at a US flea ma
 <company> has embraced and publicised a fan-made mod for their fifteen-year-old game, <game>.
 Sick of having your resources stolen in <game>? You’re in luck, as <company> now offers digital insurance.
 Crunchyroll is now on <platform>! Whoa!
+<company_a> has purchased <company_b> for $5.9 billion dollars, in what <publication> is calling a “tax saving deal”.
+Servers for <game>, which only launched in July, are being shut down by <company> next month.
+<game>’s next DLC is so big that <company> is raising the price. Existing pre-orders are unaffected.
