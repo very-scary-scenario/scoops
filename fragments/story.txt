@@ -138,3 +138,4 @@ Crunchyroll is now on <platform>! Whoa!
 <company_a> has purchased <company_b> for $5.9 billion dollars, in what <publication> is calling a “tax saving deal”.
 Servers for <game>, which only launched in July, are being shut down by <company> next month.
 <game>’s next DLC is so big that <company> is raising the price. Existing pre-orders are unaffected.
+<game> has been patched to add a “Kiss the Girls” mode, which features <peripheral> support in the <platform> version.
