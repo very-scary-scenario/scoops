@@ -14,7 +14,7 @@ Game Boy Camera
 uDraw
 Wii Balance Board
 IllumiRoom
-Xbox SmartGlass
+SmartGlass
 Rumble Pak
 Buzz! Buzzer
 Trance Vibrator
