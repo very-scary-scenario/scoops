@@ -312,3 +312,10 @@ Crash
 Farmer
 Fishing
 Duck
+Punch
+Pony
+Rebel
+Cyber
+Fast
+Nuclear
+Euro
