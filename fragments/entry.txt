@@ -167,3 +167,4 @@ Arcade Archives: %s
 Dragon Ball Z: %s
 Assassin’s Creed: %s
 %s Saga
+The Adventures of %s
