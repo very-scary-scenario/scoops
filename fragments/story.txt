@@ -147,3 +147,6 @@ Players have been purchasing and gifting copies of <game> to those who are pirat
 <icon> is now banned from tournament play, confirms EVO organisers.
 <game>, developed by just one person, is set to be the runaway success of the year.
 <game_a>, a 2D interpretation of <game_b>, is now out of early access.
+A pricing error on <vendor> has enabled thousands of people to download the <game> season pass for free.
+<publication> has heard from a reliable source that there will be a price cut for <platform> announced at <event>.
+A project between <luminary_a> and <luminary_b> is being teased by <company>.
