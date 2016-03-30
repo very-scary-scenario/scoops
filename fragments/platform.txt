@@ -28,3 +28,4 @@ Android
 Windows Phone
 Nintendo NX
 Apple TV
+PC
