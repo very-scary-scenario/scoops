@@ -12,7 +12,6 @@ Blade
 Brigade
 Mania
 Wing
-Flame
 Band
 Hero
 Legend
@@ -310,3 +309,6 @@ Gunman
 Champion
 Dragon
 Throne
+Break
+Tale
+Damage
