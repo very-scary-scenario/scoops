@@ -150,3 +150,5 @@ Players have been purchasing and gifting copies of <game> to those who are pirat
 A pricing error on <vendor> has enabled thousands of people to download the <game> season pass for free.
 <publication> has heard from a reliable source that there will be a price cut for <platform> announced at <event>.
 A project between <luminary_a> and <luminary_b> is being teased by <company>.
+<company> and Yorkshire Tea have partnered to create a one-off <game>-themed box of teabags, to be sold for charity.
+<icon>’s breast physics are now working as intended.
