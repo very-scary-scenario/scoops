@@ -1,3 +1,4 @@
 Steam
 Origin
 GoG
+Uplay
