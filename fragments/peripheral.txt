@@ -26,3 +26,7 @@ Kinect 2.0
 Link Cable
 HoloLens
 Portal of Power
+HTC Vive
+TrackIR
+PocketStation
+VMU
