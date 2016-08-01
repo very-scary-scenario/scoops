@@ -30,3 +30,6 @@ HTC Vive
 TrackIR
 PocketStation
 VMU
+Pokémon GO Plus
+Google Cardboard
+Oculus Touch
