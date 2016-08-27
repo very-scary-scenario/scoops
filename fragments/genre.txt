@@ -1,0 +1,32 @@
+action
+platform
+shooter
+fighting 
+beat 'em up
+stealth
+action-adventure
+survival horror
+metroidvania
+adventure
+text adventure
+visual novel
+interactive movie
+role-playing
+action RPG
+MMO
+roguelike
+fantasy
+simulation
+strategy
+RTS
+MOBA
+tower defense
+sports
+racing
+rhythm
+party
+trivia
+idle
+casual
+educational
+pornographic
