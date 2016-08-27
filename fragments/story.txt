@@ -30,7 +30,7 @@ The tear-jerking viral YouTube video in which a bedridden child plays <game> in 
 <company> are no longer under threat of hostile takeover after the runaway success of <game>.
 Ex-<company> employees are frustrated about their exclusion from the credits of <game>.
 <company> have confirmed that <game> will ship when planned and multiplayer will be patched in post-release.
-Controversy unfolds as <company> are criticised for marketing their adult visual novel <game> to minors.
+Controversy unfolds as <company> are criticised for marketing their adult <genre> game <game> to minors.
 <company> have sold the theatrical rights of <game> to an undisclosed third party.
 <company> are playing down the importance of the <game> story leak, months before it is due to go on sale.
 Rumours are circulating that <company> are going to announce <game> at a publisher event next week.
@@ -79,14 +79,14 @@ We’ve all been waiting for it. The next Giant Bomb Endurance Run will be the <
 The rumour that <icon> will appear in <game> has been proven false.
 Fans of EVO are furious over this year’s inclusion of <game>. A controversial decision.
 Sure, Godus is a mess, but what ever happened to Peter Molyneux’s <game>?
-PS Plus users find themselves elated to discover both <game_a> and <game_b> are free this month.
+PS Plus users are elated to discover both <game_a> and <game_b> are free this month.
 After a feud concerning the development of <game>, <luminary>’s name is being removed from public-facing material.
 The wait for new <platform> games continues.
 The jig is up! <game> is revealed to be Frog Fractions 2.
 Puzzling. Confusing. Terrifying. How did <game> make it through Steam Greenlight?
 The news of <company>’s closure has been met with uproar, after it was announced on-stage at <event>.
 Is it true that Netflix is creating a live-action series of <company>’s <game>?
-Rhythm games are coming back to consoles, but will we see <peripheral> support?
+<genre> games are coming back to consoles, but will we see <peripheral> support?
 In unforseen news, Hollywood looks set to make a major motion picture based on the <game> franchise.
 We’re happy to reveal that <luminary> is the new hire for <publication>.
 <community> users have taken it upon themselves to create a HD remaster of <game>. <company> refused to comment.
@@ -97,7 +97,6 @@ Gamers are furious that the demo for <game> has been removed from <vendor>, foll
 <game_a>, the spiritual successor to <game_b>, has met its <crowdfund> goal in only 40 minutes.
 <vendor> have announced an “open beta weekend” for <game> to stress test online features.
 In <game>, <company>’s new mobile game, players can engage in conversation, take actions and even do activities together.
-Reasonable adults remain baffled as to why the addition of female teams in <game> is meant to be a bad thing.
 With all of the recent leaks, will there be anything left to announce at <event>?
 <luminary>’s new <crowdfund> project <game> has become the most funded game in the history of the service.
 Thanks to an unexpected partnership, every <peripheral> will now be bundled with an Xbox One controller.
@@ -126,7 +125,7 @@ Gamers are left frustrated after hundreds of <game> special edition bundles were
 <community> has been brought offline by thousands of users discussing a rumoured kiss between <icon> and a human in <game>.
 In expected news, <company> has announced that the release of <game> has been pushed to the beginning of next year.
 <company> has stated that on legacy platforms, <game> will only contain multiplayer game modes.
-In this month’s Loot Crate, you’ll find a <game_a> t-shirt and an exclusive early-access code for <game_b>.
+In this month’s Loot Crate you’ll find a <game_a> t-shirt and an exclusive early-access code for <game_b>.
 The marketing campaign for <game>, which unlocked content based on pre-order numbers, has been cancelled.
 A new firmware update is available for <platform>, improving stability.
 A <stream> user has accidentally set their house on fire while live-streaming <game>, broadcasting the event to thousands.
@@ -139,10 +138,10 @@ Crunchyroll is now on <platform>! Whoa!
 Servers for <game>, which only launched in July, are being shut down by <company> next month.
 <game>’s next DLC is so big that <company> is raising the price. Existing pre-orders are unaffected.
 <game> has been patched to add a “Kiss the Girls” mode, which features <peripheral> support in the <platform> version.
-<company_a> will be shutting down both <company_b> and <company_c>, with <game> also being cancelled.
+<company_a> are closing both <company_b> and <company_c>, with <game> also being cancelled.
 In an interview with <publication>, <suit> claims that it will soon be possible to upgrade your <platform>.
 If you’re planning to buy a <peripheral>, it’s claimed you’ll need to spend upwards of $1,500 on a system that can run it.
-Players have been purchasing and gifting copies of <game> to those who are pirating it, claims <publication>.
+Players have been gifting copies of <game> to those who are pirating it, claims <publication>.
 <company_a> has apologised to <company_b> after concept art from <game_a> was found in <game_b>.
 <icon> is now banned from tournament play, confirms EVO organisers.
 <game>, developed by just one person, is set to be the runaway success of the year.
@@ -155,3 +154,7 @@ A project between <luminary_a> and <luminary_b> is being teased by <company>.
 A miniature <console> will release this Autumn with 30 pre-loaded games, including <game>.
 <developer> has stealthily released a bug-ridden port of <game> for <platform>. They have declined to comment.
 Popular <stream> personalities have come under fire for promoting their own <game> gambling sites without disclosure.
+Are <company> doomed?
+<luminary> is rumoured to be working on a new <genre> game. <company> may be involved.
+<vendor> is running a sale on <genre> games, which includes 65% off <game>.
+<icon> will be making their <genre> game debut this year in <game>.
