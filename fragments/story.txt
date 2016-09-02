@@ -151,10 +151,11 @@ A pricing error on <vendor> has enabled thousands of people to download the <gam
 A project between <luminary_a> and <luminary_b> is being teased by <company>.
 <company> and Yorkshire Tea have partnered to create a one-off <game>-themed box of teabags, to be sold for charity.
 <icon>’s breast physics are now working as intended.
-A miniature <console> will release this Autumn with 30 pre-loaded games, including <game>.
+A miniature <platform> will release this Autumn with 30 pre-loaded games, including <game>.
 <developer> has stealthily released a bug-ridden port of <game> for <platform>. They have declined to comment.
 Popular <stream> personalities have come under fire for promoting their own <game> gambling sites without disclosure.
 Are <company> doomed?
 <luminary> is rumoured to be working on a new <genre> game. <company> may be involved.
 <vendor> is running a sale on <genre> games, which includes 65% off <game>.
 <icon> will be making their <genre> game debut this year in <game>.
+<game>, the <platform_a> classic, is being remastered for release on <platform_b>.
