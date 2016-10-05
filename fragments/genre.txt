@@ -2,7 +2,7 @@ action
 platform
 shooter
 fighting 
-beat 'em up
+beat ’em up
 stealth
 action-adventure
 survival horror
