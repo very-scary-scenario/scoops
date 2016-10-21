@@ -30,3 +30,5 @@ Nintendo Switch
 Apple TV
 PC
 Tapwave Zodiac
+PlayStation 4 Pro
+Xbox Scorpio
