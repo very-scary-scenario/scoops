@@ -26,6 +26,6 @@ New Nintendo 3DS
 GameCube
 Android
 Windows Phone
-Nintendo NX
+Nintendo Switch
 Apple TV
 PC
