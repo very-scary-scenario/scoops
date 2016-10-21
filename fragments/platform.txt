@@ -26,6 +26,9 @@ New Nintendo 3DS
 GameCube
 Android
 Windows Phone
-Nintendo NX
+Nintendo Switch
 Apple TV
 PC
+Tapwave Zodiac
+PlayStation 4 Pro
+Xbox Scorpio

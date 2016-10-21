@@ -159,3 +159,6 @@ Are <company> doomed?
 <vendor> is running a sale on <genre> games, which includes 65% off <game>.
 <icon> will be making their <genre> game debut this year in <game>.
 <game>, the <platform_a> classic, is being remastered for release on <platform_b>.
+Germany's Federal Department for Media Harmful to Young Persons has finally removed <game> from its list.
+Be sure to log into <game> this weekend for early access to DLC and quadruple XP.
+<luminary>'s favourite game of last year, <game>, will be getting a sequel.
