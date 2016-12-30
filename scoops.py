@@ -50,6 +50,7 @@ def make_story(html=True):
 if __name__ == '__main__':
     from sys import argv
     tweet = 'tweet' in argv
+    wait = '-wait' in argv
 
     while True:
         story = make_story(html=False)
@@ -57,9 +58,14 @@ if __name__ == '__main__':
             break
 
     if tweet:
-        import tweepy
+        import random
+        from time import sleep
+
+        if wait:
+            sleep(60 * 60 * random.random())
 
         from secrets import consumer_key, consumer_secret, key, secret
+        import tweepy
 
         auth = tweepy.auth.OAuthHandler(consumer_key, consumer_secret)
         auth.set_access_token(key, secret)
