@@ -41,7 +41,7 @@ Record returns follow record sales, forcing <company> to send millions of copies
 <company> will be making an aggressive return to hoops this fall with <game>.
 Following the controversy surrounding <company_a>’s handling of royalties for <game>, <luminary> has left <company_b>.
 <critic> is the first of many to leave <publication> after publishing a suspiciously favourable review of <game>.
-In the age of the <platform>, where does <luminary> fit into <company>?
+In the age of <platform>, where does <luminary> fit into <company>?
 <luminary> has revealed to <publication> that <game_a> was intended as a tribute to <game_b>.
 <game> sold <quantity> copies in its first week. Considering the state of <company>, how much more can we expect from <luminary>?
 In a public rant on <community>, <luminary> finally lets <critic> know the dark truth about <game>.
