@@ -82,7 +82,7 @@ Sure, Godus is a mess, but what ever happened to Peter Molyneux’s <game>?
 PS Plus users are elated to discover both <game_a> and <game_b> are free this month.
 After a feud concerning the development of <game>, <luminary>’s name is being removed from public-facing material.
 The wait for new <platform> games continues.
-The jig is up! <game> is revealed to be Frog Fractions 2.
+The jig is up! <game> is revealed to be Frog Fractions 3.
 Puzzling. Confusing. Terrifying. How did <game> make it through Steam Greenlight?
 The news of <company>’s closure has been met with uproar, after it was announced on-stage at <event>.
 Is it true that Netflix is creating a live-action series of <company>’s <game>?
@@ -165,3 +165,6 @@ Be sure to log into <game> this weekend for early access to DLC and quadruple XP
 Trench warfare requires specialty equipment and clothing. Thus is born the <game> Onsie, with pockets for melee weapons and Doritos.
 Why wasn’t <game> given a Best Fighting Game nomination at The Game Awards?
 <game> exists. Stand by for my big story on its development.
+<company> has a product for people who aren’t able to get some form of connectivity. It’s called <platform>.
+<game>, a new game from <company>, features an interesting new minigame where you can milk a cow.
+We can confirm that <luminary> is starting a new studio. Will we finally see a sequel to <game>?
