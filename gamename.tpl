@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <title>The Latest Scoops!</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-        <link rel="stylesheet" type="text/css" href="https://colons.co/scoops.css?v=stamp">
+        <link rel="stylesheet" type="text/css" href="https://colons.co/scoops.css?v=vss">
         <link href='https://fonts.googleapis.com/css?family=Lora:700,400' rel='stylesheet' type='text/css'>
         <link rel="shortcut icon" href="https://media.musicfortheblind.co.uk/static/favicon.ico" type="image/vnd.microsoft.icon">
     </head>
