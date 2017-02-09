@@ -4,10 +4,10 @@
 import sys
 import os
 
-dir = os.path.dirname(__file__)
+d = os.path.realpath(os.path.dirname(__file__))
 
-sys.path.append(dir)
-os.chdir(dir)
+sys.path.append(d)
+os.chdir(d)
 
 import bottle
 
