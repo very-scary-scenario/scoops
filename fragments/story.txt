@@ -168,3 +168,4 @@ Why wasn’t <game> given a Best Fighting Game nomination at The Game Awards?
 <company> has a product for people who aren’t able to get some form of connectivity. It’s called <platform>.
 <game>, a new game from <company>, features an interesting new minigame where you can milk a cow.
 We can confirm that <luminary> is starting a new studio. Will we finally see a sequel to <game>?
+In the remake of <game>, one modern enhancement will expand your adventure: downloadable content.
