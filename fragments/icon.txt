@@ -83,3 +83,4 @@ Ryu Hayabusa
 Dirk the Daring
 Marcus Fenix
 Linkle
+Guybrush Threepwood
