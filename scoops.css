@@ -104,14 +104,18 @@ span.game {
   font-style: italic;
 }
 
+a#stamp {
+  opacity: .2;
+}
 a#stamp img {
-  width: 6em;
-  height: 6em;
-  margin: .3em;
+  width: 5em;
+  height: 5em;
+  margin: .7em;
 }
 
 a#stamp:hover {
   border: none;
+  opacity: .5;
 }
 
 @media (max-width:550px) {
