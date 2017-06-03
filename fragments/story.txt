@@ -169,5 +169,5 @@ Why wasn’t <game> given a Best Fighting Game nomination at The Game Awards?
 <game>, a new game from <company>, features an interesting new minigame where you can milk a cow.
 We can confirm that <luminary> is starting a new studio. Will we finally see a sequel to <game>?
 In the remake of <game>, one modern enhancement will expand your adventure: downloadable content.
-Following litigation from a European board games manufacturer, <game> has been renamed to <game>.
+Following litigation from a European board games manufacturer, <game_a> has been renamed to <game_b>.
 <publication> has published a 35,000 word article on the untold history of the <game> franchise.
