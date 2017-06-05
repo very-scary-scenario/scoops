@@ -2,4 +2,4 @@ YouTube
 Twitch
 Hitbox
 Ustream
-Beam
+Mixer
