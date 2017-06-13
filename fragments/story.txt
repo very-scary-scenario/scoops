@@ -173,3 +173,4 @@ Following litigation from a European board games manufacturer, <game_a> has been
 <publication> has published a 35,000 word article on the untold history of the <game> franchise.
 <company> has said that they call the <platform> controller ‘the Stradivarius of controllers’.
 <company> has announced that <game> will be fueled by the data of Ronaldo.
+For <celebrity>, gaming is a religion, and <game> is the shit.
