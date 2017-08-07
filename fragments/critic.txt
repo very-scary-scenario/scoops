@@ -1,7 +1,6 @@
 Jeff Gerstmann
 Justin McElroy
 Griffin McElroy
-Nich Robinson
 Simone de Rochefort
 Yahtzee
 Geoff Keighley
@@ -11,7 +10,6 @@ Anita Sarkeesian
 TotalBiscuit
 Jim Sterling
 PewDiePie
-Arthur Gies
 Jeff Green
 Dan Ryckert
 Yogscast
