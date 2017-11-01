@@ -5,3 +5,4 @@ Twitter
 2ch
 YouTube
 Twitch
+ResetEra
