@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
     while True:
         story = make_story(html=False)
-        if not tweet or len(story) <= 140:
+        if not tweet or len(story) <= 280:
             break
 
     if tweet:
