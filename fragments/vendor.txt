@@ -2,3 +2,4 @@ Steam
 Origin
 GoG
 Uplay
+Epic Games store
