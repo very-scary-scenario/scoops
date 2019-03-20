@@ -32,3 +32,4 @@ PC
 Tapwave Zodiac
 PlayStation 4 Pro
 Xbox One X
+Stadia
