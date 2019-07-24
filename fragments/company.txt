@@ -1,160 +1,163 @@
-Lionhead
-Microsoft
-Sony
-Polytron
-Sega
-Nintendo
-Activision
-EA
-Bioware
-Bethesda
-Valve
-From Software
-Double Fine
-Gameloft
-Zynga
-22 Cans
-Carbon Neutral Games
-Harmonix
-Neversoft
-Mojang
-Dejobaan
-Telltale Games
-Oddworld Inhabitants
-Cipher Prime
-LucasArts
-thatgamecompany
-Access Games
-Media Molecule
-Team Meat
-Rockstar North
-Team Bondi
-Bizarre Creations
-Epic Games
-Disney Interactive
-Ubisoft
 1C Company
-Konami
-THQ
-Atari
-Capcom
-Bandai Namco
-Platinum Games
-Square Enix
-Codemasters
-Majesco
-Atlus
-Eidos
-5th Cell
-GRIN
-KOEI
-Take-Two
-Tecmo
-Pony Canyon
-ValuSoft
-2K Games
-Aksys Games
-EA Sports
-PopCap
-Arc System Works
-Data East
-Rare
-Videlectrix
-The Game Factory
-MicroProse
-id
-Meridian4
-Digital Leisure
-Taito
-SNK Playmore
-Midway
-Sierra
-Banpresto
-Maxis
-HAL Laboratory
-Hudson
-Sonic Team
-Vicarious Visions
-Team17
-Acclaim
-SunSoft
-Crytek
-Rovio
-Penny Arcade
-Runic Games
-Infinity Ward
-Insomniac
-Treyarch
-Respawn Entertainment
-Inti Creates
-Overdrive
-Supergiant Games
+22 Cans
 2D Boy
-Twisted Pixel
+2K Games
+505 Games
+5th Cell
+Access Games
+Acclaim
+Activision
+Aksys Games
+Arc System Works
+Atari
+Atlus
+Bandai Namco
+Banpresto
+Bethesda
+Bioware
+Bizarre Creations
+Blendo Games
+Blizzard
+Bohemia Interactive
+Bullfrog
+Capcom
+Carbon Neutral Games
+CCP
+Choice Provisions
 Chronic Logic
+CINEMAX
+Cipher Prime
+Codemasters
+Compulsion Games
+Crytek
+Dark Energy Digital
+Data East
+Deep Silver
+Dejobaan
+Devolver Digital
+Digital Leisure
+Disney Interactive
+DMA Design
+Double Fine
+Double Helix Games
+DrinkBox Studios
+EA
+EA Sports
+Edge Games
+Eidos
+Epic Games
 Eurocom
 Firefly Studios
-Frontier Developments
-Choice Provisions
-Frictional Games
-Grasshopper
-Introversion
-Level-5
-Llamasoft
-Metanet Software
-Mousechief
-Nifflas
-Playdead
-Q-Games
-Queasy Games
-Studio Pixel
-Blizzard
-inXile
-NCsoft
-Nippon Ichi Software
-Rockstar
-Stardock
-XSEED Games
-Two Tribes
-Traveller’s Tales
-Naughty Dog
-WayForward
-CINEMAX
-Nnooo
-Bullfrog
-Bohemia Interactive
-Game Freak
-Sledgehammer Games
-VectorCell
-Edge Games
-Illusion
-Dark Energy Digital
-Rising Star Games
-Quantic Dream
-Rocksteady Studios
-DMA Design
-CCP
-NetherRealm Studios
-Warner Brothers
-Double Helix Games
-Iron Galaxy Studios
-The Bartlet Jones Supernatural Detective Agency
-Tokyo RPG Factory
-Kojima Productions
-Paradox Interactive
-Zen Studios
-Devolver Digital
-NIS America
-505 Games
-Deep Silver
 Focus Home Interactive
+Frictional Games
+From Software
+Frontier Developments
+Game Freak
+Gameloft
+Gearbox Software
+Grasshopper
+GRIN
+HAL Laboratory
+Harmonix
 Hello Games
-The Chinese Room
-DrinkBox Studios
 Hipster Whale
-Pure FPS
-Techland
-Supermassive Games
+Hudson
+id
+Illusion
+Infinity Ward
+Insomniac
+Intelligent Systems
+Inti Creates
+Introversion
+inXile
+Iron Galaxy Studios
+Koei Tecmo Games
+Kojima Productions
+Konami
+Level-5
+Lionhead
+Llamasoft
+LucasArts
+Majesco
+Maxis
+Media Molecule
+Meridian4
+Metanet Software
+MicroProse
+Microsoft
+Midway
+Mojang
+Mousechief
+Naughty Dog
+NCsoft
+NetherRealm Studios
+Neversoft
 Niantic
-Compulsion Games
-Blendo Games
+Nifflas
+Nintendo
+Nippon Ichi Software
+NIS America
+Nnooo
+Oddworld Inhabitants
+Overdrive
+Paradox Interactive
+Penny Arcade
+Platinum Games
+Playdead
+Polytron
+Pony Canyon
+PopCap
+Pure FPS
+Q-Games
+Quantic Dream
+Queasy Games
+Rare
+Respawn Entertainment
+Rising Star Games
+Rockstar
+Rockstar North
+Rocksteady Studios
+Rovio
+Runic Games
+Sandlot
+Sega
+Sierra
+Sledgehammer Games
+SNK Playmore
+Sonic Team
+Sony
+Square Enix
+Stardock
+Studio Pixel
+SunSoft
+Supergiant Games
+Supermassive Games
+Taito
+Take-Two
+Team Bondi
+Team Meat
+Team17
+Techland
+Telltale Games
+thatgamecompany
+The Bartlet Jones Supernatural Detective Agency
+The Chinese Room
+The Game Atelier
+The Game Factory
+THQ
+Tokyo RPG Factory
+Traveller’s Tales
+Treyarch
+Twisted Pixel
+Two Tribes
+Ubisoft
+ValuSoft
+Valve
+VectorCell
+Vicarious Visions
+Videlectrix
+Warner Brothers
+WayForward
+XSEED Games
+Zen Studios
+Zynga
