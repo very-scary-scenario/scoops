@@ -1,29 +1,31 @@
-Jeff Gerstmann
-Justin McElroy
-Griffin McElroy
-Simone de Rochefort
-Yahtzee
-Geoff Keighley
-The Angry Video Game Nerd
-Patrick Klepek
 Anita Sarkeesian
-Jim Sterling
-PewDiePie
-Jeff Green
-Dan Ryckert
-Egoraptor
 Austin Walker
-Markiplier
-Greg Miller
-Hemtube
-Danielle Riendeau
-Janine Hawkins
-Laura Kate Dale
-Jason Schreier
-Danny O’Dwyer
-Mary Kish
-Gita Jackson
 Brian Ashcraft
+Brian David Gilbert
+Dan Ryckert
+Danielle Riendeau
+Danny O’Dwyer
+Egoraptor
+Geoff Keighley
+Gita Jackson
+Greg Miller
+Griffin McElroy
+Hemtube
+Janine Hawkins
+Jason Schreier
+Jeff Gerstmann
+Jeff Green
+Jim Sterling
+Justin McElroy
 Kizuna AI
-Xavier Woods
+Laura Kate Dale
+Markiplier
+Mary Kish
 Ninja
+Patrick Gill
+Patrick Klepek
+PewDiePie
+Simone de Rochefort
+The Angry Video Game Nerd
+Xavier Woods
+Yahtzee
