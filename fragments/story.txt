@@ -202,3 +202,4 @@ It is rumoured that <icon> will be the next DLC character for Super Smash Bros. 
 The classic <platform_a> game <game> will be heading to <platform_b> next week.
 The developers of <game> are facing backlash from fans after the announcement that it'll be releasing as a a <vendor> exclusive.
 Popular indie title <game> is getting a patch this week, fixing a typo that went unnoticed for over six years.
+As a special bonus, <game> players with <online> membership can claim 100 free Gem Apples to use in the game!
