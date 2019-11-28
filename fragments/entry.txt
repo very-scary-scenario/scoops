@@ -142,6 +142,7 @@ LEGO %s
 Littlest %s
 Mega %s
 Middle-Earth: %s
+Monster Energy %s
 Ms. %s
 My %s
 NBA %s
