@@ -6,8 +6,10 @@ Dan Houser
 Dave Lang
 David Cage
 David Jaffe
+Derek Yu
 Ed Boon
 Edmund McMillen
+Eric Barone
 Gabe Newell
 Harvey Smith
 Hatsune Miku
@@ -24,6 +26,7 @@ Kenta Cho
 Kim Swift
 Koji Igarashi
 Masahiro Sakurai
+Mike Bithell
 Paul Barnett
 Peter Molyneux
 Phil Fish
