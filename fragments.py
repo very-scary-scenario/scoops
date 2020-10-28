@@ -18,7 +18,7 @@ class Fragments(object):
 
             with open(os.path.join(DIR, filename)) as fragfile:
                 values = [f for f in [
-                    l.decode('utf-8').strip() for l in fragfile.readlines()
+                    line.strip() for line in fragfile.readlines()
                 ] if f]
 
                 for value in values:

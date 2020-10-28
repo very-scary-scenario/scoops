@@ -35,7 +35,7 @@ def make_story(html=True):
         if r not in repl:
             repl[r] = get_fragment(r.split('_')[0], html)
 
-    for k, v in repl.iteritems():
+    for k, v in repl.items():
         replacements = []
         if re.match(r'.*s\W*$', v):
             replacements.append(('<%s>’s' % k, '%s’' % v))
@@ -46,6 +46,7 @@ def make_story(html=True):
             story = story.replace(old, new)
 
     return story
+
 
 if __name__ == '__main__':
     from sys import argv
@@ -58,11 +59,10 @@ if __name__ == '__main__':
             break
 
     if tweet:
-        import random
         from time import sleep
 
         if wait:
-            sleep(60 * 60 * random.random())
+            sleep(60 * 60 * random())
 
         from secrets import consumer_key, consumer_secret, key, secret
         import tweepy
@@ -74,4 +74,4 @@ if __name__ == '__main__':
         api.update_status(story)
 
     else:
-        print story
+        print(story)

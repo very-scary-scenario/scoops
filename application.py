@@ -1,13 +1,7 @@
-#!/usr/bin/env python2
-# -*- coding: utf-8 -*-
+#!/usr/bin/env python3
 
 import sys
 import os
-
-d = os.path.realpath(os.path.dirname(__file__))
-
-sys.path.append(d)
-os.chdir(d)
 
 import bottle
 
@@ -38,8 +32,9 @@ def raw(name='Raw'):
     bottle.response.content_type = 'text/plain; charset=utf-8'
 
     return '\n'.join([
-        make_story(html=html) for x in xrange(min(500, count))
+        make_story(html=html) for x in range(min(500, count))
     ])
+
 
 application = bottle.default_app()
 
