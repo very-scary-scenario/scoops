@@ -1,7 +1,7 @@
 E3
 PAX
 GDC
-TGS
+Tokyo Game Show
 BlizzCon
 Fanfest
 EGX
@@ -9,3 +9,4 @@ Comic-Con
 the PlayStation Experience
 The Game Awards
 Paris Games Week
+Space World
