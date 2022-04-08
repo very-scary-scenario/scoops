@@ -1,35 +1,41 @@
-Neo Geo
-Super Nintendo
-Genesis
+3DO
+Android
+Apple TV
+Atari 2600
 Dreamcast
+Game Boy Color
+GameCube
+Genesis
+iPad
+iPhone
+Neo Geo
+New Nintendo 3DS
+Nintendo 3DS
 Nintendo 64
+Nintendo DS
+Nintendo Switch
+Ouya
+PC
+Playdate
 PlayStation
 PlayStation 2
 PlayStation 3
-Xbox
-Xbox 360
-Wii
-Wii U
-Atari 2600
-Nintendo DS
-Game Boy Color
-Nintendo 3DS
+PlayStation 4
+PlayStation 4 Pro
+PlayStation 5
 PlayStation Vita
 PSP
-PlayStation 4
-Xbox One
-iPhone
-iPad
-Ouya
-3DO
-New Nintendo 3DS
-GameCube
-Android
-Windows Phone
-Nintendo Switch
-Apple TV
-PC
-Tapwave Zodiac
-PlayStation 4 Pro
-Xbox One X
 Stadia
+Steam Deck
+Super Nintendo
+Tapwave Zodiac
+Wii
+Wii U
+Windows Phone
+Xbox
+Xbox 360
+Xbox One
+Xbox One S
+Xbox One X
+Xbox Series S
+Xbox Series X
