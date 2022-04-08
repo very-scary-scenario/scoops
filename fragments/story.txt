@@ -86,7 +86,7 @@ The jig is up! <game> is revealed to be Frog Fractions 3.
 Puzzling. Confusing. Terrifying. How did <game> make it through Steam Greenlight?
 The news of <company>’s closure has been met with uproar, after it was announced on-stage at <event>.
 Is it true that Netflix is creating a live-action series of <company>’s <game>?
-<genre> games are coming back to consoles, but will we see <peripheral> support?
+We know that <genre> games are coming back to consoles, but will we see <peripheral> support?
 In unforseen news, Hollywood looks set to make a major motion picture based on the <game> franchise.
 We’re happy to reveal that <luminary> is the new hire for <publication>.
 <community> users have taken it upon themselves to create a HD remaster of <game>. <company> refused to comment.
@@ -175,7 +175,7 @@ Following litigation from a European board games manufacturer, <game_a> has been
 <company> has announced that <game> will be fueled by the data of Ronaldo.
 For <celebrity>, gaming is a religion, and <game> is the shit.
 An interview with <publication> has revealed that <game> was only 20% complete two weeks before release. 
-An in-development version of <game>, shown to the public at Space World 1997, has been leaked online.
+An in-development version of <game>, shown to the public at <event> 1997, has been leaked online.
 In a press release today, <company> have confirmed that their live-stream for <event> will only feature future <platform> games.
 After an incredible backlash, <company> has removed all microtransactions from <game> until further notice.
 Pre-orders for the <company>’s new game <game> have gone live, including a game and amiibo bundle. North America and Canada only.
@@ -202,5 +202,11 @@ It is rumoured that <icon> will be the next DLC character for Super Smash Bros. 
 The classic <platform_a> game <game> will be heading to <platform_b> next week.
 The developers of <game> are facing backlash from fans after the announcement that it’ll be releasing as a a <vendor> exclusive.
 Popular indie title <game> is getting a patch this week, fixing a typo that went unnoticed for over six years.
-As a special bonus, <game> players with <online> membership can claim 100 free Gem Apples to use in the game!
+As a special bonus, <game> players with <online> membership can claim 100 free <currency> to use in the game!
 Speaking of competitor <game_a>’s popularity, <luminary> said “<game_b> is built like a mossy boulder sitting in a babbling brook - it’ll be there if and when you want it in the future”.
+Gamers are outraged after multiple instances of stick drift have been discovered in <console> controllers.
+New <console> stock is still nowhere to be found. We have approached <company> for comment.
+We are hearing rumours of an upcoming acquisition of <company>. Could we finally get a sequel to <game>?
+<game> is this week’s free game on <online>. 
+<game> has now launched, with one year exclusivity for <online> members.
+As part of this month’s offerings, <online> suscribers can acquire a whopping 500 <currency> for <game>.
