@@ -1,86 +1,90 @@
-Mario
-Luigi
-Princess Peach
-Wario
-Waluigi
-Pikachu
-Donkey Kong
-Link
-Ganondorf
-Samus
-Yoshi
-Kirby
-Fox
+Agent 47
+Albert Wesker
+Alex Kidd
+Altaïr
+Batman
+Big Boss
+Bomberman
 Bowser
 Bowser Jr.
-Zelda
-Marth
-Little Mac
-Shulk
-Mega Man
-Sonic
-Solid Snake
-Big Boss
-Rayman
-Ryu
-M. Bison
-Nathan Drake
-Soap MacTavish
-Lightning
-Cloud Strife
-Sephiroth
-Tiger Woods
-Altaïr
-Ezio Auditore
-Desmond Miles
-Albert Wesker
 Chris Redfield
 Claire Redfield
-Jill Valentine
-Leon S. Kennedy
-Master Chief
+Cloud Strife
+Commander Shepard
 Cortana
 Crash Bandicoot
-Spyro
-Heihachi Mishima
-Kazuya Mishima
-Yoshimitsu
-Phoenix Wright
-Miles Edgeworth
-Pac-Man
-Lara Croft
-Goku
-Frieza
-Luke Skywalker
 Darth Vader
-James Bond
-Tony Hawk
-Spider-Man
-Wolverine
-Scorpion
-Sub-Zero
-K.K. Slider
-Tom Nook
-Mr. Resetti
-Dr. Robotnik
-Batman
-Kratos
-Simon Belmont
-Frogger
-Gordon Freeman
-Professor Layton
-Commander Shepard
-Bomberman
-Naruto
-Agent 47
-Frank West
-Max Payne
-Godzilla
-Alex Kidd
-Leisure Suit Larry
-Segata Sanshiro
-Ryu Hayabusa
+Desmond Miles
 Dirk the Daring
-Marcus Fenix
-Linkle
+Donkey Kong
+Dr. Robotnik
+Ezio Auditore
+Fox
+Frank West
+Frieza
+Frogger
+Ganondorf
+Gex
+Godzilla
+Goku
+Gordon Freeman
 Guybrush Threepwood
+Heihachi Mishima
+Isabelle
+James Bond
+Jill Valentine
+K.K. Slider
+Kazuya Mishima
+Kirby
+Knack
+Kratos
+Lara Croft
+Leisure Suit Larry
+Leon S. Kennedy
+Lightning
+Link
+Linkle
+Little Mac
+Luigi
+Luke Skywalker
+M. Bison
+Marcus Fenix
+Mario
+Marth
+Master Chief
+Max Payne
+Mega Man
+Miles Edgeworth
+Mr. Resetti
+Naruto
+Nathan Drake
+Pac-Man
+Phoenix Wright
+Pikachu
+Princess Peach
+Professor Layton
+Rayman
+Ryu
+Ryu Hayabusa
+Samus
+Scorpion
+Segata Sanshiro
+Sephiroth
+Shulk
+Simon Belmont
+Soap MacTavish
+Solid Snake
+Sonic
+Spider-Man
+Spyro
+Steve
+Sub-Zero
+Tiger Woods
+Tom Nook
+Tony Hawk
+Waluigi
+Wario
+Wolverine
+Yoshi
+Yoshimitsu
+Zelda
