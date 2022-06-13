@@ -1,12 +1,13 @@
-E3
-PAX
-GDC
-Tokyo Game Show
 BlizzCon
-Fanfest
-EGX
 Comic-Con
-the PlayStation Experience
-The Game Awards
+E3
+EGX
+Fanfest
+GDC
+PAX
 Paris Games Week
 Space World
+Summer Game Fest
+The Game Awards
+Tokyo Game Show
+the PlayStation Experience
