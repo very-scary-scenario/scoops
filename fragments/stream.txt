@@ -3,3 +3,5 @@ Twitch
 Hitbox
 Ustream
 Mixer
+Floatplane
+Bilibili
