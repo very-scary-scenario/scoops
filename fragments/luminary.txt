@@ -1,4 +1,4 @@
-
+Akira Toriyama
 Alexey Pajitnov
 American McGee
 Chris Hecker
@@ -9,10 +9,12 @@ David Jaffe
 Derek Yu
 Ed Boon
 Edmund McMillen
+Eiji Aonuma
 Eric Barone
 Gabe Newell
 Harvey Smith
 Hatsune Miku
+Hideki Kamiya
 Hideo Kojima
 Jason West
 Jeff Minter
@@ -21,6 +23,7 @@ John Drake
 John Vignocchi
 Jonathan Blow
 Josef Fares
+Keiji Inafune
 Ken Levine
 Kenta Cho
 Kim Swift
@@ -34,11 +37,15 @@ Sam Houser
 Satoshi Tajiri
 Shigeru Miyamoto
 Shinji Hashimoto
+Shinji Mikami
 Sid Meier
 Swery
 Tak Fujii
 Tetsuya Mizuguchi
 Tim Schafer
+Tim Sweeney
+Toshihiro Nagoshi
 Vince Zampella
 Warren Spector
 Will Wright
+Yuji Naka
