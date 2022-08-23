@@ -1,43 +1,71 @@
+0verflow
 1C Company
 22 Cans
 2D Boy
 2K Games
+343 Industries
+3D Realms
+4A Games
 505 Games
 5th Cell
+8ing
 Access Games
 Acclaim
+Acquire
 Activision
 Aksys Games
 Arc System Works
+Arika
+Arkane Studios
+Artdink
 Atari
 Atlus
+Avalanche Studios
+B.B. Studio
 Bandai Namco
 Banpresto
+Behaviour Interactive
 Bethesda
-Bioware
+BioWare
 Bizarre Creations
 Blendo Games
+Bluepoint Games
 Blizzard
+Bloober Team
 Bohemia Interactive
 Bullfrog
+Bungie
 Capcom
 Carbon Neutral Games
+CAVE
 CCP
+CD Projekt Red
+Certain Affinity
 Choice Provisions
 Chronic Logic
 CINEMAX
 Cipher Prime
 Codemasters
+Cold Iron Studios
+Compile Heart
 Compulsion Games
+Creative Assembly
+Creatures Inc.
 Crytek
+CyberConnect2
+Cygames
 Dark Energy Digital
 Data East
+Deck13 Interactive
 Deep Silver
 Dejobaan
 Devolver Digital
+Digital Eclipse
 Digital Leisure
+Dimps
 Disney Interactive
 DMA Design
+Don't Nod
 Double Fine
 Double Helix Games
 DrinkBox Studios
@@ -45,8 +73,11 @@ EA
 EA Sports
 Edge Games
 Eidos
+Embark Studios
 Epic Games
 Eurocom
+Facepunch Studios
+Firaxis Games
 Firefly Studios
 Focus Home Interactive
 Frictional Games
@@ -55,13 +86,20 @@ Frontier Developments
 Game Freak
 Gameloft
 Gearbox Software
-Grasshopper
+Genius Sonority
+Good-Feel
+Grasshopper Manufacture
+Grezzo
 GRIN
+Guerilla Games
+Gust
 HAL Laboratory
+Hangar 13
 Harmonix
 Hello Games
 Hipster Whale
-Hudson
+Housemarque
+Hudson Soft
 id
 Illusion
 Infinity Ward
@@ -70,7 +108,12 @@ Intelligent Systems
 Inti Creates
 Introversion
 inXile
+IO Interactive
+Irrational Games
 Iron Galaxy Studios
+Jackbox Games
+Jagex
+Jupiter
 Koei Tecmo Games
 Kojima Productions
 Konami
@@ -79,6 +122,8 @@ Lionhead
 Llamasoft
 LucasArts
 Majesco
+Marvelous Inc.
+Massive Entertainment
 Maxis
 Media Molecule
 Meridian4
@@ -87,53 +132,73 @@ MicroProse
 Microsoft
 Midway
 Mojang
+Monolith Soft
 Mousechief
+Natsume
 Naughty Dog
-NCsoft
+NCSoft
 NetherRealm Studios
 Neversoft
 Niantic
+Nicalis
 Nifflas
+Ninja Theory
 Nintendo
 Nippon Ichi Software
 NIS America
 Nnooo
+Obsidian Entertainment
 Oddworld Inhabitants
+Omega Force
 Overdrive
 Paradox Interactive
 Penny Arcade
+People Can Fly
 Platinum Games
 Playdead
+Playground Games
+Polyphony Digital
 Polytron
 Pony Canyon
 PopCap
+Psyonix
 Pure FPS
 Q-Games
 Quantic Dream
 Queasy Games
 Rare
 Respawn Entertainment
+Retro Studios
+Riot Games
 Rising Star Games
 Rockstar
 Rockstar North
 Rocksteady Studios
 Rovio
 Runic Games
+Ryu Ga Gotoku Studio
 Sandlot
 Sega
+SIE Japan Studio
 Sierra
 Sledgehammer Games
 SNK Playmore
 Sonic Team
 Sony
+Spike Chunsoft
+Sports Interactive
 Square Enix
 Stardock
 Studio Pixel
+Studio Wildcard
+Sumo Digital
 SunSoft
 Supergiant Games
 Supermassive Games
 Taito
 Take-Two
+Tango Gameworks
+Team Asobi
 Team Bondi
 Team Meat
 Team17
@@ -144,10 +209,16 @@ The Bartlet Jones Supernatural Detective Agency
 The Chinese Room
 The Game Atelier
 The Game Factory
+The Initiative
 THQ
+TiMi Studios
 Tokyo RPG Factory
+Toys for Bob
 Traveller’s Tales
 Treyarch
+tri-Ace
+Turn 10
+Turtle Rock Studios
 Twisted Pixel
 Two Tribes
 Ubisoft
@@ -156,7 +227,9 @@ Valve
 VectorCell
 Vicarious Visions
 Videlectrix
-Warner Brothers
+Visual Concepts
+WB Games
+WB Games Montreal
 WayForward
 XSEED Games
 Zen Studios
