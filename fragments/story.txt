@@ -172,7 +172,7 @@ In the remake of <game>, one modern enhancement will expand your adventure: down
 Following litigation from a European board games manufacturer, <game_a> has been renamed to <game_b>.
 <publication> has published a 35,000 word article on the untold history of the <franchise> franchise.
 <company> has said that they call the <platform> controller ‘the Stradivarius of controllers’.
-<company> has announced that <game> will be fueled by the data of Ronaldo.
+<company> has announced that <game> will be fueled by the data of <celebrity>.
 For <celebrity>, gaming is a religion, and <game> is the shit.
 An interview with <publication> has revealed that <game> was only 20% complete two weeks before release. 
 An in-development version of <game>, shown to the public at <event> 1997, has been leaked online.
